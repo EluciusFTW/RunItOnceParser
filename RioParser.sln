@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RioParser.Console", "RioParser.Console\RioParser.Console.csproj", "{F36FCF04-DE40-479D-A57C-6AAF13D6D48F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F36FCF04-DE40-479D-A57C-6AAF13D6D48F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F36FCF04-DE40-479D-A57C-6AAF13D6D48F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F36FCF04-DE40-479D-A57C-6AAF13D6D48F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F36FCF04-DE40-479D-A57C-6AAF13D6D48F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {29E7FCD8-A1F7-4BF9-A603-EF03926EF537}
+	EndGlobalSection
+EndGlobal
