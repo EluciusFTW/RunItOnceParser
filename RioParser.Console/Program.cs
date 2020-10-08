@@ -1,4 +1,6 @@
-﻿using System.IO;
+﻿using RioParser.Console.Extensions;
+using System.Collections.Generic;
+using System.IO;
 using System.Linq;
 
 namespace RioParser.Console
@@ -7,23 +9,32 @@ namespace RioParser.Console
     {
         static void Main(string[] args)
         {
-            var directory = @"D:\Temp\RioHHs";
-            var files = Directory.GetFiles(directory);
+            var handhistoryFiles = LoadFiles();
+            System.Console.WriteLine($"Found {handhistoryFiles.Count} files to process.");
 
-            foreach(var f in files)
+            handhistoryFiles.ForEach(file =>
             {
-                System.Console.WriteLine("Found: " + f);
-                System.Console.WriteLine(Parse(f));
-            }
+                System.Console.WriteLine($"Processing {file.Name} containing {file.Hands.Count} hands.");
+                System.Console.Write(file.PrintOut());
+                System.Console.WriteLine("----------------------------------------");
+            });
 
             System.Console.ReadKey();
         }
 
-        private static string Parse(string f)
+        private static IReadOnlyCollection<HandHistoryFile> LoadFiles()
         {
-            var content = File.ReadAllText(f);
-            var hhFile = new HandHistoryFile(content);
-            return hhFile.PrintOut();
+            var directory = @"D:\Temp\RioHHs";
+            return new DirectoryInfo(directory)
+                .GetFiles()
+                .Where(MatchesHandHistoryFileFormat)
+                .Select(fileInfo => new HandHistoryFile(fileInfo))
+                .ToList();
+        }
+
+        private static bool MatchesHandHistoryFileFormat(FileInfo fileInfo)
+        {
+            return fileInfo.Extension == ".txt";
         }
     }
 }

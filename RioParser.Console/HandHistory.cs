@@ -35,7 +35,7 @@ namespace RioParser.Console
             .TakeAfter('.', 2)
             .ToDecimal();
 
-        public string Winner => new String(_summary
+        public string Winner => new string(_summary
             .LineContaining(" won €")
             .Skip(8)
             .TakeWhile(c => c != ' ').ToArray());
