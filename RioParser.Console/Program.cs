@@ -12,14 +12,26 @@ namespace RioParser.Console
             var handhistoryFiles = LoadFiles();
             System.Console.WriteLine($"Found {handhistoryFiles.Count} files to process.");
 
-            handhistoryFiles.ForEach(file =>
-            {
-                System.Console.WriteLine($"Processing {file.Name} containing {file.Hands.Count} hands.");
-                System.Console.Write(file.PrintOut());
-                System.Console.WriteLine("----------------------------------------");
-            });
+            Process(handhistoryFiles);
+            System.Console.WriteLine($"Finished processing.");
 
             System.Console.ReadKey();
+        }
+
+        private static void Process(IReadOnlyCollection<HandHistoryFile> handhistoryFiles)
+        {
+            handhistoryFiles
+                .SelectMany(file =>
+                {
+                    System.Console.WriteLine($"Processing {file.Name} containing {file.Hands.Count} hands.");
+                    return file.Hands;
+                })
+                .GroupBy(hand => hand.BigBlind)
+                .ForEach(hands =>
+                {
+                    var report = new HandsReport("MiamiBlues", hands.ToList());
+                    System.Console.WriteLine(report.PrintOut());
+                });
         }
 
         private static IReadOnlyCollection<HandHistoryFile> LoadFiles()
