@@ -9,44 +9,35 @@ namespace RioParser.Console
     {
         static void Main(string[] args)
         {
-            var handhistoryFiles = LoadFiles();
+            var handhistoryFiles = LoadFiles(@"D:\Temp\RioHHs");
             System.Console.WriteLine($"Found {handhistoryFiles.Count} files to process.");
 
-            Process(handhistoryFiles);
-            System.Console.WriteLine($"Finished processing.");
+            var reports = Process(handhistoryFiles, "MiamiBlues");
+            System.Console.WriteLine($"Finished processing hand histories.");
 
+            reports.ForEach(report => System.Console.WriteLine(report.PrintOut()));
             System.Console.ReadKey();
         }
 
-        private static void Process(IReadOnlyCollection<HandHistoryFile> handhistoryFiles)
-        {
-            handhistoryFiles
+        private static IReadOnlyCollection<HandsReport> Process(IReadOnlyCollection<HandHistoryFile> handhistoryFiles, string hero) 
+            => handhistoryFiles
                 .SelectMany(file =>
                 {
                     System.Console.WriteLine($"Processing {file.Name} containing {file.Hands.Count} hands.");
                     return file.Hands;
                 })
                 .GroupBy(hand => hand.BigBlind)
-                .ForEach(hands =>
-                {
-                    var report = new HandsReport("MiamiBlues", hands.ToList());
-                    System.Console.WriteLine(report.PrintOut());
-                });
-        }
+                .Select(hands => new HandsReport(hero, hands.ToList()))
+                .ToList();
 
-        private static IReadOnlyCollection<HandHistoryFile> LoadFiles()
-        {
-            var directory = @"D:\Temp\RioHHs";
-            return new DirectoryInfo(directory)
+        private static IReadOnlyCollection<HandHistoryFile> LoadFiles(string path) 
+            => new DirectoryInfo(path)
                 .GetFiles()
                 .Where(MatchesHandHistoryFileFormat)
                 .Select(fileInfo => new HandHistoryFile(fileInfo))
                 .ToList();
-        }
 
-        private static bool MatchesHandHistoryFileFormat(FileInfo fileInfo)
-        {
-            return fileInfo.Extension == ".txt";
-        }
+        private static bool MatchesHandHistoryFileFormat(FileInfo fileInfo) 
+            => fileInfo.Extension == ".txt";
     }
 }
