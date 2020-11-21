@@ -1,4 +1,4 @@
-﻿using System.Linq;
+using System.Linq;
 using RioParser.Domain.Extensions;
 
 namespace RioParser.Domain.HandHistories
