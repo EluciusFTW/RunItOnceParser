@@ -1,0 +1,1164 @@
+Run It Once Poker Hand #45239304:  Omaha Pot Limit (€0.05/€0.10) - 2020/05/24 17:50 UTC [2020/05/24 18:50 CET]
+Table ID '45239300' 6-Max Seat #1 is the button
+Seat 1: MiamiBlues (€10 in chips)
+Seat 4: Grayson C (€10 in chips)
+MiamiBlues: posts small blind €0.05
+Grayson C: posts big blind €0.10
+*** HOLE CARDS ***
+Dealt to Grayson C [3c 4s Td 7d]
+Dealt to MiamiBlues [5s 6d 4d 2h]
+MiamiBlues: raises €0.20 to €0.30
+Grayson C: calls €0.20
+*** FLOP *** [4c 3h Tc]
+Grayson C: checks
+MiamiBlues: bets €0.57
+Grayson C: raises €1.71 to €2.28
+MiamiBlues: calls €1.71
+*** TURN *** [4c 3h Tc] [Th]
+Grayson C: bets €1.40
+MiamiBlues: folds
+Grayson C: mucks hand
+*** SHOWDOWN ***
+Grayson C: mucks hand
+Uncalled bet (€1.40) returned to Grayson C
+Grayson C collected €4.93 from pot
+*** SUMMARY ***
+Total pot €5.16 | Main pot €5.16 | Side pot €0.00 | Rake €0.23
+Board [4c 3h Tc Th]
+Seat 1: MiamiBlues (small blind/button) folded before River
+Seat 4: Grayson C (big blind) mucked hand and won €4.93
+
+
+**** **** **** **** **** **** **** ****
+
+
+Run It Once Poker Hand #45239312:  Omaha Pot Limit (€0.05/€0.10) - 2020/05/24 17:50 UTC [2020/05/24 18:50 CET]
+Table ID '45239300' 6-Max Seat #4 is the button
+Seat 1: MiamiBlues (€10 in chips)
+Seat 4: Grayson C (€12.35 in chips)
+Grayson C: posts small blind €0.05
+MiamiBlues: posts big blind €0.10
+*** HOLE CARDS ***
+Dealt to MiamiBlues [7h 9h 5d 9s]
+Dealt to Grayson C [9c Kc Td Ts]
+Grayson C: raises €0.20 to €0.30
+MiamiBlues: calls €0.20
+*** FLOP *** [Ac Th Js]
+MiamiBlues: checks
+Grayson C: bets €0.43
+MiamiBlues: folds
+Grayson C: mucks hand
+*** SHOWDOWN ***
+Grayson C: mucks hand
+Uncalled bet (€0.43) returned to Grayson C
+Grayson C collected €0.57 from pot
+*** SUMMARY ***
+Total pot €0.60 | Main pot €0.60 | Side pot €0.00 | Rake €0.03
+Board [Ac Th Js]
+Seat 1: MiamiBlues (big blind) folded before Turn
+Seat 4: Grayson C (small blind/button) mucked hand and won €0.57
+
+
+**** **** **** **** **** **** **** ****
+
+
+Run It Once Poker Hand #45239317:  Omaha Pot Limit (€0.05/€0.10) - 2020/05/24 17:51 UTC [2020/05/24 18:51 CET]
+Table ID '45239300' 6-Max Seat #1 is the button
+Seat 1: MiamiBlues (€10 in chips)
+Seat 4: Grayson C (€12.62 in chips)
+MiamiBlues: posts small blind €0.05
+Grayson C: posts big blind €0.10
+*** HOLE CARDS ***
+Dealt to Grayson C [8h 9h 4c 3d]
+Dealt to MiamiBlues [2d 6d Qs Kc]
+MiamiBlues: folds
+*** SHOWDOWN ***
+Grayson C: mucks hand
+Grayson C collected €0.15 from pot
+*** SUMMARY ***
+Total pot €0.15 | Main pot €0.15 | Side pot €0.00 | Rake €0.00
+Seat 1: MiamiBlues (small blind/button) folded before Flop
+Seat 4: Grayson C (big blind) mucked hand and won €0.15
+
+
+**** **** **** **** **** **** **** ****
+
+
+Run It Once Poker Hand #45239318:  Omaha Pot Limit (€0.05/€0.10) - 2020/05/24 17:51 UTC [2020/05/24 18:51 CET]
+Table ID '45239300' 6-Max Seat #4 is the button
+Seat 1: MiamiBlues (€10 in chips)
+Seat 4: Grayson C (€12.67 in chips)
+Grayson C: posts small blind €0.05
+MiamiBlues: posts big blind €0.10
+*** HOLE CARDS ***
+Dealt to MiamiBlues [Qh Ks 2d 4d]
+Dealt to Grayson C [3d Tc 9s Th]
+Grayson C: folds
+*** SHOWDOWN ***
+MiamiBlues: mucks hand
+MiamiBlues collected €0.15 from pot
+*** SUMMARY ***
+Total pot €0.15 | Main pot €0.15 | Side pot €0.00 | Rake €0.00
+Seat 4: Grayson C (small blind/button) folded before Flop
+Seat 1: MiamiBlues (big blind) mucked hand and won €0.15
+
+
+**** **** **** **** **** **** **** ****
+
+
+Run It Once Poker Hand #45239320:  Omaha Pot Limit (€0.05/€0.10) - 2020/05/24 17:51 UTC [2020/05/24 18:51 CET]
+Table ID '45239300' 6-Max Seat #1 is the button
+Seat 1: MiamiBlues (€10.05 in chips)
+Seat 4: Grayson C (€12.62 in chips)
+MiamiBlues: posts small blind €0.05
+Grayson C: posts big blind €0.10
+*** HOLE CARDS ***
+Dealt to Grayson C [Ks Th Qs Qd]
+Dealt to MiamiBlues [Ah Kc Kd 3s]
+MiamiBlues: raises €0.20 to €0.30
+Grayson C: raises €0.60 to €0.90
+MiamiBlues: raises €1.80 to €2.70
+Grayson C: calls €1.80
+*** FLOP *** [5s Jd Ts]
+Grayson C: bets €5.16
+MiamiBlues: raises €2.19 to €7.35 and is all-in
+Grayson C: calls €2.19
+*** TURN *** [5s Jd Ts] [As]
+*** RIVER *** [5s Jd Ts As] [4d]
+*** SHOWDOWN ***
+Grayson C shows [Ks Th Qs Qd] for Flush [As Ks Qs Ts 5s]
+Grayson C collected €19.60 from pot
+*** SUMMARY ***
+Total pot €20.10 | Main pot €20.10 | Side pot €0.00 | Rake €0.50
+Board [5s Jd Ts As 4d]
+Seat 4: Grayson C (big blind) showed [Ks Th Qs Qd] and won €19.60 with Flush high As
+Seat 1: MiamiBlues (small blind/button) mucked [Ah Kc Kd 3s] and lost
+
+
+**** **** **** **** **** **** **** ****
+
+
+Run It Once Poker Hand #45239328:  Omaha Pot Limit (€0.05/€0.10) - 2020/05/24 17:51 UTC [2020/05/24 18:51 CET]
+Table ID '45239300' 6-Max Seat #4 is the button
+Seat 1: MiamiBlues (€10 in chips)
+Seat 4: Grayson C (€22.17 in chips)
+Grayson C: posts small blind €0.05
+MiamiBlues: posts big blind €0.10
+*** HOLE CARDS ***
+STP added: €0.30
+Dealt to MiamiBlues [Jc Qs Ks 3c]
+Dealt to Grayson C [8h 7c 9c As]
+Grayson C: raises €0.10 to €0.20
+MiamiBlues: raises €0.40 to €0.60
+Grayson C: calls €0.40
+*** FLOP *** [7d Tc Ad]
+MiamiBlues: bets €0.75
+Grayson C: calls €0.75
+*** TURN *** [7d Tc Ad] [Ac]
+MiamiBlues: bets €1.25
+Grayson C: calls €1.25
+*** RIVER *** [7d Tc Ad Ac] [4s]
+MiamiBlues: checks
+Grayson C: bets €3.95
+MiamiBlues: folds
+Grayson C: mucks hand
+*** SHOWDOWN ***
+Grayson C: mucks hand
+Uncalled bet (€3.95) returned to Grayson C
+Grayson C collected €5.27 from pot
+*** SUMMARY ***
+Total pot €5.50 | Main pot €5.20 | Side pot €0.00 | STP €0.30 | Rake €0.23
+Board [7d Tc Ad Ac 4s]
+Seat 1: MiamiBlues (big blind) folded during River
+Seat 4: Grayson C (small blind/button) mucked hand and won €5.27
+
+
+**** **** **** **** **** **** **** ****
+
+
+Run It Once Poker Hand #45239338:  Omaha Pot Limit (€0.05/€0.10) - 2020/05/24 17:52 UTC [2020/05/24 18:52 CET]
+Table ID '45239300' 6-Max Seat #1 is the button
+Seat 1: MiamiBlues (€10 in chips)
+Seat 4: Grayson C (€24.84 in chips)
+MiamiBlues: posts small blind €0.05
+Grayson C: posts big blind €0.10
+*** HOLE CARDS ***
+Dealt to Grayson C [3c 6s 7h Ac]
+Dealt to MiamiBlues [Ks 8c 9h Qd]
+MiamiBlues: raises €0.20 to €0.30
+Grayson C: calls €0.20
+*** FLOP *** [8s 2d Kh]
+Grayson C: checks
+MiamiBlues: bets €0.57
+Grayson C: folds
+MiamiBlues: mucks hand
+*** SHOWDOWN ***
+MiamiBlues: mucks hand
+Uncalled bet (€0.57) returned to MiamiBlues
+MiamiBlues collected €0.57 from pot
+*** SUMMARY ***
+Total pot €0.60 | Main pot €0.60 | Side pot €0.00 | Rake €0.03
+Board [8s 2d Kh]
+Seat 4: Grayson C (big blind) folded before Turn
+Seat 1: MiamiBlues (small blind/button) mucked hand and won €0.57
+
+
+**** **** **** **** **** **** **** ****
+
+
+Run It Once Poker Hand #45239344:  Omaha Pot Limit (€0.05/€0.10) - 2020/05/24 17:53 UTC [2020/05/24 18:53 CET]
+Table ID '45239300' 6-Max Seat #1 is the button
+Seat 1: MiamiBlues (€10.27 in chips)
+Seat 4: Grayson C (€24.54 in chips)
+Seat 6: Terrance R (€10 in chips)
+Grayson C: posts small blind €0.05
+Terrance R: posts big blind €0.10
+*** HOLE CARDS ***
+Dealt to Grayson C [7s 7c 4s 3h]
+Dealt to Terrance R [6d Jc 9c 7d]
+Dealt to MiamiBlues [As 7h 9h 8d]
+MiamiBlues: raises €0.25 to €0.35
+Grayson C: folds
+Terrance R: calls €0.25
+*** FLOP *** [4h Ah Th]
+Terrance R: checks
+MiamiBlues: bets €0.36
+Terrance R: folds
+MiamiBlues: mucks hand
+*** SHOWDOWN ***
+MiamiBlues: mucks hand
+Uncalled bet (€0.36) returned to MiamiBlues
+MiamiBlues collected €0.72 from pot
+*** SUMMARY ***
+Total pot €0.75 | Main pot €0.75 | Side pot €0.00 | Rake €0.03
+Board [4h Ah Th]
+Seat 4: Grayson C (small blind) folded before Flop
+Seat 6: Terrance R (big blind) folded before Turn
+Seat 1: MiamiBlues (button) mucked hand and won €0.72
+
+
+**** **** **** **** **** **** **** ****
+
+
+Run It Once Poker Hand #45239351:  Omaha Pot Limit (€0.05/€0.10) - 2020/05/24 17:54 UTC [2020/05/24 18:54 CET]
+Table ID '45239300' 6-Max Seat #4 is the button
+Seat 1: MiamiBlues (€10.64 in chips)
+Seat 4: Grayson C (€24.49 in chips)
+Seat 6: Terrance R (€9.65 in chips)
+Terrance R: posts small blind €0.05
+MiamiBlues: posts big blind €0.10
+*** HOLE CARDS ***
+Dealt to Terrance R [Jc 7h Jd 8d]
+Dealt to MiamiBlues [9d 5h Ks 8h]
+Dealt to Grayson C [Td Tc 5s As]
+Grayson C: raises €0.25 to €0.35
+Terrance R: calls €0.30
+MiamiBlues: folds
+*** FLOP *** [9h 6s Js]
+Terrance R: bets €0.57
+Grayson C: calls €0.57
+*** TURN *** [9h 6s Js] [Qs]
+Terrance R: checks
+Grayson C: bets €1
+Terrance R: calls €1
+*** RIVER *** [9h 6s Js Qs] [Kh]
+Terrance R: checks
+Grayson C: bets €3
+Terrance R: folds
+Grayson C: mucks hand
+*** SHOWDOWN ***
+Grayson C: mucks hand
+Uncalled bet (€3) returned to Grayson C
+Grayson C collected €3.76 from pot
+*** SUMMARY ***
+Total pot €3.94 | Main pot €3.94 | Side pot €0.00 | Rake €0.18
+Board [9h 6s Js Qs Kh]
+Seat 1: MiamiBlues (big blind) folded before Flop
+Seat 6: Terrance R (small blind) folded during River
+Seat 4: Grayson C (button) mucked hand and won €3.76
+
+
+**** **** **** **** **** **** **** ****
+
+
+Run It Once Poker Hand #45239363:  Omaha Pot Limit (€0.05/€0.10) - 2020/05/24 17:55 UTC [2020/05/24 18:55 CET]
+Table ID '45239300' 6-Max Seat #6 is the button
+Seat 1: MiamiBlues (€10.54 in chips)
+Seat 3: Roderick P (€10 in chips)
+Seat 4: Grayson C (€26.33 in chips)
+Seat 6: Terrance R (€7.73 in chips)
+MiamiBlues: posts small blind €0.05
+Roderick P: posts big blind €0.10
+*** HOLE CARDS ***
+Dealt to MiamiBlues [Td 8c 6c Kh]
+Dealt to Roderick P [2s 8s 9d 5d]
+Dealt to Grayson C [As 4s 3c Ah]
+Dealt to Terrance R [7s Kd 5s 6h]
+Grayson C: raises €0.25 to €0.35
+Terrance R: folds
+MiamiBlues: folds
+Roderick P: folds
+*** SHOWDOWN ***
+Grayson C: mucks hand
+Uncalled bet (€0.25) returned to Grayson C
+Grayson C collected €0.25 from pot
+*** SUMMARY ***
+Total pot €0.25 | Main pot €0.25 | Side pot €0.00 | Rake €0.00
+Seat 6: Terrance R (button) folded before Flop
+Seat 1: MiamiBlues (small blind) folded before Flop
+Seat 3: Roderick P (big blind) folded before Flop
+Seat 4: Grayson C mucked hand and won €0.25
+
+
+**** **** **** **** **** **** **** ****
+
+
+Run It Once Poker Hand #45239368:  Omaha Pot Limit (€0.05/€0.10) - 2020/05/24 17:55 UTC [2020/05/24 18:55 CET]
+Table ID '45239300' 6-Max Seat #1 is the button
+Seat 1: MiamiBlues (€10.49 in chips)
+Seat 3: Roderick P (€10 in chips)
+Seat 4: Grayson C (€26.48 in chips)
+Seat 6: Terrance R (€7.73 in chips)
+Roderick P: posts small blind €0.05
+Grayson C: posts big blind €0.10
+*** HOLE CARDS ***
+Dealt to Roderick P [6h Kd 7s 5h]
+Dealt to Grayson C [5d 4c 5c 2s]
+Dealt to Terrance R [Ac 2c 7d Kc]
+Dealt to MiamiBlues [Tc Kh 6s Ah]
+Terrance R: folds
+MiamiBlues: raises €0.25 to €0.35
+Roderick P: folds
+Grayson C: folds
+*** SHOWDOWN ***
+MiamiBlues: mucks hand
+Uncalled bet (€0.25) returned to MiamiBlues
+MiamiBlues collected €0.25 from pot
+*** SUMMARY ***
+Total pot €0.25 | Main pot €0.25 | Side pot €0.00 | Rake €0.00
+Seat 6: Terrance R folded before Flop
+Seat 3: Roderick P (small blind) folded before Flop
+Seat 4: Grayson C (big blind) folded before Flop
+Seat 1: MiamiBlues (button) mucked hand and won €0.25
+
+
+**** **** **** **** **** **** **** ****
+
+
+Run It Once Poker Hand #45239375:  Omaha Pot Limit (€0.05/€0.10) - 2020/05/24 17:55 UTC [2020/05/24 18:55 CET]
+Table ID '45239300' 6-Max Seat #3 is the button
+Seat 1: MiamiBlues (€10.64 in chips)
+Seat 3: Roderick P (€10 in chips)
+Seat 4: Grayson C (€26.38 in chips)
+Seat 6: Terrance R (€7.73 in chips)
+Grayson C: posts small blind €0.05
+Terrance R: posts big blind €0.10
+*** HOLE CARDS ***
+Dealt to Grayson C [4s 6h Ts 8d]
+Dealt to Terrance R [8s Qh 7s 5c]
+Dealt to MiamiBlues [5d 5s Td 3c]
+Dealt to Roderick P [9d Ad 4h 6s]
+MiamiBlues: folds
+Roderick P: raises €0.25 to €0.35
+Grayson C: folds
+Terrance R: folds
+*** SHOWDOWN ***
+Roderick P: mucks hand
+Uncalled bet (€0.25) returned to Roderick P
+Roderick P collected €0.25 from pot
+*** SUMMARY ***
+Total pot €0.25 | Main pot €0.25 | Side pot €0.00 | Rake €0.00
+Seat 1: MiamiBlues folded before Flop
+Seat 4: Grayson C (small blind) folded before Flop
+Seat 6: Terrance R (big blind) folded before Flop
+Seat 3: Roderick P (button) mucked hand and won €0.25
+
+
+**** **** **** **** **** **** **** ****
+
+
+Run It Once Poker Hand #45239381:  Omaha Pot Limit (€0.05/€0.10) - 2020/05/24 17:56 UTC [2020/05/24 18:56 CET]
+Table ID '45239300' 6-Max Seat #4 is the button
+Seat 1: MiamiBlues (€10.64 in chips)
+Seat 3: Roderick P (€10.15 in chips)
+Seat 4: Grayson C (€26.33 in chips)
+Seat 6: Terrance R (€7.63 in chips)
+Terrance R: posts small blind €0.05
+MiamiBlues: posts big blind €0.10
+*** HOLE CARDS ***
+Dealt to Terrance R [3d 3h Js Kc]
+Dealt to MiamiBlues [7c 2s Ad 6s]
+Dealt to Roderick P [8d Ac 3s Tc]
+Dealt to Grayson C [2c Ks 5d 5h]
+Roderick P: folds
+Grayson C: folds
+Terrance R: folds
+*** SHOWDOWN ***
+MiamiBlues: mucks hand
+MiamiBlues collected €0.15 from pot
+*** SUMMARY ***
+Total pot €0.15 | Main pot €0.15 | Side pot €0.00 | Rake €0.00
+Seat 3: Roderick P folded before Flop
+Seat 4: Grayson C (button) folded before Flop
+Seat 6: Terrance R (small blind) folded before Flop
+Seat 1: MiamiBlues (big blind) mucked hand and won €0.15
+
+
+**** **** **** **** **** **** **** ****
+
+
+Run It Once Poker Hand #45239387:  Omaha Pot Limit (€0.05/€0.10) - 2020/05/24 17:56 UTC [2020/05/24 18:56 CET]
+Table ID '45239300' 6-Max Seat #6 is the button
+Seat 1: MiamiBlues (€10.69 in chips)
+Seat 3: Roderick P (€10.15 in chips)
+Seat 4: Grayson C (€26.33 in chips)
+Seat 6: Terrance R (€7.58 in chips)
+MiamiBlues: posts small blind €0.05
+Roderick P: posts big blind €0.10
+*** HOLE CARDS ***
+Dealt to MiamiBlues [9d 5c 7c 2d]
+Dealt to Roderick P [Qh Jh Kd 3d]
+Dealt to Grayson C [Kc Qd Js Ts]
+Dealt to Terrance R [5d 2h 4d Td]
+Grayson C: raises €0.25 to €0.35
+Terrance R: folds
+MiamiBlues: folds
+Roderick P: calls €0.25
+*** FLOP *** [Ah 2s 8c]
+Roderick P: checks
+Grayson C: bets €0.40
+Roderick P: folds
+Grayson C: mucks hand
+*** SHOWDOWN ***
+Grayson C: mucks hand
+Uncalled bet (€0.40) returned to Grayson C
+Grayson C collected €0.72 from pot
+*** SUMMARY ***
+Total pot €0.75 | Main pot €0.75 | Side pot €0.00 | Rake €0.03
+Board [Ah 2s 8c]
+Seat 6: Terrance R (button) folded before Flop
+Seat 1: MiamiBlues (small blind) folded before Flop
+Seat 3: Roderick P (big blind) folded before Turn
+Seat 4: Grayson C mucked hand and won €0.72
+
+
+**** **** **** **** **** **** **** ****
+
+
+Run It Once Poker Hand #45239393:  Omaha Pot Limit (€0.05/€0.10) - 2020/05/24 17:57 UTC [2020/05/24 18:57 CET]
+Table ID '45239300' 6-Max Seat #1 is the button
+Seat 1: MiamiBlues (€10.64 in chips)
+Seat 3: Roderick P (€10 in chips)
+Seat 4: Grayson C (€26.70 in chips)
+Seat 6: Terrance R (€7.58 in chips)
+Roderick P: posts small blind €0.05
+Grayson C: posts big blind €0.10
+*** HOLE CARDS ***
+Dealt to Roderick P [9c As 7d 2s]
+Dealt to Grayson C [3d 8s 4s 5c]
+Dealt to Terrance R [4d Kh Kd Jd]
+Dealt to MiamiBlues [5d Th Ts 8h]
+Terrance R: raises €0.10 to €0.20
+MiamiBlues: folds
+Roderick P: folds
+Grayson C: folds
+*** SHOWDOWN ***
+Terrance R: mucks hand
+Uncalled bet (€0.10) returned to Terrance R
+Terrance R collected €0.25 from pot
+*** SUMMARY ***
+Total pot €0.25 | Main pot €0.25 | Side pot €0.00 | Rake €0.00
+Seat 1: MiamiBlues (button) folded before Flop
+Seat 3: Roderick P (small blind) folded before Flop
+Seat 4: Grayson C (big blind) folded before Flop
+Seat 6: Terrance R mucked hand and won €0.25
+
+
+**** **** **** **** **** **** **** ****
+
+
+Run It Once Poker Hand #45239395:  Omaha Pot Limit (€0.05/€0.10) - 2020/05/24 17:57 UTC [2020/05/24 18:57 CET]
+Table ID '45239300' 6-Max Seat #3 is the button
+Seat 1: MiamiBlues (€10.64 in chips)
+Seat 3: Roderick P (€10 in chips)
+Seat 4: Grayson C (€26.60 in chips)
+Seat 6: Terrance R (€7.73 in chips)
+Grayson C: posts small blind €0.05
+Terrance R: posts big blind €0.10
+*** HOLE CARDS ***
+Dealt to Grayson C [4d 9s 5c 3d]
+Dealt to Terrance R [9h Ad 5s 7c]
+Dealt to MiamiBlues [Qs 8h 2d Ac]
+Dealt to Roderick P [Qh Ah 6d 4s]
+MiamiBlues: folds
+Roderick P: raises €0.25 to €0.35
+Grayson C: folds
+Terrance R: folds
+*** SHOWDOWN ***
+Roderick P: mucks hand
+Uncalled bet (€0.25) returned to Roderick P
+Roderick P collected €0.25 from pot
+*** SUMMARY ***
+Total pot €0.25 | Main pot €0.25 | Side pot €0.00 | Rake €0.00
+Seat 1: MiamiBlues folded before Flop
+Seat 4: Grayson C (small blind) folded before Flop
+Seat 6: Terrance R (big blind) folded before Flop
+Seat 3: Roderick P (button) mucked hand and won €0.25
+
+
+**** **** **** **** **** **** **** ****
+
+
+Run It Once Poker Hand #45239399:  Omaha Pot Limit (€0.05/€0.10) - 2020/05/24 17:58 UTC [2020/05/24 18:58 CET]
+Table ID '45239300' 6-Max Seat #4 is the button
+Seat 1: MiamiBlues (€10.64 in chips)
+Seat 3: Roderick P (€10.15 in chips)
+Seat 4: Grayson C (€26.55 in chips)
+Seat 6: Terrance R (€7.63 in chips)
+Terrance R: posts small blind €0.05
+MiamiBlues: posts big blind €0.10
+*** HOLE CARDS ***
+Dealt to Terrance R [Th 9s 3c 4c]
+Dealt to MiamiBlues [5c 7c 7s 3s]
+Dealt to Roderick P [Jd 6h Ac 4h]
+Dealt to Grayson C [2c Qh As 5d]
+Roderick P: folds
+Grayson C: folds
+Terrance R: folds
+*** SHOWDOWN ***
+MiamiBlues: mucks hand
+MiamiBlues collected €0.15 from pot
+*** SUMMARY ***
+Total pot €0.15 | Main pot €0.15 | Side pot €0.00 | Rake €0.00
+Seat 3: Roderick P folded before Flop
+Seat 4: Grayson C (button) folded before Flop
+Seat 6: Terrance R (small blind) folded before Flop
+Seat 1: MiamiBlues (big blind) mucked hand and won €0.15
+
+
+**** **** **** **** **** **** **** ****
+
+
+Run It Once Poker Hand #45239405:  Omaha Pot Limit (€0.05/€0.10) - 2020/05/24 17:58 UTC [2020/05/24 18:58 CET]
+Table ID '45239300' 6-Max Seat #6 is the button
+Seat 1: MiamiBlues (€10.69 in chips)
+Seat 3: Roderick P (€10.15 in chips)
+Seat 4: Grayson C (€26.55 in chips)
+Seat 6: Terrance R (€7.58 in chips)
+MiamiBlues: posts small blind €0.05
+Roderick P: posts big blind €0.10
+*** HOLE CARDS ***
+Dealt to MiamiBlues [Ts Jc 7c Ah]
+Dealt to Roderick P [Jd 7s 3h 6c]
+Dealt to Grayson C [8s Tc 7h Kh]
+Dealt to Terrance R [6s Qd 8d 4c]
+Grayson C: raises €0.25 to €0.35
+Terrance R: folds
+MiamiBlues: calls €0.30
+Roderick P: folds
+*** FLOP *** [3s Ad Th]
+MiamiBlues: checks
+Grayson C: checks
+*** TURN *** [3s Ad Th] [2d]
+MiamiBlues: bets €0.76
+Grayson C: folds
+MiamiBlues: mucks hand
+*** SHOWDOWN ***
+MiamiBlues: mucks hand
+Uncalled bet (€0.76) returned to MiamiBlues
+MiamiBlues collected €0.76 from pot
+*** SUMMARY ***
+Total pot €0.80 | Main pot €0.80 | Side pot €0.00 | Rake €0.04
+Board [3s Ad Th 2d]
+Seat 6: Terrance R (button) folded before Flop
+Seat 3: Roderick P (big blind) folded before Flop
+Seat 4: Grayson C folded before River
+Seat 1: MiamiBlues (small blind) mucked hand and won €0.76
+
+
+**** **** **** **** **** **** **** ****
+
+
+Run It Once Poker Hand #45239416:  Omaha Pot Limit (€0.05/€0.10) - 2020/05/24 17:59 UTC [2020/05/24 18:59 CET]
+Table ID '45239300' 6-Max Seat #1 is the button
+Seat 1: MiamiBlues (€11.10 in chips)
+Seat 3: Roderick P (€10.05 in chips)
+Seat 4: Grayson C (€26.20 in chips)
+Seat 6: Terrance R (€7.58 in chips)
+Roderick P: posts small blind €0.05
+Grayson C: posts big blind €0.10
+*** HOLE CARDS ***
+Dealt to Roderick P [4c 4h Ts 8s]
+Dealt to Grayson C [8d 3h Td 3s]
+Dealt to Terrance R [3c 8h Kh Jd]
+Dealt to MiamiBlues [6d 4d 2h Kd]
+Terrance R: folds
+MiamiBlues: folds
+Roderick P: folds
+*** SHOWDOWN ***
+Grayson C: mucks hand
+Grayson C collected €0.15 from pot
+*** SUMMARY ***
+Total pot €0.15 | Main pot €0.15 | Side pot €0.00 | Rake €0.00
+Seat 6: Terrance R folded before Flop
+Seat 1: MiamiBlues (button) folded before Flop
+Seat 3: Roderick P (small blind) folded before Flop
+Seat 4: Grayson C (big blind) mucked hand and won €0.15
+
+
+**** **** **** **** **** **** **** ****
+
+
+Run It Once Poker Hand #45239418:  Omaha Pot Limit (€0.05/€0.10) - 2020/05/24 17:59 UTC [2020/05/24 18:59 CET]
+Table ID '45239300' 6-Max Seat #3 is the button
+Seat 1: MiamiBlues (€11.10 in chips)
+Seat 3: Roderick P (€10 in chips)
+Seat 4: Grayson C (€26.25 in chips)
+Seat 6: Terrance R (€7.58 in chips)
+Grayson C: posts small blind €0.05
+Terrance R: posts big blind €0.10
+*** HOLE CARDS ***
+Dealt to Grayson C [4h 9d 2d Kd]
+Dealt to Terrance R [3s Kh 2c 4c]
+Dealt to MiamiBlues [2h Tc 5c 3c]
+Dealt to Roderick P [8h 2s 4d As]
+MiamiBlues: folds
+Roderick P: raises €0.25 to €0.35
+Grayson C: folds
+Terrance R: folds
+*** SHOWDOWN ***
+Roderick P: mucks hand
+Uncalled bet (€0.25) returned to Roderick P
+Roderick P collected €0.25 from pot
+*** SUMMARY ***
+Total pot €0.25 | Main pot €0.25 | Side pot €0.00 | Rake €0.00
+Seat 1: MiamiBlues folded before Flop
+Seat 4: Grayson C (small blind) folded before Flop
+Seat 6: Terrance R (big blind) folded before Flop
+Seat 3: Roderick P (button) mucked hand and won €0.25
+
+
+**** **** **** **** **** **** **** ****
+
+
+Run It Once Poker Hand #45239420:  Omaha Pot Limit (€0.05/€0.10) - 2020/05/24 17:59 UTC [2020/05/24 18:59 CET]
+Table ID '45239300' 6-Max Seat #4 is the button
+Seat 1: MiamiBlues (€11.10 in chips)
+Seat 3: Roderick P (€10.15 in chips)
+Seat 4: Grayson C (€26.20 in chips)
+Seat 6: Terrance R (€7.48 in chips)
+Terrance R: posts small blind €0.05
+MiamiBlues: posts big blind €0.10
+*** HOLE CARDS ***
+Dealt to Terrance R [3d Ad 2d 8s]
+Dealt to MiamiBlues [6c 2c 5s 2h]
+Dealt to Roderick P [Jc Kc Td 6d]
+Dealt to Grayson C [9s 9h 5h Qh]
+Roderick P: raises €0.25 to €0.35
+Grayson C: folds
+Terrance R: folds
+MiamiBlues: folds
+*** SHOWDOWN ***
+Roderick P: mucks hand
+Uncalled bet (€0.25) returned to Roderick P
+Roderick P collected €0.25 from pot
+*** SUMMARY ***
+Total pot €0.25 | Main pot €0.25 | Side pot €0.00 | Rake €0.00
+Seat 4: Grayson C (button) folded before Flop
+Seat 6: Terrance R (small blind) folded before Flop
+Seat 1: MiamiBlues (big blind) folded before Flop
+Seat 3: Roderick P mucked hand and won €0.25
+
+
+**** **** **** **** **** **** **** ****
+
+
+Run It Once Poker Hand #45239427:  Omaha Pot Limit (€0.05/€0.10) - 2020/05/24 18:00 UTC [2020/05/24 19:00 CET]
+Table ID '45239300' 6-Max Seat #6 is the button
+Seat 1: MiamiBlues (€11 in chips)
+Seat 3: Roderick P (€10.30 in chips)
+Seat 4: Grayson C (€26.20 in chips)
+Seat 6: Terrance R (€7.43 in chips)
+MiamiBlues: posts small blind €0.05
+Roderick P: posts big blind €0.10
+*** HOLE CARDS ***
+Dealt to MiamiBlues [5c 7c Jh Jc]
+Dealt to Roderick P [6c 8c 6h 4c]
+Dealt to Grayson C [5s Js As 8h]
+Dealt to Terrance R [Kd 9c 8d Qh]
+Grayson C: folds
+Terrance R: raises €0.10 to €0.20
+MiamiBlues: folds
+Roderick P: folds
+*** SHOWDOWN ***
+Terrance R: mucks hand
+Uncalled bet (€0.10) returned to Terrance R
+Terrance R collected €0.25 from pot
+*** SUMMARY ***
+Total pot €0.25 | Main pot €0.25 | Side pot €0.00 | Rake €0.00
+Seat 4: Grayson C folded before Flop
+Seat 1: MiamiBlues (small blind) folded before Flop
+Seat 3: Roderick P (big blind) folded before Flop
+Seat 6: Terrance R (button) mucked hand and won €0.25
+
+
+**** **** **** **** **** **** **** ****
+
+
+Run It Once Poker Hand #45239433:  Omaha Pot Limit (€0.05/€0.10) - 2020/05/24 18:00 UTC [2020/05/24 19:00 CET]
+Table ID '45239300' 6-Max Seat #1 is the button
+Seat 1: MiamiBlues (€10.95 in chips)
+Seat 3: Roderick P (€10.20 in chips)
+Seat 4: Grayson C (€26.20 in chips)
+Seat 6: Terrance R (€7.58 in chips)
+Roderick P: posts small blind €0.05
+Grayson C: posts big blind €0.10
+*** HOLE CARDS ***
+Dealt to Roderick P [9s Qc 9c Qd]
+Dealt to Grayson C [Tc 8h 2c Jd]
+Dealt to Terrance R [4c 4h 6d 5d]
+Dealt to MiamiBlues [8c 4d Qs 6c]
+Terrance R: folds
+MiamiBlues: folds
+Roderick P: raises €0.20 to €0.30
+Grayson C: calls €0.20
+*** FLOP *** [7c Ad 8s]
+Roderick P: bets €0.29
+Grayson C: folds
+Roderick P: mucks hand
+*** SHOWDOWN ***
+Roderick P: mucks hand
+Uncalled bet (€0.29) returned to Roderick P
+Roderick P collected €0.57 from pot
+*** SUMMARY ***
+Total pot €0.60 | Main pot €0.60 | Side pot €0.00 | Rake €0.03
+Board [7c Ad 8s]
+Seat 6: Terrance R folded before Flop
+Seat 1: MiamiBlues (button) folded before Flop
+Seat 4: Grayson C (big blind) folded before Turn
+Seat 3: Roderick P (small blind) mucked hand and won €0.57
+
+
+**** **** **** **** **** **** **** ****
+
+
+Run It Once Poker Hand #45239445:  Omaha Pot Limit (€0.05/€0.10) - 2020/05/24 18:01 UTC [2020/05/24 19:01 CET]
+Table ID '45239300' 6-Max Seat #3 is the button
+Seat 1: MiamiBlues (€10.95 in chips)
+Seat 3: Roderick P (€10.47 in chips)
+Seat 4: Grayson C (€25.90 in chips)
+Grayson C: posts small blind €0.05
+MiamiBlues: posts big blind €0.10
+*** HOLE CARDS ***
+Dealt to Grayson C [5h 6d 7c 4d]
+Dealt to MiamiBlues [8d 6s 2s Ts]
+Dealt to Roderick P [7s 3c Jd Qh]
+Roderick P: folds
+Grayson C: calls €0.05
+MiamiBlues: checks
+*** FLOP *** [Tc Kh 9c]
+Grayson C: checks
+MiamiBlues: checks
+*** TURN *** [Tc Kh 9c] [5c]
+Grayson C: checks
+MiamiBlues: checks
+*** RIVER *** [Tc Kh 9c 5c] [5d]
+Grayson C: bets €0.10
+MiamiBlues: calls €0.10
+*** SHOWDOWN ***
+Grayson C shows [5h 6d 7c 4d] for Three of Kind [Kh 7c 5h 5d 5c]
+Grayson C collected €0.38 from pot
+*** SUMMARY ***
+Total pot €0.40 | Main pot €0.40 | Side pot €0.00 | Rake €0.02
+Board [Tc Kh 9c 5c 5d]
+Seat 3: Roderick P (button) folded before Flop
+Seat 4: Grayson C (small blind) showed [5h 6d 7c 4d] and won €0.38 with Three of Kind 5's and K 7
+Seat 1: MiamiBlues (big blind) mucked [8d 6s 2s Ts] and lost
+
+
+**** **** **** **** **** **** **** ****
+
+
+Run It Once Poker Hand #45239454:  Omaha Pot Limit (€0.05/€0.10) - 2020/05/24 18:01 UTC [2020/05/24 19:01 CET]
+Table ID '45239300' 6-Max Seat #4 is the button
+Seat 1: MiamiBlues (€10.75 in chips)
+Seat 3: Roderick P (€10.47 in chips)
+Seat 4: Grayson C (€26.08 in chips)
+MiamiBlues: posts small blind €0.05
+Roderick P: posts big blind €0.10
+*** HOLE CARDS ***
+Dealt to MiamiBlues [Js 4h 8h 9h]
+Dealt to Roderick P [8c Ts Ah Jh]
+Dealt to Grayson C [Qs Jc Qh 9d]
+Grayson C: calls €0.10
+MiamiBlues: calls €0.05
+Roderick P: raises €0.30 to €0.40
+Grayson C: calls €0.30
+MiamiBlues: calls €0.30
+*** FLOP *** [2d Tc 7h]
+MiamiBlues: checks
+Roderick P: checks
+Grayson C: checks
+*** TURN *** [2d Tc 7h] [5d]
+MiamiBlues: checks
+Roderick P: checks
+Grayson C: checks
+*** RIVER *** [2d Tc 7h 5d] [5c]
+MiamiBlues: checks
+Roderick P: checks
+Grayson C: checks
+*** SHOWDOWN ***
+Grayson C shows [Qs Jc Qh 9d] for Two Pairs [Qs Qh Tc 5d 5c]
+Grayson C collected €1.15 from pot
+*** SUMMARY ***
+Total pot €1.20 | Main pot €1.20 | Side pot €0.00 | Rake €0.05
+Board [2d Tc 7h 5d 5c]
+Seat 4: Grayson C (button) showed [Qs Jc Qh 9d] and won €1.15 with Two Pairs Q 5 and T
+Seat 1: MiamiBlues (small blind) mucked [Js 4h 8h 9h] and lost
+Seat 3: Roderick P (big blind) mucked [8c Ts Ah Jh] and lost
+
+
+**** **** **** **** **** **** **** ****
+
+
+Run It Once Poker Hand #45239468:  Omaha Pot Limit (€0.05/€0.10) - 2020/05/24 18:03 UTC [2020/05/24 19:03 CET]
+Table ID '45239300' 6-Max Seat #1 is the button
+Seat 1: MiamiBlues (€10.35 in chips)
+Seat 3: Roderick P (€10.07 in chips)
+Seat 4: Grayson C (€26.83 in chips)
+Roderick P: posts small blind €0.05
+Grayson C: posts big blind €0.10
+*** HOLE CARDS ***
+Dealt to Roderick P [7s 8h 7c 3d]
+Dealt to Grayson C [3s Jc 5s Jd]
+Dealt to MiamiBlues [9d 6h 2h Kd]
+MiamiBlues: raises €0.25 to €0.35
+Roderick P: folds
+Grayson C: calls €0.25
+*** FLOP *** [5c 9h Js]
+Grayson C: checks
+MiamiBlues: checks
+*** TURN *** [5c 9h Js] [Qs]
+Grayson C: checks
+MiamiBlues: checks
+*** RIVER *** [5c 9h Js Qs] [Qd]
+Grayson C: bets €0.72
+MiamiBlues: folds
+Grayson C: mucks hand
+*** SHOWDOWN ***
+Grayson C: mucks hand
+Uncalled bet (€0.72) returned to Grayson C
+Grayson C collected €0.72 from pot
+*** SUMMARY ***
+Total pot €0.75 | Main pot €0.75 | Side pot €0.00 | Rake €0.03
+Board [5c 9h Js Qs Qd]
+Seat 3: Roderick P (small blind) folded before Flop
+Seat 1: MiamiBlues (button) folded during River
+Seat 4: Grayson C (big blind) mucked hand and won €0.72
+
+
+**** **** **** **** **** **** **** ****
+
+
+Run It Once Poker Hand #45239476:  Omaha Pot Limit (€0.05/€0.10) - 2020/05/24 18:04 UTC [2020/05/24 19:04 CET]
+Table ID '45239300' 6-Max Seat #3 is the button
+Seat 1: MiamiBlues (€10 in chips)
+Seat 3: Roderick P (€10.02 in chips)
+Seat 4: Grayson C (€27.20 in chips)
+Grayson C: posts small blind €0.05
+MiamiBlues: posts big blind €0.10
+*** HOLE CARDS ***
+Dealt to Grayson C [4d Ah 6s 7d]
+Dealt to MiamiBlues [Qd 8d Th 2s]
+Dealt to Roderick P [6d Kc 4c 9c]
+Roderick P: folds
+Grayson C: calls €0.05
+MiamiBlues: checks
+*** FLOP *** [Ts Ac 2c]
+Grayson C: checks
+MiamiBlues: checks
+*** TURN *** [Ts Ac 2c] [7c]
+Grayson C: bets €0.10
+MiamiBlues: calls €0.10
+*** RIVER *** [Ts Ac 2c 7c] [Ad]
+Grayson C: bets €0.30
+MiamiBlues: folds
+Grayson C: mucks hand
+*** SHOWDOWN ***
+Grayson C: mucks hand
+Uncalled bet (€0.30) returned to Grayson C
+Grayson C collected €0.38 from pot
+*** SUMMARY ***
+Total pot €0.40 | Main pot €0.40 | Side pot €0.00 | Rake €0.02
+Board [Ts Ac 2c 7c Ad]
+Seat 3: Roderick P (button) folded before Flop
+Seat 1: MiamiBlues (big blind) folded during River
+Seat 4: Grayson C (small blind) mucked hand and won €0.38
+
+
+**** **** **** **** **** **** **** ****
+
+
+Run It Once Poker Hand #45241590:  Omaha Pot Limit (€0.05/€0.10) - 2020/05/24 18:04 UTC [2020/05/24 19:04 CET]
+Table ID '45239300' 6-Max Seat #4 is the button
+Seat 1: MiamiBlues (€10 in chips)
+Seat 3: Roderick P (€10.02 in chips)
+Seat 4: Grayson C (€27.38 in chips)
+MiamiBlues: posts small blind €0.05
+Roderick P: posts big blind €0.10
+*** HOLE CARDS ***
+Dealt to MiamiBlues [Kh Ah 4d 3h]
+Dealt to Roderick P [6h 7s 3c 7h]
+Dealt to Grayson C [8h 6s 2s 6c]
+Grayson C: folds
+MiamiBlues: raises €0.20 to €0.30
+Roderick P: folds
+*** SHOWDOWN ***
+MiamiBlues: mucks hand
+Uncalled bet (€0.20) returned to MiamiBlues
+MiamiBlues collected €0.20 from pot
+*** SUMMARY ***
+Total pot €0.20 | Main pot €0.20 | Side pot €0.00 | Rake €0.00
+Seat 4: Grayson C (button) folded before Flop
+Seat 3: Roderick P (big blind) folded before Flop
+Seat 1: MiamiBlues (small blind) mucked hand and won €0.20
+
+
+**** **** **** **** **** **** **** ****
+
+
+Run It Once Poker Hand #45241592:  Omaha Pot Limit (€0.05/€0.10) - 2020/05/24 18:04 UTC [2020/05/24 19:04 CET]
+Table ID '45239300' 6-Max Seat #1 is the button
+Seat 1: MiamiBlues (€10.10 in chips)
+Seat 3: Roderick P (€10 in chips)
+Seat 4: Grayson C (€27.38 in chips)
+Roderick P: posts small blind €0.05
+Grayson C: posts big blind €0.10
+*** HOLE CARDS ***
+Dealt to Roderick P [Kc Qd 2s Ad]
+Dealt to Grayson C [4c 3c 8c 8d]
+Dealt to MiamiBlues [9s 5c 6h As]
+MiamiBlues: raises €0.25 to €0.35
+Roderick P: calls €0.30
+Grayson C: folds
+*** FLOP *** [Tc 4d 7d]
+Roderick P: checks
+MiamiBlues: bets €0.38
+Roderick P: raises €1.14 to €1.52
+MiamiBlues: folds
+Roderick P: mucks hand
+*** SHOWDOWN ***
+Roderick P: mucks hand
+Uncalled bet (€1.14) returned to Roderick P
+Roderick P collected €1.49 from pot
+*** SUMMARY ***
+Total pot €1.56 | Main pot €1.56 | Side pot €0.00 | Rake €0.07
+Board [Tc 4d 7d]
+Seat 4: Grayson C (big blind) folded before Flop
+Seat 1: MiamiBlues (button) folded before Turn
+Seat 3: Roderick P (small blind) mucked hand and won €1.49
+
+
+**** **** **** **** **** **** **** ****
+
+
+Run It Once Poker Hand #45241602:  Omaha Pot Limit (€0.05/€0.10) - 2020/05/24 18:05 UTC [2020/05/24 19:05 CET]
+Table ID '45239300' 6-Max Seat #3 is the button
+Seat 1: MiamiBlues (€10 in chips)
+Seat 3: Roderick P (€10.76 in chips)
+Seat 4: Grayson C (€27.28 in chips)
+Seat 6: Rory N (€10 in chips)
+Grayson C: posts small blind €0.05
+Rory N: posts big blind €0.10
+*** HOLE CARDS ***
+Dealt to Grayson C [8d 9s 3s Tc]
+Dealt to Rory N [6h Qs 9h 6d]
+Dealt to MiamiBlues [Td Ah Jc Th]
+Dealt to Roderick P [4h 3h Js 8s]
+MiamiBlues: raises €0.25 to €0.35
+Roderick P: folds
+Grayson C: folds
+Rory N: folds
+*** SHOWDOWN ***
+MiamiBlues: mucks hand
+Uncalled bet (€0.25) returned to MiamiBlues
+MiamiBlues collected €0.25 from pot
+*** SUMMARY ***
+Total pot €0.25 | Main pot €0.25 | Side pot €0.00 | Rake €0.00
+Seat 3: Roderick P (button) folded before Flop
+Seat 4: Grayson C (small blind) folded before Flop
+Seat 6: Rory N (big blind) folded before Flop
+Seat 1: MiamiBlues mucked hand and won €0.25
+
+
+**** **** **** **** **** **** **** ****
+
+
+Run It Once Poker Hand #45241606:  Omaha Pot Limit (€0.05/€0.10) - 2020/05/24 18:05 UTC [2020/05/24 19:05 CET]
+Table ID '45239300' 6-Max Seat #4 is the button
+Seat 1: MiamiBlues (€10.15 in chips)
+Seat 3: Roderick P (€10.76 in chips)
+Seat 4: Grayson C (€27.23 in chips)
+Seat 6: Rory N (€9.90 in chips)
+Rory N: posts small blind €0.05
+MiamiBlues: posts big blind €0.10
+*** HOLE CARDS ***
+Dealt to Rory N [3s 3d Ah 9d]
+Dealt to MiamiBlues [8s 5s 6s Kd]
+Dealt to Roderick P [6h Ks Jh 5d]
+Dealt to Grayson C [2s 3c Ts Jd]
+Roderick P: folds
+Grayson C: folds
+Rory N: folds
+*** SHOWDOWN ***
+MiamiBlues: mucks hand
+MiamiBlues collected €0.15 from pot
+*** SUMMARY ***
+Total pot €0.15 | Main pot €0.15 | Side pot €0.00 | Rake €0.00
+Seat 3: Roderick P folded before Flop
+Seat 4: Grayson C (button) folded before Flop
+Seat 6: Rory N (small blind) folded before Flop
+Seat 1: MiamiBlues (big blind) mucked hand and won €0.15
+
+
+**** **** **** **** **** **** **** ****
+
+
+Run It Once Poker Hand #45241612:  Omaha Pot Limit (€0.05/€0.10) - 2020/05/24 18:06 UTC [2020/05/24 19:06 CET]
+Table ID '45239300' 6-Max Seat #6 is the button
+Seat 1: MiamiBlues (€10.20 in chips)
+Seat 3: Roderick P (€10.76 in chips)
+Seat 4: Grayson C (€27.23 in chips)
+Seat 6: Rory N (€9.85 in chips)
+MiamiBlues: posts small blind €0.05
+Roderick P: posts big blind €0.10
+*** HOLE CARDS ***
+Dealt to MiamiBlues [2s Kc Jc 5c]
+Dealt to Roderick P [9h 9d 4d 3c]
+Dealt to Grayson C [6h 6s Js 3s]
+Dealt to Rory N [Qc 2c Kd 5h]
+Grayson C: folds
+Rory N: folds
+MiamiBlues: folds
+*** SHOWDOWN ***
+Roderick P: mucks hand
+Roderick P collected €0.15 from pot
+*** SUMMARY ***
+Total pot €0.15 | Main pot €0.15 | Side pot €0.00 | Rake €0.00
+Seat 4: Grayson C folded before Flop
+Seat 6: Rory N (button) folded before Flop
+Seat 1: MiamiBlues (small blind) folded before Flop
+Seat 3: Roderick P (big blind) mucked hand and won €0.15
+
+
+**** **** **** **** **** **** **** ****
+
+
+Run It Once Poker Hand #45241616:  Omaha Pot Limit (€0.05/€0.10) - 2020/05/24 18:06 UTC [2020/05/24 19:06 CET]
+Table ID '45239300' 6-Max Seat #1 is the button
+Seat 1: MiamiBlues (€10.15 in chips)
+Seat 3: Roderick P (€10.81 in chips)
+Seat 4: Grayson C (€27.23 in chips)
+Seat 6: Rory N (€9.85 in chips)
+Roderick P: posts small blind €0.05
+Grayson C: posts big blind €0.10
+*** HOLE CARDS ***
+Dealt to Roderick P [9c 5s 9h Jh]
+Dealt to Grayson C [Qs 6h 7c Kh]
+Dealt to Rory N [5h 5c Tc 2s]
+Dealt to MiamiBlues [8c Ts Ac Jc]
+Rory N: folds
+MiamiBlues: raises €0.25 to €0.35
+Roderick P: folds
+Grayson C: folds
+*** SHOWDOWN ***
+MiamiBlues: mucks hand
+Uncalled bet (€0.25) returned to MiamiBlues
+MiamiBlues collected €0.25 from pot
+*** SUMMARY ***
+Total pot €0.25 | Main pot €0.25 | Side pot €0.00 | Rake €0.00
+Seat 6: Rory N folded before Flop
+Seat 3: Roderick P (small blind) folded before Flop
+Seat 4: Grayson C (big blind) folded before Flop
+Seat 1: MiamiBlues (button) mucked hand and won €0.25
+
+
+**** **** **** **** **** **** **** ****
+
+
+Run It Once Poker Hand #45241622:  Omaha Pot Limit (€0.05/€0.10) - 2020/05/24 18:06 UTC [2020/05/24 19:06 CET]
+Table ID '45239300' 6-Max Seat #3 is the button
+Seat 1: MiamiBlues (€10.30 in chips)
+Seat 3: Roderick P (€10.76 in chips)
+Seat 4: Grayson C (€27.13 in chips)
+Seat 5: Ari Z (€10 in chips)
+Seat 6: Rory N (€9.85 in chips)
+Grayson C: posts small blind €0.05
+Ari Z: posts big blind €0.10
+*** HOLE CARDS ***
+Dealt to Grayson C [5d 3h 8c 3c]
+Dealt to Ari Z [Jd Jc 7s 5c]
+Dealt to Rory N [Td 9d 3d 6c]
+Dealt to MiamiBlues [Kd 2d 3s 2h]
+Dealt to Roderick P [Js Kc Th 8h]
+Rory N: folds
+MiamiBlues: folds
+Roderick P: raises €0.25 to €0.35
+Grayson C: folds
+Ari Z: calls €0.25
+*** FLOP *** [6d 6s 2s]
+Ari Z: checks
+Roderick P: checks
+*** TURN *** [6d 6s 2s] [7h]
+Ari Z: checks
+Roderick P: checks
+*** RIVER *** [6d 6s 2s 7h] [Qs]
+Ari Z: checks
+Roderick P: checks
+*** SHOWDOWN ***
+Ari Z shows [Jd Jc 7s 5c] for Two Pairs [Qs Jd Jc 6s 6d]
+Ari Z collected €0.72 from pot
+*** SUMMARY ***
+Total pot €0.75 | Main pot €0.75 | Side pot €0.00 | Rake €0.03
+Board [6d 6s 2s 7h Qs]
+Seat 6: Rory N folded before Flop
+Seat 1: MiamiBlues folded before Flop
+Seat 4: Grayson C (small blind) folded before Flop
+Seat 5: Ari Z (big blind) showed [Jd Jc 7s 5c] and won €0.72 with Two Pairs J 6 and Q
+Seat 3: Roderick P (button) mucked [Js Kc Th 8h] and lost
+
+
+**** **** **** **** **** **** **** ****
+
+
+Run It Once Poker Hand #45241633:  Omaha Pot Limit (€0.05/€0.10) - 2020/05/24 18:07 UTC [2020/05/24 19:07 CET]
+Table ID '45239300' 6-Max Seat #4 is the button
+Seat 1: MiamiBlues (€10.30 in chips)
+Seat 3: Roderick P (€10.41 in chips)
+Seat 4: Grayson C (€27.08 in chips)
+Seat 5: Ari Z (€10.37 in chips)
+Seat 6: Rory N (€9.85 in chips)
+Ari Z: posts small blind €0.05
+Rory N: posts big blind €0.10
+*** HOLE CARDS ***
+Dealt to Ari Z [6c Jc 8d 3s]
+Dealt to Rory N [2s Td Qs 3h]
+Dealt to MiamiBlues [4s 9h Ks 2c]
+Dealt to Roderick P [Kh Jh 4d Qh]
+Dealt to Grayson C [Th 8c 7s Ts]
+MiamiBlues: folds
+Roderick P: folds
+Grayson C: raises €0.25 to €0.35
+Ari Z: folds
+Rory N: folds
+*** SHOWDOWN ***
+Grayson C: mucks hand
+Uncalled bet (€0.25) returned to Grayson C
+Grayson C collected €0.25 from pot
+*** SUMMARY ***
+Total pot €0.25 | Main pot €0.25 | Side pot €0.00 | Rake €0.00
+Seat 1: MiamiBlues folded before Flop
+Seat 3: Roderick P folded before Flop
+Seat 5: Ari Z (small blind) folded before Flop
+Seat 6: Rory N (big blind) folded before Flop
+Seat 4: Grayson C (button) mucked hand and won €0.25

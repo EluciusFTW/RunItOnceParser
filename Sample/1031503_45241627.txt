@@ -1,0 +1,3282 @@
+Run It Once Poker Hand #45241632:  Omaha Pot Limit (€0.10/€0.20) - 2020/05/24 18:07 UTC [2020/05/24 19:07 CET]
+Table ID '45241627' 6-Max Seat #1 is the button
+Seat 1: Andre M (€20 in chips)
+Seat 4: MiamiBlues (€20 in chips)
+Seat 6: Denise M (€20 in chips)
+MiamiBlues: posts small blind €0.10
+Denise M: posts big blind €0.20
+*** HOLE CARDS ***
+Dealt to MiamiBlues [Jc 8d 9c Jd]
+Dealt to Denise M [Qd Qs 6s 6h]
+Dealt to Andre M [8c Td 8s 7h]
+Andre M: folds
+MiamiBlues: raises €0.40 to €0.60
+Denise M: calls €0.40
+*** FLOP *** [3h As 4h]
+MiamiBlues: bets €0.50
+Denise M: calls €0.50
+*** TURN *** [3h As 4h] [Kd]
+MiamiBlues: checks
+Denise M: checks
+*** RIVER *** [3h As 4h Kd] [5c]
+MiamiBlues: bets €2.10
+Denise M: folds
+MiamiBlues: mucks hand
+*** SHOWDOWN ***
+MiamiBlues: mucks hand
+Uncalled bet (€2.10) returned to MiamiBlues
+MiamiBlues collected €2.10 from pot
+*** SUMMARY ***
+Total pot €2.20 | Main pot €2.20 | Side pot €0.00 | Rake €0.10
+Board [3h As 4h Kd 5c]
+Seat 1: Andre M (button) folded before Flop
+Seat 6: Denise M (big blind) folded during River
+Seat 4: MiamiBlues (small blind) mucked hand and won €2.10
+
+
+**** **** **** **** **** **** **** ****
+
+
+Run It Once Poker Hand #45241656:  Omaha Pot Limit (€0.10/€0.20) - 2020/05/24 18:08 UTC [2020/05/24 19:08 CET]
+Table ID '45241627' 6-Max Seat #4 is the button
+Seat 1: Andre M (€20 in chips)
+Seat 4: MiamiBlues (€21 in chips)
+Seat 6: Denise M (€20 in chips)
+Denise M: posts small blind €0.10
+Andre M: posts big blind €0.20
+*** HOLE CARDS ***
+Dealt to Denise M [Th 3c Jd 4d]
+Dealt to Andre M [4h 9d Td 9h]
+Dealt to MiamiBlues [Tc 2c 8s 4c]
+MiamiBlues: folds
+Denise M: folds
+*** SHOWDOWN ***
+Andre M: mucks hand
+Andre M collected €0.30 from pot
+*** SUMMARY ***
+Total pot €0.30 | Main pot €0.30 | Side pot €0.00 | Rake €0.00
+Seat 4: MiamiBlues (button) folded before Flop
+Seat 6: Denise M (small blind) folded before Flop
+Seat 1: Andre M (big blind) mucked hand and won €0.30
+
+
+**** **** **** **** **** **** **** ****
+
+
+Run It Once Poker Hand #45241658:  Omaha Pot Limit (€0.10/€0.20) - 2020/05/24 18:08 UTC [2020/05/24 19:08 CET]
+Table ID '45241627' 6-Max Seat #6 is the button
+Seat 1: Andre M (€20.10 in chips)
+Seat 3: Manuel B (€20 in chips)
+Seat 4: MiamiBlues (€21 in chips)
+Seat 6: Denise M (€20 in chips)
+Andre M: posts small blind €0.10
+Manuel B: posts big blind €0.20
+*** HOLE CARDS ***
+Dealt to Andre M [Th 5s 3d Qd]
+Dealt to Manuel B [Qc 8c 5h 4h]
+Dealt to MiamiBlues [Ah Kh 4d Ks]
+Dealt to Denise M [2h Jd Jc As]
+MiamiBlues: raises €0.50 to €0.70
+Denise M: folds
+Andre M: folds
+Manuel B: folds
+*** SHOWDOWN ***
+MiamiBlues: mucks hand
+Uncalled bet (€0.50) returned to MiamiBlues
+MiamiBlues collected €0.50 from pot
+*** SUMMARY ***
+Total pot €0.50 | Main pot €0.50 | Side pot €0.00 | Rake €0.00
+Seat 6: Denise M (button) folded before Flop
+Seat 1: Andre M (small blind) folded before Flop
+Seat 3: Manuel B (big blind) folded before Flop
+Seat 4: MiamiBlues mucked hand and won €0.50
+
+
+**** **** **** **** **** **** **** ****
+
+
+Run It Once Poker Hand #45241666:  Omaha Pot Limit (€0.10/€0.20) - 2020/05/24 18:09 UTC [2020/05/24 19:09 CET]
+Table ID '45241627' 6-Max Seat #1 is the button
+Seat 1: Andre M (€20 in chips)
+Seat 3: Manuel B (€20 in chips)
+Seat 4: MiamiBlues (€21.30 in chips)
+Seat 6: Denise M (€20 in chips)
+Manuel B: posts small blind €0.10
+MiamiBlues: posts big blind €0.20
+*** HOLE CARDS ***
+Dealt to Manuel B [Jc As 3d 3c]
+Dealt to MiamiBlues [2c 4d Ts 9d]
+Dealt to Denise M [8s 4h Qs 6s]
+Dealt to Andre M [5c 6d 7c Ks]
+Denise M: folds
+Andre M: folds
+Manuel B: raises €0.40 to €0.60
+MiamiBlues: calls €0.40
+*** FLOP *** [8c 5h Qh]
+Manuel B: checks
+MiamiBlues: bets €0.50
+Manuel B: folds
+MiamiBlues: mucks hand
+*** SHOWDOWN ***
+MiamiBlues: mucks hand
+Uncalled bet (€0.50) returned to MiamiBlues
+MiamiBlues collected €1.15 from pot
+*** SUMMARY ***
+Total pot €1.20 | Main pot €1.20 | Side pot €0.00 | Rake €0.05
+Board [8c 5h Qh]
+Seat 6: Denise M folded before Flop
+Seat 1: Andre M (button) folded before Flop
+Seat 3: Manuel B (small blind) folded before Turn
+Seat 4: MiamiBlues (big blind) mucked hand and won €1.15
+
+
+**** **** **** **** **** **** **** ****
+
+
+Run It Once Poker Hand #45241673:  Omaha Pot Limit (€0.10/€0.20) - 2020/05/24 18:09 UTC [2020/05/24 19:09 CET]
+Table ID '45241627' 6-Max Seat #3 is the button
+Seat 1: Andre M (€20 in chips)
+Seat 3: Manuel B (€20 in chips)
+Seat 4: MiamiBlues (€21.85 in chips)
+Seat 5: Blake G (€20 in chips)
+Seat 6: Denise M (€20 in chips)
+MiamiBlues: posts small blind €0.10
+Blake G: posts big blind €0.20
+*** HOLE CARDS ***
+Dealt to MiamiBlues [6c 8c Jh 6h]
+Dealt to Blake G [7c 3h Td 9d]
+Dealt to Denise M [Ts Ac Kh 5s]
+Dealt to Andre M [5d Ks 6s 4s]
+Dealt to Manuel B [5h 2h As Kd]
+Denise M: folds
+Andre M: folds
+Manuel B: raises €0.50 to €0.70
+MiamiBlues: folds
+Blake G: folds
+*** SHOWDOWN ***
+Manuel B: mucks hand
+Uncalled bet (€0.50) returned to Manuel B
+Manuel B collected €0.50 from pot
+*** SUMMARY ***
+Total pot €0.50 | Main pot €0.50 | Side pot €0.00 | Rake €0.00
+Seat 6: Denise M folded before Flop
+Seat 1: Andre M folded before Flop
+Seat 4: MiamiBlues (small blind) folded before Flop
+Seat 5: Blake G (big blind) folded before Flop
+Seat 3: Manuel B (button) mucked hand and won €0.50
+
+
+**** **** **** **** **** **** **** ****
+
+
+Run It Once Poker Hand #45241680:  Omaha Pot Limit (€0.10/€0.20) - 2020/05/24 18:10 UTC [2020/05/24 19:10 CET]
+Table ID '45241627' 6-Max Seat #4 is the button
+Seat 1: Andre M (€20 in chips)
+Seat 3: Manuel B (€20.30 in chips)
+Seat 4: MiamiBlues (€21.75 in chips)
+Seat 5: Blake G (€20 in chips)
+Seat 6: Denise M (€20 in chips)
+Blake G: posts small blind €0.10
+Denise M: posts big blind €0.20
+*** HOLE CARDS ***
+Dealt to Blake G [7c 5h 7s 9c]
+Dealt to Denise M [2s Td Ts Kh]
+Dealt to Andre M [Jd 4s Jh Kd]
+Dealt to Manuel B [Qc 9d 7h As]
+Dealt to MiamiBlues [5s 4h 5d 3c]
+Andre M: folds
+Manuel B: folds
+MiamiBlues: raises €0.50 to €0.70
+Blake G: folds
+Denise M: calls €0.50
+*** FLOP *** [4d Ad Ks]
+Denise M: checks
+MiamiBlues: bets €0.50
+Denise M: calls €0.50
+*** TURN *** [4d Ad Ks] [6s]
+Denise M: checks
+MiamiBlues: checks
+*** RIVER *** [4d Ad Ks 6s] [2h]
+Denise M: bets €1.20
+MiamiBlues: raises €4.79 to €5.99
+Denise M: folds
+MiamiBlues: mucks hand
+*** SHOWDOWN ***
+MiamiBlues: mucks hand
+Uncalled bet (€4.79) returned to MiamiBlues
+MiamiBlues collected €4.68 from pot
+*** SUMMARY ***
+Total pot €4.90 | Main pot €4.90 | Side pot €0.00 | Rake €0.22
+Board [4d Ad Ks 6s 2h]
+Seat 1: Andre M folded before Flop
+Seat 3: Manuel B folded before Flop
+Seat 5: Blake G (small blind) folded before Flop
+Seat 6: Denise M (big blind) folded during River
+Seat 4: MiamiBlues (button) mucked hand and won €4.68
+
+
+**** **** **** **** **** **** **** ****
+
+
+Run It Once Poker Hand #45241715:  Omaha Pot Limit (€0.10/€0.20) - 2020/05/24 18:12 UTC [2020/05/24 19:12 CET]
+Table ID '45241627' 6-Max Seat #5 is the button
+Seat 1: Andre M (€20 in chips)
+Seat 3: Manuel B (€20.30 in chips)
+Seat 4: MiamiBlues (€24.03 in chips)
+Seat 5: Blake G (€20 in chips)
+Seat 6: Denise M (€20 in chips)
+Denise M: posts small blind €0.10
+Andre M: posts big blind €0.20
+*** HOLE CARDS ***
+Dealt to Denise M [Ac Ah Kc 9s]
+Dealt to Andre M [Jh 3c Qd 4s]
+Dealt to Manuel B [Td Qh Kh Qc]
+Dealt to MiamiBlues [As 6s 5c 8s]
+Dealt to Blake G [9d 9h Qs Th]
+Manuel B: raises €0.50 to €0.70
+MiamiBlues: folds
+Blake G: folds
+Denise M: raises €1.60 to €2.30
+Andre M: folds
+Manuel B: calls €1.60
+*** FLOP *** [7h 6d Jd]
+Denise M: bets €3.11
+Manuel B: folds
+Denise M: mucks hand
+*** SHOWDOWN ***
+Denise M: mucks hand
+Uncalled bet (€3.11) returned to Denise M
+Denise M collected €4.58 from pot
+*** SUMMARY ***
+Total pot €4.80 | Main pot €4.80 | Side pot €0.00 | Rake €0.22
+Board [7h 6d Jd]
+Seat 4: MiamiBlues folded before Flop
+Seat 5: Blake G (button) folded before Flop
+Seat 1: Andre M (big blind) folded before Flop
+Seat 3: Manuel B folded before Turn
+Seat 6: Denise M (small blind) mucked hand and won €4.58
+
+
+**** **** **** **** **** **** **** ****
+
+
+Run It Once Poker Hand #45241724:  Omaha Pot Limit (€0.10/€0.20) - 2020/05/24 18:12 UTC [2020/05/24 19:12 CET]
+Table ID '45241627' 6-Max Seat #6 is the button
+Seat 1: Andre M (€20 in chips)
+Seat 2: Raymond K (€20 in chips)
+Seat 3: Manuel B (€20 in chips)
+Seat 4: MiamiBlues (€24.03 in chips)
+Seat 5: Blake G (€20 in chips)
+Seat 6: Denise M (€22.28 in chips)
+Andre M: posts small blind €0.10
+Raymond K: posts big blind €0.20
+*** HOLE CARDS ***
+Dealt to Andre M [Qc 9s Ks Th]
+Dealt to Raymond K [Ah 4d Td Qd]
+Dealt to Manuel B [3s Jh Ac Ts]
+Dealt to MiamiBlues [5h 3d 8c 2s]
+Dealt to Blake G [4c 6h 7c Qh]
+Dealt to Denise M [8s 5c Kc 8h]
+Manuel B: folds
+MiamiBlues: folds
+Blake G: folds
+Denise M: raises €0.50 to €0.70
+Andre M: calls €0.60
+Raymond K: folds
+*** FLOP *** [Tc 4s 5d]
+Andre M: bets €0.77
+Denise M: calls €0.77
+*** TURN *** [Tc 4s 5d] [2c]
+Andre M: bets €2.25
+Denise M: calls €2.25
+*** RIVER *** [Tc 4s 5d 2c] [Qs]
+Andre M: bets €5.48
+Denise M: folds
+Andre M: mucks hand
+*** SHOWDOWN ***
+Andre M: mucks hand
+Uncalled bet (€5.48) returned to Andre M
+Andre M collected €7.30 from pot
+*** SUMMARY ***
+Total pot €7.64 | Main pot €7.64 | Side pot €0.00 | Rake €0.34
+Board [Tc 4s 5d 2c Qs]
+Seat 3: Manuel B folded before Flop
+Seat 4: MiamiBlues folded before Flop
+Seat 5: Blake G folded before Flop
+Seat 2: Raymond K (big blind) folded before Flop
+Seat 6: Denise M (button) folded during River
+Seat 1: Andre M (small blind) mucked hand and won €7.30
+
+
+**** **** **** **** **** **** **** ****
+
+
+Run It Once Poker Hand #45241745:  Omaha Pot Limit (€0.10/€0.20) - 2020/05/24 18:14 UTC [2020/05/24 19:14 CET]
+Table ID '45241627' 6-Max Seat #1 is the button
+Seat 1: Andre M (€23.58 in chips)
+Seat 2: Raymond K (€20 in chips)
+Seat 3: Manuel B (€20 in chips)
+Seat 4: MiamiBlues (€24.03 in chips)
+Seat 5: Blake G (€20 in chips)
+Seat 6: Denise M (€20 in chips)
+Raymond K: posts small blind €0.10
+Manuel B: posts big blind €0.20
+*** HOLE CARDS ***
+STP added: €0.60
+Dealt to Raymond K [8d Ad 9h Jh]
+Dealt to Manuel B [5h Jd 8h 9s]
+Dealt to MiamiBlues [4h 6d Td 7s]
+Dealt to Blake G [8s 5d Ks Qd]
+Dealt to Denise M [Ts 3h Ac 3s]
+Dealt to Andre M [8c 7c 6h Kc]
+MiamiBlues: folds
+Blake G: raises €0.50 to €0.70
+Denise M: folds
+Andre M: calls €0.70
+Raymond K: raises €2.30 to €3.00
+Manuel B: folds
+Blake G: folds
+Andre M: calls €2.30
+*** FLOP *** [Qs 2c 3d]
+Raymond K: bets €3.60
+Andre M: folds
+Raymond K: mucks hand
+*** SHOWDOWN ***
+Raymond K: mucks hand
+Uncalled bet (€3.60) returned to Raymond K
+Raymond K collected €7.19 from pot
+*** SUMMARY ***
+Total pot €7.50 | Main pot €6.90 | Side pot €0.00 | STP €0.60 | Rake €0.31
+Board [Qs 2c 3d]
+Seat 4: MiamiBlues folded before Flop
+Seat 6: Denise M folded before Flop
+Seat 3: Manuel B (big blind) folded before Flop
+Seat 5: Blake G folded before Flop
+Seat 1: Andre M (button) folded before Turn
+Seat 2: Raymond K (small blind) mucked hand and won €7.19
+
+
+**** **** **** **** **** **** **** ****
+
+
+Run It Once Poker Hand #45241758:  Omaha Pot Limit (€0.10/€0.20) - 2020/05/24 18:15 UTC [2020/05/24 19:15 CET]
+Table ID '45241627' 6-Max Seat #2 is the button
+Seat 1: Andre M (€20.58 in chips)
+Seat 2: Raymond K (€24.19 in chips)
+Seat 3: Manuel B (€20 in chips)
+Seat 4: MiamiBlues (€24.03 in chips)
+Seat 5: Blake G (€20 in chips)
+Seat 6: Denise M (€20 in chips)
+Manuel B: posts small blind €0.10
+MiamiBlues: posts big blind €0.20
+*** HOLE CARDS ***
+Dealt to Manuel B [Ah 3h 9c 7h]
+Dealt to MiamiBlues [5c 4h 5h 9s]
+Dealt to Blake G [8h Kd 3c 2c]
+Dealt to Denise M [Ks Ts 8d 2s]
+Dealt to Andre M [Jc Kh Qd 4s]
+Dealt to Raymond K [6h As 6c 9h]
+Blake G: folds
+Denise M: folds
+Andre M: folds
+Raymond K: folds
+Manuel B: folds
+*** SHOWDOWN ***
+MiamiBlues: mucks hand
+MiamiBlues collected €0.30 from pot
+*** SUMMARY ***
+Total pot €0.30 | Main pot €0.30 | Side pot €0.00 | Rake €0.00
+Seat 5: Blake G folded before Flop
+Seat 6: Denise M folded before Flop
+Seat 1: Andre M folded before Flop
+Seat 2: Raymond K (button) folded before Flop
+Seat 3: Manuel B (small blind) folded before Flop
+Seat 4: MiamiBlues (big blind) mucked hand and won €0.30
+
+
+**** **** **** **** **** **** **** ****
+
+
+Run It Once Poker Hand #45241764:  Omaha Pot Limit (€0.10/€0.20) - 2020/05/24 18:15 UTC [2020/05/24 19:15 CET]
+Table ID '45241627' 6-Max Seat #3 is the button
+Seat 1: Andre M (€20.58 in chips)
+Seat 2: Raymond K (€24.19 in chips)
+Seat 3: Manuel B (€20 in chips)
+Seat 4: MiamiBlues (€24.13 in chips)
+Seat 5: Blake G (€20 in chips)
+Seat 6: Denise M (€20 in chips)
+MiamiBlues: posts small blind €0.10
+Blake G: posts big blind €0.20
+*** HOLE CARDS ***
+Dealt to MiamiBlues [2d Ad 3h Qs]
+Dealt to Blake G [4h As 9h 3c]
+Dealt to Denise M [4d Jh Jc Ac]
+Dealt to Andre M [5s 6d Kh 5h]
+Dealt to Raymond K [3d 5c 4c 2h]
+Dealt to Manuel B [Th 8s Tc Td]
+Denise M: folds
+Andre M: folds
+Raymond K: folds
+Manuel B: folds
+MiamiBlues: raises €0.40 to €0.60
+Blake G: folds
+*** SHOWDOWN ***
+MiamiBlues: mucks hand
+Uncalled bet (€0.40) returned to MiamiBlues
+MiamiBlues collected €0.40 from pot
+*** SUMMARY ***
+Total pot €0.40 | Main pot €0.40 | Side pot €0.00 | Rake €0.00
+Seat 6: Denise M folded before Flop
+Seat 1: Andre M folded before Flop
+Seat 2: Raymond K folded before Flop
+Seat 3: Manuel B (button) folded before Flop
+Seat 5: Blake G (big blind) folded before Flop
+Seat 4: MiamiBlues (small blind) mucked hand and won €0.40
+
+
+**** **** **** **** **** **** **** ****
+
+
+Run It Once Poker Hand #45241768:  Omaha Pot Limit (€0.10/€0.20) - 2020/05/24 18:16 UTC [2020/05/24 19:16 CET]
+Table ID '45241627' 6-Max Seat #4 is the button
+Seat 1: Andre M (€20.58 in chips)
+Seat 2: Raymond K (€24.19 in chips)
+Seat 3: Manuel B (€20 in chips)
+Seat 4: MiamiBlues (€24.33 in chips)
+Seat 5: Blake G (€20 in chips)
+Seat 6: Denise M (€20 in chips)
+Blake G: posts small blind €0.10
+Denise M: posts big blind €0.20
+*** HOLE CARDS ***
+Dealt to Blake G [Ks 9s Qh 2c]
+Dealt to Denise M [7c 5s Qc 7d]
+Dealt to Andre M [9c Th Ac 6h]
+Dealt to Raymond K [Kd 4h 6d Qd]
+Dealt to Manuel B [9h Ts Tc 2d]
+Dealt to MiamiBlues [5h Td As Ah]
+Andre M: raises €0.50 to €0.70
+Raymond K: folds
+Manuel B: folds
+MiamiBlues: raises €0.50 to €1.20
+Blake G: folds
+Denise M: folds
+Andre M: calls €0.50
+*** FLOP *** [4d 5c 2s]
+Andre M: checks
+MiamiBlues: checks
+*** TURN *** [4d 5c 2s] [3d]
+Andre M: bets €2
+MiamiBlues: calls €2
+*** RIVER *** [4d 5c 2s 3d] [Qs]
+Andre M: bets €6.40
+MiamiBlues: calls €6.40
+*** SHOWDOWN ***
+MiamiBlues shows [5h Td As Ah] for Straight [As 5h 4d 3d 2s]
+MiamiBlues collected €18.62 from pot
+*** SUMMARY ***
+Total pot €19.50 | Main pot €19.50 | Side pot €0.00 | Rake €0.88
+Board [4d 5c 2s 3d Qs]
+Seat 2: Raymond K folded before Flop
+Seat 3: Manuel B folded before Flop
+Seat 5: Blake G (small blind) folded before Flop
+Seat 6: Denise M (big blind) folded before Flop
+Seat 4: MiamiBlues (button) showed [5h Td As Ah] and won €18.62 with Straight A to 5
+Seat 1: Andre M mucked [9c Th Ac 6h] and lost
+
+
+**** **** **** **** **** **** **** ****
+
+
+Run It Once Poker Hand #45241785:  Omaha Pot Limit (€0.10/€0.20) - 2020/05/24 18:17 UTC [2020/05/24 19:17 CET]
+Table ID '45241627' 6-Max Seat #5 is the button
+Seat 1: Andre M (€20 in chips)
+Seat 2: Raymond K (€24.19 in chips)
+Seat 3: Manuel B (€20 in chips)
+Seat 4: MiamiBlues (€33.35 in chips)
+Seat 5: Blake G (€20 in chips)
+Seat 6: Denise M (€20 in chips)
+Denise M: posts small blind €0.10
+Andre M: posts big blind €0.20
+*** HOLE CARDS ***
+Dealt to Denise M [Jd Qc 7h Qd]
+Dealt to Andre M [As 6d 8s Jc]
+Dealt to Raymond K [3s Ks 9s Tc]
+Dealt to Manuel B [4c Jh 9c Ad]
+Dealt to MiamiBlues [6c 7c 3h 4h]
+Dealt to Blake G [3c Kc Td Js]
+Raymond K: folds
+Manuel B: folds
+MiamiBlues: raises €0.50 to €0.70
+Blake G: folds
+Denise M: calls €0.60
+Andre M: folds
+*** FLOP *** [Ac Kh 8d]
+Denise M: checks
+MiamiBlues: bets €0.54
+Denise M: calls €0.54
+*** TURN *** [Ac Kh 8d] [9d]
+Denise M: checks
+MiamiBlues: checks
+*** RIVER *** [Ac Kh 8d 9d] [3d]
+Denise M: bets €1.28
+MiamiBlues: folds
+Denise M: mucks hand
+*** SHOWDOWN ***
+Denise M: mucks hand
+Uncalled bet (€1.28) returned to Denise M
+Denise M collected €2.56 from pot
+*** SUMMARY ***
+Total pot €2.68 | Main pot €2.68 | Side pot €0.00 | Rake €0.12
+Board [Ac Kh 8d 9d 3d]
+Seat 2: Raymond K folded before Flop
+Seat 3: Manuel B folded before Flop
+Seat 5: Blake G (button) folded before Flop
+Seat 1: Andre M (big blind) folded before Flop
+Seat 4: MiamiBlues folded during River
+Seat 6: Denise M (small blind) mucked hand and won €2.56
+
+
+**** **** **** **** **** **** **** ****
+
+
+Run It Once Poker Hand #45241805:  Omaha Pot Limit (€0.10/€0.20) - 2020/05/24 18:19 UTC [2020/05/24 19:19 CET]
+Table ID '45241627' 6-Max Seat #6 is the button
+Seat 1: Andre M (€20 in chips)
+Seat 2: Raymond K (€24.19 in chips)
+Seat 3: Manuel B (€20 in chips)
+Seat 4: MiamiBlues (€32.11 in chips)
+Seat 5: Blake G (€20 in chips)
+Seat 6: Denise M (€21.32 in chips)
+Andre M: posts small blind €0.10
+Raymond K: posts big blind €0.20
+*** HOLE CARDS ***
+Dealt to Andre M [8c 7d 9d 4h]
+Dealt to Raymond K [7c 6h 3s 2s]
+Dealt to Manuel B [As 4c Th Kd]
+Dealt to MiamiBlues [Kh 8s 7s Jd]
+Dealt to Blake G [6d Jc Qd Js]
+Dealt to Denise M [7h 3c Qc Ad]
+Manuel B: folds
+MiamiBlues: folds
+Blake G: raises €0.50 to €0.70
+Denise M: folds
+Andre M: folds
+Raymond K: folds
+*** SHOWDOWN ***
+Blake G: mucks hand
+Uncalled bet (€0.50) returned to Blake G
+Blake G collected €0.50 from pot
+*** SUMMARY ***
+Total pot €0.50 | Main pot €0.50 | Side pot €0.00 | Rake €0.00
+Seat 3: Manuel B folded before Flop
+Seat 4: MiamiBlues folded before Flop
+Seat 6: Denise M (button) folded before Flop
+Seat 1: Andre M (small blind) folded before Flop
+Seat 2: Raymond K (big blind) folded before Flop
+Seat 5: Blake G mucked hand and won €0.50
+
+
+**** **** **** **** **** **** **** ****
+
+
+Run It Once Poker Hand #45241814:  Omaha Pot Limit (€0.10/€0.20) - 2020/05/24 18:19 UTC [2020/05/24 19:19 CET]
+Table ID '45241627' 6-Max Seat #1 is the button
+Seat 1: Andre M (€20 in chips)
+Seat 2: Raymond K (€23.99 in chips)
+Seat 3: Manuel B (€20 in chips)
+Seat 4: MiamiBlues (€32.11 in chips)
+Seat 5: Blake G (€20.30 in chips)
+Seat 6: Denise M (€21.32 in chips)
+Raymond K: posts small blind €0.10
+Manuel B: posts big blind €0.20
+*** HOLE CARDS ***
+Dealt to Raymond K [3h 7d 3d Qs]
+Dealt to Manuel B [5s 8d Js 7s]
+Dealt to MiamiBlues [8h 3c 6s 8c]
+Dealt to Blake G [9h 9c Qh 3s]
+Dealt to Denise M [8s 6d 2s 7h]
+Dealt to Andre M [Ts 7c 2h Kc]
+MiamiBlues: folds
+Blake G: folds
+Denise M: folds
+Andre M: folds
+Raymond K: folds
+*** SHOWDOWN ***
+Manuel B: mucks hand
+Manuel B collected €0.30 from pot
+*** SUMMARY ***
+Total pot €0.30 | Main pot €0.30 | Side pot €0.00 | Rake €0.00
+Seat 4: MiamiBlues folded before Flop
+Seat 5: Blake G folded before Flop
+Seat 6: Denise M folded before Flop
+Seat 1: Andre M (button) folded before Flop
+Seat 2: Raymond K (small blind) folded before Flop
+Seat 3: Manuel B (big blind) mucked hand and won €0.30
+
+
+**** **** **** **** **** **** **** ****
+
+
+Run It Once Poker Hand #45241821:  Omaha Pot Limit (€0.10/€0.20) - 2020/05/24 18:19 UTC [2020/05/24 19:19 CET]
+Table ID '45241627' 6-Max Seat #2 is the button
+Seat 1: Andre M (€20 in chips)
+Seat 2: Raymond K (€23.89 in chips)
+Seat 3: Manuel B (€20.10 in chips)
+Seat 4: MiamiBlues (€32.11 in chips)
+Seat 5: Blake G (€20.30 in chips)
+Seat 6: Denise M (€21.32 in chips)
+Manuel B: posts small blind €0.10
+MiamiBlues: posts big blind €0.20
+*** HOLE CARDS ***
+Dealt to Manuel B [8c As 3s 4d]
+Dealt to MiamiBlues [5d Ts Ks 5c]
+Dealt to Blake G [5s 2d 6s 7s]
+Dealt to Denise M [8h 9c Ah 4h]
+Dealt to Andre M [7h Js 8s 6d]
+Dealt to Raymond K [Ac 2h 5h Jd]
+Blake G: folds
+Denise M: folds
+Andre M: folds
+Raymond K: folds
+Manuel B: raises €0.40 to €0.60
+MiamiBlues: calls €0.40
+*** FLOP *** [4c Td 3h]
+Manuel B: checks
+MiamiBlues: bets €0.58
+Manuel B: calls €0.58
+*** TURN *** [4c Td 3h] [7d]
+Manuel B: checks
+MiamiBlues: bets €1.70
+Manuel B: calls €1.70
+*** RIVER *** [4c Td 3h 7d] [9s]
+Manuel B: checks
+MiamiBlues: checks
+*** SHOWDOWN ***
+Manuel B shows [8c As 3s 4d] for Two Pairs [Td 4d 4c 3s 3h]
+Manuel B collected €5.50 from pot
+*** SUMMARY ***
+Total pot €5.76 | Main pot €5.76 | Side pot €0.00 | Rake €0.26
+Board [4c Td 3h 7d 9s]
+Seat 5: Blake G folded before Flop
+Seat 6: Denise M folded before Flop
+Seat 1: Andre M folded before Flop
+Seat 2: Raymond K (button) folded before Flop
+Seat 3: Manuel B (small blind) showed [8c As 3s 4d] and won €5.50 with Two Pairs 4 3 and T
+Seat 4: MiamiBlues (big blind) mucked [5d Ts Ks 5c] and lost
+
+
+**** **** **** **** **** **** **** ****
+
+
+Run It Once Poker Hand #45241835:  Omaha Pot Limit (€0.10/€0.20) - 2020/05/24 18:20 UTC [2020/05/24 19:20 CET]
+Table ID '45241627' 6-Max Seat #3 is the button
+Seat 1: Andre M (€20 in chips)
+Seat 2: Raymond K (€23.89 in chips)
+Seat 3: Manuel B (€22.72 in chips)
+Seat 4: MiamiBlues (€29.23 in chips)
+Seat 5: Blake G (€20.30 in chips)
+Seat 6: Denise M (€21.32 in chips)
+MiamiBlues: posts small blind €0.10
+Blake G: posts big blind €0.20
+*** HOLE CARDS ***
+STP added: €0.60
+Dealt to MiamiBlues [Tc Ad 5h Kc]
+Dealt to Blake G [3h 4s 8h Jc]
+Dealt to Denise M [Ks 7c Js 2s]
+Dealt to Andre M [6d 5d Jh Ac]
+Dealt to Raymond K [9s 9c 4c Th]
+Dealt to Manuel B [Qs Td 9d 8d]
+Denise M: folds
+Andre M: calls €0.20
+Raymond K: folds
+Manuel B: calls €0.20
+MiamiBlues: calls €0.10
+Blake G: checks
+*** FLOP *** [Kh 3d 6s]
+MiamiBlues: checks
+Blake G: checks
+Andre M: checks
+Manuel B: checks
+*** TURN *** [Kh 3d 6s] [4d]
+MiamiBlues: checks
+Blake G: checks
+Andre M: checks
+Manuel B: bets €0.76
+MiamiBlues: folds
+Blake G: folds
+Andre M: calls €0.76
+*** RIVER *** [Kh 3d 6s 4d] [7d]
+Andre M: bets €2.12
+Manuel B: calls €2.12
+*** SHOWDOWN ***
+Andre M shows [6d 5d Jh Ac] for Straight Flush [7d 6d 5d 4d 3d]
+Andre M collected €6.86 from pot
+*** SUMMARY ***
+Total pot €7.16 | Main pot €6.56 | Side pot €0.00 | STP €0.60 | Rake €0.30
+Board [Kh 3d 6s 4d 7d]
+Seat 6: Denise M folded before Flop
+Seat 2: Raymond K folded before Flop
+Seat 4: MiamiBlues (small blind) folded before River
+Seat 5: Blake G (big blind) folded before River
+Seat 1: Andre M showed [6d 5d Jh Ac] and won €6.86 with Straight Flush 3 to 7
+Seat 3: Manuel B (button) mucked [Qs Td 9d 8d] and lost
+
+
+**** **** **** **** **** **** **** ****
+
+
+Run It Once Poker Hand #45241865:  Omaha Pot Limit (€0.10/€0.20) - 2020/05/24 18:22 UTC [2020/05/24 19:22 CET]
+Table ID '45241627' 6-Max Seat #4 is the button
+Seat 1: Andre M (€23.78 in chips)
+Seat 2: Raymond K (€23.89 in chips)
+Seat 3: Manuel B (€20 in chips)
+Seat 4: MiamiBlues (€29.03 in chips)
+Seat 5: Blake G (€20.10 in chips)
+Seat 6: Denise M (€21.32 in chips)
+Blake G: posts small blind €0.10
+Denise M: posts big blind €0.20
+*** HOLE CARDS ***
+Dealt to Blake G [Qs 5c Ad 9h]
+Dealt to Denise M [Jh 4s 2s 9c]
+Dealt to Andre M [2d Ac Jd Kc]
+Dealt to Raymond K [5d Tc 7d 5h]
+Dealt to Manuel B [Jc Js 9d Qc]
+Dealt to MiamiBlues [Ah 7s Qh 3s]
+Andre M: raises €0.50 to €0.70
+Raymond K: folds
+Manuel B: calls €0.70
+MiamiBlues: folds
+Blake G: folds
+Denise M: folds
+*** FLOP *** [Ts 6d 5s]
+Andre M: checks
+Manuel B: checks
+*** TURN *** [Ts 6d 5s] [6s]
+Andre M: checks
+Manuel B: checks
+*** RIVER *** [Ts 6d 5s 6s] [Qd]
+Andre M: checks
+Manuel B: checks
+*** SHOWDOWN ***
+Manuel B shows [Jc Js 9d Qc] for Two Pairs [Qd Qc Js 6s 6d]
+Manuel B collected €1.62 from pot
+*** SUMMARY ***
+Total pot €1.70 | Main pot €1.70 | Side pot €0.00 | Rake €0.08
+Board [Ts 6d 5s 6s Qd]
+Seat 2: Raymond K folded before Flop
+Seat 4: MiamiBlues (button) folded before Flop
+Seat 5: Blake G (small blind) folded before Flop
+Seat 6: Denise M (big blind) folded before Flop
+Seat 3: Manuel B showed [Jc Js 9d Qc] and won €1.62 with Two Pairs Q 6 and J
+Seat 1: Andre M mucked [2d Ac Jd Kc] and lost
+
+
+**** **** **** **** **** **** **** ****
+
+
+Run It Once Poker Hand #45241871:  Omaha Pot Limit (€0.10/€0.20) - 2020/05/24 18:23 UTC [2020/05/24 19:23 CET]
+Table ID '45241627' 6-Max Seat #5 is the button
+Seat 1: Andre M (€23.08 in chips)
+Seat 2: Raymond K (€23.89 in chips)
+Seat 3: Manuel B (€20.92 in chips)
+Seat 4: MiamiBlues (€29.03 in chips)
+Seat 5: Blake G (€20 in chips)
+Seat 6: Denise M (€21.12 in chips)
+Denise M: posts small blind €0.10
+Andre M: posts big blind €0.20
+*** HOLE CARDS ***
+Dealt to Denise M [8c Jc 8h 4d]
+Dealt to Andre M [Qh 7s Ts Jd]
+Dealt to Raymond K [3h Tc Kd Ks]
+Dealt to Manuel B [7h Td 4s 8s]
+Dealt to MiamiBlues [8d 7d 5h 3c]
+Dealt to Blake G [9h As 5s Th]
+Raymond K: folds
+Manuel B: folds
+MiamiBlues: folds
+Blake G: raises €0.50 to €0.70
+Denise M: folds
+Andre M: calls €0.50
+*** FLOP *** [Qc 6c 9s]
+Andre M: checks
+Blake G: bets €1.07
+Andre M: calls €1.07
+*** TURN *** [Qc 6c 9s] [2d]
+Andre M: checks
+Blake G: checks
+*** RIVER *** [Qc 6c 9s 2d] [9d]
+Andre M: checks
+Blake G: bets €2
+Andre M: calls €2
+*** SHOWDOWN ***
+Blake G shows [9h As 5s Th] for Three of Kind [As Qc 9s 9h 9d]
+Blake G collected €7.30 from pot
+*** SUMMARY ***
+Total pot €7.64 | Main pot €7.64 | Side pot €0.00 | Rake €0.34
+Board [Qc 6c 9s 2d 9d]
+Seat 2: Raymond K folded before Flop
+Seat 3: Manuel B folded before Flop
+Seat 4: MiamiBlues folded before Flop
+Seat 6: Denise M (small blind) folded before Flop
+Seat 5: Blake G (button) showed [9h As 5s Th] and won €7.30 with Three of Kind 9's and A Q
+Seat 1: Andre M (big blind) mucked [Qh 7s Ts Jd] and lost
+
+
+**** **** **** **** **** **** **** ****
+
+
+Run It Once Poker Hand #45241891:  Omaha Pot Limit (€0.10/€0.20) - 2020/05/24 18:24 UTC [2020/05/24 19:24 CET]
+Table ID '45241627' 6-Max Seat #6 is the button
+Seat 1: Andre M (€20 in chips)
+Seat 2: Raymond K (€23.89 in chips)
+Seat 3: Manuel B (€20.92 in chips)
+Seat 4: MiamiBlues (€29.03 in chips)
+Seat 5: Blake G (€23.53 in chips)
+Seat 6: Denise M (€21.02 in chips)
+Andre M: posts small blind €0.10
+Raymond K: posts big blind €0.20
+*** HOLE CARDS ***
+Dealt to Andre M [As 7h 5h Jh]
+Dealt to Raymond K [7d 4h 8h 5s]
+Dealt to Manuel B [7s 2h Qc Th]
+Dealt to MiamiBlues [Jd 3d 3s Jc]
+Dealt to Blake G [Td 2d 6h 3c]
+Dealt to Denise M [8s Kd Qh Tc]
+Manuel B: folds
+MiamiBlues: raises €0.50 to €0.70
+Blake G: folds
+Denise M: folds
+Andre M: folds
+Raymond K: folds
+*** SHOWDOWN ***
+MiamiBlues: mucks hand
+Uncalled bet (€0.50) returned to MiamiBlues
+MiamiBlues collected €0.50 from pot
+*** SUMMARY ***
+Total pot €0.50 | Main pot €0.50 | Side pot €0.00 | Rake €0.00
+Seat 3: Manuel B folded before Flop
+Seat 5: Blake G folded before Flop
+Seat 6: Denise M (button) folded before Flop
+Seat 1: Andre M (small blind) folded before Flop
+Seat 2: Raymond K (big blind) folded before Flop
+Seat 4: MiamiBlues mucked hand and won €0.50
+
+
+**** **** **** **** **** **** **** ****
+
+
+Run It Once Poker Hand #45241898:  Omaha Pot Limit (€0.10/€0.20) - 2020/05/24 18:25 UTC [2020/05/24 19:25 CET]
+Table ID '45241627' 6-Max Seat #1 is the button
+Seat 1: Andre M (€20 in chips)
+Seat 2: Raymond K (€23.69 in chips)
+Seat 3: Manuel B (€20.92 in chips)
+Seat 4: MiamiBlues (€29.33 in chips)
+Seat 5: Blake G (€23.53 in chips)
+Seat 6: Denise M (€21.02 in chips)
+Raymond K: posts small blind €0.10
+Manuel B: posts big blind €0.20
+*** HOLE CARDS ***
+Dealt to Raymond K [Qs 3c 8c 6s]
+Dealt to Manuel B [3d As 9c 2c]
+Dealt to MiamiBlues [6c Js 2d 4d]
+Dealt to Blake G [3s Kh 5s Ah]
+Dealt to Denise M [7d 9h 4c 9s]
+Dealt to Andre M [4h Qd Qc 2h]
+MiamiBlues: folds
+Blake G: raises €0.50 to €0.70
+Denise M: folds
+Andre M: folds
+Raymond K: folds
+Manuel B: folds
+*** SHOWDOWN ***
+Blake G: mucks hand
+Uncalled bet (€0.50) returned to Blake G
+Blake G collected €0.50 from pot
+*** SUMMARY ***
+Total pot €0.50 | Main pot €0.50 | Side pot €0.00 | Rake €0.00
+Seat 4: MiamiBlues folded before Flop
+Seat 6: Denise M folded before Flop
+Seat 1: Andre M (button) folded before Flop
+Seat 2: Raymond K (small blind) folded before Flop
+Seat 3: Manuel B (big blind) folded before Flop
+Seat 5: Blake G mucked hand and won €0.50
+
+
+**** **** **** **** **** **** **** ****
+
+
+Run It Once Poker Hand #45241904:  Omaha Pot Limit (€0.10/€0.20) - 2020/05/24 18:25 UTC [2020/05/24 19:25 CET]
+Table ID '45241627' 6-Max Seat #2 is the button
+Seat 1: Andre M (€20 in chips)
+Seat 2: Raymond K (€23.59 in chips)
+Seat 3: Manuel B (€20.72 in chips)
+Seat 4: MiamiBlues (€29.33 in chips)
+Seat 5: Blake G (€23.83 in chips)
+Seat 6: Denise M (€21.02 in chips)
+Manuel B: posts small blind €0.10
+MiamiBlues: posts big blind €0.20
+*** HOLE CARDS ***
+Dealt to Manuel B [4s 9c Ts 5h]
+Dealt to MiamiBlues [2d 7s 8h Ac]
+Dealt to Blake G [Jc Jh 4c Td]
+Dealt to Denise M [2c 7d As 3h]
+Dealt to Andre M [Ah Ks Th 3s]
+Dealt to Raymond K [8d Qh 2s 9d]
+Blake G: folds
+Denise M: folds
+Andre M: raises €0.50 to €0.70
+Raymond K: folds
+Manuel B: folds
+MiamiBlues: folds
+*** SHOWDOWN ***
+Andre M: mucks hand
+Uncalled bet (€0.50) returned to Andre M
+Andre M collected €0.50 from pot
+*** SUMMARY ***
+Total pot €0.50 | Main pot €0.50 | Side pot €0.00 | Rake €0.00
+Seat 5: Blake G folded before Flop
+Seat 6: Denise M folded before Flop
+Seat 2: Raymond K (button) folded before Flop
+Seat 3: Manuel B (small blind) folded before Flop
+Seat 4: MiamiBlues (big blind) folded before Flop
+Seat 1: Andre M mucked hand and won €0.50
+
+
+**** **** **** **** **** **** **** ****
+
+
+Run It Once Poker Hand #45241909:  Omaha Pot Limit (€0.10/€0.20) - 2020/05/24 18:25 UTC [2020/05/24 19:25 CET]
+Table ID '45241627' 6-Max Seat #3 is the button
+Seat 1: Andre M (€20.30 in chips)
+Seat 2: Raymond K (€23.59 in chips)
+Seat 3: Manuel B (€20.62 in chips)
+Seat 4: MiamiBlues (€29.13 in chips)
+Seat 5: Blake G (€23.83 in chips)
+Seat 6: Denise M (€21.02 in chips)
+MiamiBlues: posts small blind €0.10
+Blake G: posts big blind €0.20
+*** HOLE CARDS ***
+Dealt to MiamiBlues [Jd 6s Js 5h]
+Dealt to Blake G [7d 5c 4h 2c]
+Dealt to Denise M [2h Qs Kc Ts]
+Dealt to Andre M [8c Kh 8d Qd]
+Dealt to Raymond K [Kd Qh 2d Qc]
+Dealt to Manuel B [3h 3s 8h 9h]
+Denise M: folds
+Andre M: folds
+Raymond K: raises €0.50 to €0.70
+Manuel B: folds
+MiamiBlues: calls €0.60
+Blake G: folds
+*** FLOP *** [Ac 7s 4d]
+MiamiBlues: checks
+Raymond K: checks
+*** TURN *** [Ac 7s 4d] [Tc]
+MiamiBlues: checks
+Raymond K: bets €0.77
+MiamiBlues: calls €0.77
+*** RIVER *** [Ac 7s 4d Tc] [6h]
+MiamiBlues: checks
+Raymond K: checks
+*** SHOWDOWN ***
+Raymond K shows [Kd Qh 2d Qc] for Pair [Ac Qh Qc Tc 7s]
+Raymond K collected €3.00 from pot
+*** SUMMARY ***
+Total pot €3.14 | Main pot €3.14 | Side pot €0.00 | Rake €0.14
+Board [Ac 7s 4d Tc 6h]
+Seat 6: Denise M folded before Flop
+Seat 1: Andre M folded before Flop
+Seat 3: Manuel B (button) folded before Flop
+Seat 5: Blake G (big blind) folded before Flop
+Seat 2: Raymond K showed [Kd Qh 2d Qc] and won €3.00 with Pair of Q and A T 7
+Seat 4: MiamiBlues (small blind) mucked [Jd 6s Js 5h] and lost
+
+
+**** **** **** **** **** **** **** ****
+
+
+Run It Once Poker Hand #45241928:  Omaha Pot Limit (€0.10/€0.20) - 2020/05/24 18:27 UTC [2020/05/24 19:27 CET]
+Table ID '45241627' 6-Max Seat #4 is the button
+Seat 1: Andre M (€20.30 in chips)
+Seat 2: Raymond K (€25.12 in chips)
+Seat 3: Manuel B (€20.62 in chips)
+Seat 4: MiamiBlues (€27.66 in chips)
+Seat 5: Blake G (€23.63 in chips)
+Seat 6: Denise M (€21.02 in chips)
+Blake G: posts small blind €0.10
+Denise M: posts big blind €0.20
+*** HOLE CARDS ***
+Dealt to Blake G [9s 9h Td 3h]
+Dealt to Denise M [2d Th 4c Qc]
+Dealt to Andre M [7d 3s 5h 3c]
+Dealt to Raymond K [Kh Qd Jd Ks]
+Dealt to Manuel B [8c 5d Js 8h]
+Dealt to MiamiBlues [4s Ah 5s 7h]
+Andre M: folds
+Raymond K: raises €0.50 to €0.70
+Manuel B: folds
+MiamiBlues: calls €0.70
+Blake G: folds
+Denise M: folds
+*** FLOP *** [Tc 6c 6h]
+Raymond K: checks
+MiamiBlues: bets €0.57
+Raymond K: calls €0.57
+*** TURN *** [Tc 6c 6h] [2h]
+Raymond K: checks
+MiamiBlues: bets €2.17
+Raymond K: folds
+MiamiBlues: mucks hand
+*** SHOWDOWN ***
+MiamiBlues: mucks hand
+Uncalled bet (€2.17) returned to MiamiBlues
+MiamiBlues collected €2.71 from pot
+*** SUMMARY ***
+Total pot €2.84 | Main pot €2.84 | Side pot €0.00 | Rake €0.13
+Board [Tc 6c 6h 2h]
+Seat 1: Andre M folded before Flop
+Seat 3: Manuel B folded before Flop
+Seat 5: Blake G (small blind) folded before Flop
+Seat 6: Denise M (big blind) folded before Flop
+Seat 2: Raymond K folded before River
+Seat 4: MiamiBlues (button) mucked hand and won €2.71
+
+
+**** **** **** **** **** **** **** ****
+
+
+Run It Once Poker Hand #45241942:  Omaha Pot Limit (€0.10/€0.20) - 2020/05/24 18:27 UTC [2020/05/24 19:27 CET]
+Table ID '45241627' 6-Max Seat #5 is the button
+Seat 1: Andre M (€20.30 in chips)
+Seat 2: Raymond K (€23.85 in chips)
+Seat 3: Manuel B (€20.62 in chips)
+Seat 4: MiamiBlues (€29.10 in chips)
+Seat 5: Blake G (€23.53 in chips)
+Seat 6: Denise M (€20.82 in chips)
+Denise M: posts small blind €0.10
+Andre M: posts big blind €0.20
+*** HOLE CARDS ***
+Dealt to Denise M [8s 6s Ks 3h]
+Dealt to Andre M [Ts 3c 8h 5h]
+Dealt to Raymond K [2h 3s 4d Jc]
+Dealt to Manuel B [4c 2c Th 7d]
+Dealt to MiamiBlues [Js 8c 5s 5d]
+Dealt to Blake G [6d 4h Jd 8d]
+Raymond K: folds
+Manuel B: folds
+MiamiBlues: folds
+Blake G: folds
+Denise M: folds
+*** SHOWDOWN ***
+Andre M: mucks hand
+Andre M collected €0.30 from pot
+*** SUMMARY ***
+Total pot €0.30 | Main pot €0.30 | Side pot €0.00 | Rake €0.00
+Seat 2: Raymond K folded before Flop
+Seat 3: Manuel B folded before Flop
+Seat 4: MiamiBlues folded before Flop
+Seat 5: Blake G (button) folded before Flop
+Seat 6: Denise M (small blind) folded before Flop
+Seat 1: Andre M (big blind) mucked hand and won €0.30
+
+
+**** **** **** **** **** **** **** ****
+
+
+Run It Once Poker Hand #45241943:  Omaha Pot Limit (€0.10/€0.20) - 2020/05/24 18:28 UTC [2020/05/24 19:28 CET]
+Table ID '45241627' 6-Max Seat #6 is the button
+Seat 1: Andre M (€20.40 in chips)
+Seat 2: Raymond K (€23.85 in chips)
+Seat 3: Manuel B (€20.62 in chips)
+Seat 4: MiamiBlues (€29.10 in chips)
+Seat 5: Blake G (€23.53 in chips)
+Seat 6: Denise M (€20.72 in chips)
+Andre M: posts small blind €0.10
+Raymond K: posts big blind €0.20
+*** HOLE CARDS ***
+Dealt to Andre M [2h 5d Ks Js]
+Dealt to Raymond K [8s 9h Ah 9s]
+Dealt to Manuel B [4d 5s 4s Jc]
+Dealt to MiamiBlues [2c 9d Td 6h]
+Dealt to Blake G [7s Ts Tc Qs]
+Dealt to Denise M [Jh Kd Qh 8h]
+Manuel B: folds
+MiamiBlues: folds
+Blake G: folds
+Denise M: folds
+Andre M: folds
+*** SHOWDOWN ***
+Raymond K: mucks hand
+Raymond K collected €0.30 from pot
+*** SUMMARY ***
+Total pot €0.30 | Main pot €0.30 | Side pot €0.00 | Rake €0.00
+Seat 3: Manuel B folded before Flop
+Seat 4: MiamiBlues folded before Flop
+Seat 5: Blake G folded before Flop
+Seat 6: Denise M (button) folded before Flop
+Seat 1: Andre M (small blind) folded before Flop
+Seat 2: Raymond K (big blind) mucked hand and won €0.30
+
+
+**** **** **** **** **** **** **** ****
+
+
+Run It Once Poker Hand #45241946:  Omaha Pot Limit (€0.10/€0.20) - 2020/05/24 18:28 UTC [2020/05/24 19:28 CET]
+Table ID '45241627' 6-Max Seat #1 is the button
+Seat 1: Andre M (€20.30 in chips)
+Seat 2: Raymond K (€23.95 in chips)
+Seat 3: Manuel B (€20.62 in chips)
+Seat 4: MiamiBlues (€29.10 in chips)
+Seat 5: Blake G (€23.53 in chips)
+Seat 6: Denise M (€20.72 in chips)
+Raymond K: posts small blind €0.10
+Manuel B: posts big blind €0.20
+*** HOLE CARDS ***
+Dealt to Raymond K [6h 8h Ks Ac]
+Dealt to Manuel B [6c Th Qd 4h]
+Dealt to MiamiBlues [8c 9d Kc 3h]
+Dealt to Blake G [Jd Ad 5s Ah]
+Dealt to Denise M [7c 6s 2h Jc]
+Dealt to Andre M [8d 3s 5d 8s]
+MiamiBlues: folds
+Blake G: raises €0.50 to €0.70
+Denise M: folds
+Andre M: folds
+Raymond K: folds
+Manuel B: folds
+*** SHOWDOWN ***
+Blake G: mucks hand
+Uncalled bet (€0.50) returned to Blake G
+Blake G collected €0.50 from pot
+*** SUMMARY ***
+Total pot €0.50 | Main pot €0.50 | Side pot €0.00 | Rake €0.00
+Seat 4: MiamiBlues folded before Flop
+Seat 6: Denise M folded before Flop
+Seat 1: Andre M (button) folded before Flop
+Seat 2: Raymond K (small blind) folded before Flop
+Seat 3: Manuel B (big blind) folded before Flop
+Seat 5: Blake G mucked hand and won €0.50
+
+
+**** **** **** **** **** **** **** ****
+
+
+Run It Once Poker Hand #45241950:  Omaha Pot Limit (€0.10/€0.20) - 2020/05/24 18:28 UTC [2020/05/24 19:28 CET]
+Table ID '45241627' 6-Max Seat #2 is the button
+Seat 1: Andre M (€20.30 in chips)
+Seat 2: Raymond K (€23.85 in chips)
+Seat 3: Manuel B (€20.42 in chips)
+Seat 4: MiamiBlues (€29.10 in chips)
+Seat 5: Blake G (€23.83 in chips)
+Seat 6: Denise M (€20.72 in chips)
+Manuel B: posts small blind €0.10
+MiamiBlues: posts big blind €0.20
+*** HOLE CARDS ***
+Dealt to Manuel B [9c 2d Jc 5h]
+Dealt to MiamiBlues [2s 6d 2h 9d]
+Dealt to Blake G [As 3d Ts 5c]
+Dealt to Denise M [Kc Qh Jh 3c]
+Dealt to Andre M [Tc 5d Ad Jd]
+Dealt to Raymond K [7c 7h Ah 9s]
+Blake G: folds
+Denise M: raises €0.50 to €0.70
+Andre M: folds
+Raymond K: folds
+Manuel B: folds
+MiamiBlues: folds
+*** SHOWDOWN ***
+Denise M: mucks hand
+Uncalled bet (€0.50) returned to Denise M
+Denise M collected €0.50 from pot
+*** SUMMARY ***
+Total pot €0.50 | Main pot €0.50 | Side pot €0.00 | Rake €0.00
+Seat 5: Blake G folded before Flop
+Seat 1: Andre M folded before Flop
+Seat 2: Raymond K (button) folded before Flop
+Seat 3: Manuel B (small blind) folded before Flop
+Seat 4: MiamiBlues (big blind) folded before Flop
+Seat 6: Denise M mucked hand and won €0.50
+
+
+**** **** **** **** **** **** **** ****
+
+
+Run It Once Poker Hand #45241956:  Omaha Pot Limit (€0.10/€0.20) - 2020/05/24 18:28 UTC [2020/05/24 19:28 CET]
+Table ID '45241627' 6-Max Seat #3 is the button
+Seat 1: Andre M (€20.30 in chips)
+Seat 2: Raymond K (€23.85 in chips)
+Seat 3: Manuel B (€20.32 in chips)
+Seat 4: MiamiBlues (€28.90 in chips)
+Seat 5: Blake G (€23.83 in chips)
+Seat 6: Denise M (€21.02 in chips)
+MiamiBlues: posts small blind €0.10
+Blake G: posts big blind €0.20
+*** HOLE CARDS ***
+Dealt to MiamiBlues [5h As 4h 8d]
+Dealt to Blake G [6s Ah 7d Qh]
+Dealt to Denise M [8c Jh Kh 6c]
+Dealt to Andre M [Tc 3c 4d Kd]
+Dealt to Raymond K [Kc 5c 2s 8h]
+Dealt to Manuel B [3h 3d 8s Jc]
+Denise M: raises €0.50 to €0.70
+Andre M: folds
+Raymond K: folds
+Manuel B: folds
+MiamiBlues: folds
+Blake G: calls €0.50
+*** FLOP *** [2h 9d 5s]
+Blake G: checks
+Denise M: bets €1.07
+Blake G: folds
+Denise M: mucks hand
+*** SHOWDOWN ***
+Denise M: mucks hand
+Uncalled bet (€1.07) returned to Denise M
+Denise M collected €1.43 from pot
+*** SUMMARY ***
+Total pot €1.50 | Main pot €1.50 | Side pot €0.00 | Rake €0.07
+Board [2h 9d 5s]
+Seat 1: Andre M folded before Flop
+Seat 2: Raymond K folded before Flop
+Seat 3: Manuel B (button) folded before Flop
+Seat 4: MiamiBlues (small blind) folded before Flop
+Seat 5: Blake G (big blind) folded before Turn
+Seat 6: Denise M mucked hand and won €1.43
+
+
+**** **** **** **** **** **** **** ****
+
+
+Run It Once Poker Hand #45241965:  Omaha Pot Limit (€0.10/€0.20) - 2020/05/24 18:29 UTC [2020/05/24 19:29 CET]
+Table ID '45241627' 6-Max Seat #4 is the button
+Seat 1: Andre M (€20.30 in chips)
+Seat 2: Raymond K (€23.85 in chips)
+Seat 3: Manuel B (€20.32 in chips)
+Seat 4: MiamiBlues (€28.80 in chips)
+Seat 5: Blake G (€23.13 in chips)
+Seat 6: Denise M (€21.75 in chips)
+Blake G: posts small blind €0.10
+Denise M: posts big blind €0.20
+*** HOLE CARDS ***
+Dealt to Blake G [2h Ks Kh 7h]
+Dealt to Denise M [6c 3h 4d 3c]
+Dealt to Andre M [9d 4h 6s Kc]
+Dealt to Raymond K [5c Tc 2c Jc]
+Dealt to Manuel B [Ah 7d 8d 7s]
+Dealt to MiamiBlues [8c Js 8h Kd]
+Andre M: folds
+Raymond K: folds
+Manuel B: folds
+MiamiBlues: raises €0.50 to €0.70
+Blake G: folds
+Denise M: folds
+*** SHOWDOWN ***
+MiamiBlues: mucks hand
+Uncalled bet (€0.50) returned to MiamiBlues
+MiamiBlues collected €0.50 from pot
+*** SUMMARY ***
+Total pot €0.50 | Main pot €0.50 | Side pot €0.00 | Rake €0.00
+Seat 1: Andre M folded before Flop
+Seat 2: Raymond K folded before Flop
+Seat 3: Manuel B folded before Flop
+Seat 5: Blake G (small blind) folded before Flop
+Seat 6: Denise M (big blind) folded before Flop
+Seat 4: MiamiBlues (button) mucked hand and won €0.50
+
+
+**** **** **** **** **** **** **** ****
+
+
+Run It Once Poker Hand #45241972:  Omaha Pot Limit (€0.10/€0.20) - 2020/05/24 18:30 UTC [2020/05/24 19:30 CET]
+Table ID '45241627' 6-Max Seat #5 is the button
+Seat 1: Andre M (€20.30 in chips)
+Seat 2: Raymond K (€23.85 in chips)
+Seat 3: Manuel B (€20.32 in chips)
+Seat 4: MiamiBlues (€29.10 in chips)
+Seat 5: Blake G (€23.03 in chips)
+Seat 6: Denise M (€21.55 in chips)
+Denise M: posts small blind €0.10
+Andre M: posts big blind €0.20
+*** HOLE CARDS ***
+Dealt to Denise M [2d 4c Tc Jh]
+Dealt to Andre M [8c 2c 6s Td]
+Dealt to Raymond K [Js As Qh Ac]
+Dealt to Manuel B [4s Th Kd Qd]
+Dealt to MiamiBlues [8h Kh 5h Ah]
+Dealt to Blake G [Ad Ks 6h Jc]
+Raymond K: raises €0.50 to €0.70
+Manuel B: folds
+MiamiBlues: folds
+Blake G: folds
+Denise M: folds
+Andre M: folds
+*** SHOWDOWN ***
+Raymond K: mucks hand
+Uncalled bet (€0.50) returned to Raymond K
+Raymond K collected €0.50 from pot
+*** SUMMARY ***
+Total pot €0.50 | Main pot €0.50 | Side pot €0.00 | Rake €0.00
+Seat 3: Manuel B folded before Flop
+Seat 4: MiamiBlues folded before Flop
+Seat 5: Blake G (button) folded before Flop
+Seat 6: Denise M (small blind) folded before Flop
+Seat 1: Andre M (big blind) folded before Flop
+Seat 2: Raymond K mucked hand and won €0.50
+
+
+**** **** **** **** **** **** **** ****
+
+
+Run It Once Poker Hand #45241977:  Omaha Pot Limit (€0.10/€0.20) - 2020/05/24 18:30 UTC [2020/05/24 19:30 CET]
+Table ID '45241627' 6-Max Seat #6 is the button
+Seat 1: Andre M (€20.10 in chips)
+Seat 2: Raymond K (€24.15 in chips)
+Seat 3: Manuel B (€20.32 in chips)
+Seat 4: MiamiBlues (€29.10 in chips)
+Seat 5: Blake G (€23.03 in chips)
+Seat 6: Denise M (€21.45 in chips)
+Andre M: posts small blind €0.10
+Raymond K: posts big blind €0.20
+*** HOLE CARDS ***
+Dealt to Andre M [2d 6d Qc Qs]
+Dealt to Raymond K [2s Jc 5c 6s]
+Dealt to Manuel B [Ad Js 4s 7d]
+Dealt to MiamiBlues [Ks Jd 7s Qd]
+Dealt to Blake G [3d 9h 3c 2c]
+Dealt to Denise M [Kc 2h Jh 8s]
+Manuel B: raises €0.50 to €0.70
+MiamiBlues: calls €0.70
+Blake G: folds
+Denise M: folds
+Andre M: folds
+Raymond K: folds
+*** FLOP *** [Kd 8h Ah]
+Manuel B: bets €0.81
+MiamiBlues: folds
+Manuel B: mucks hand
+*** SHOWDOWN ***
+Manuel B: mucks hand
+Uncalled bet (€0.81) returned to Manuel B
+Manuel B collected €1.62 from pot
+*** SUMMARY ***
+Total pot €1.70 | Main pot €1.70 | Side pot €0.00 | Rake €0.08
+Board [Kd 8h Ah]
+Seat 5: Blake G folded before Flop
+Seat 6: Denise M (button) folded before Flop
+Seat 1: Andre M (small blind) folded before Flop
+Seat 2: Raymond K (big blind) folded before Flop
+Seat 4: MiamiBlues folded before Turn
+Seat 3: Manuel B mucked hand and won €1.62
+
+
+**** **** **** **** **** **** **** ****
+
+
+Run It Once Poker Hand #45241990:  Omaha Pot Limit (€0.10/€0.20) - 2020/05/24 18:31 UTC [2020/05/24 19:31 CET]
+Table ID '45241627' 6-Max Seat #1 is the button
+Seat 1: Andre M (€20 in chips)
+Seat 2: Raymond K (€23.95 in chips)
+Seat 3: Manuel B (€21.24 in chips)
+Seat 4: MiamiBlues (€28.40 in chips)
+Seat 5: Blake G (€23.03 in chips)
+Seat 6: Denise M (€21.45 in chips)
+Raymond K: posts small blind €0.10
+Manuel B: posts big blind €0.20
+*** HOLE CARDS ***
+Dealt to Raymond K [Ac Qc Jc 2d]
+Dealt to Manuel B [2s 3s Td Ad]
+Dealt to MiamiBlues [As 5s Qs 9c]
+Dealt to Blake G [2h 4d 6c 7h]
+Dealt to Denise M [Js 8c 7c Ks]
+Dealt to Andre M [Ah Qh 7s Jd]
+MiamiBlues: folds
+Blake G: folds
+Denise M: raises €0.50 to €0.70
+Andre M: calls €0.70
+Raymond K: folds
+Manuel B: calls €0.50
+*** FLOP *** [4s Tc 8h]
+Manuel B: checks
+Denise M: bets €0.69
+Andre M: calls €0.69
+Manuel B: folds
+*** TURN *** [4s Tc 8h] [5c]
+Denise M: checks
+Andre M: checks
+*** RIVER *** [4s Tc 8h 5c] [5d]
+Denise M: checks
+Andre M: checks
+*** SHOWDOWN ***
+Denise M shows [Js 8c 7c Ks] for Two Pairs [Ks 8h 8c 5d 5c]
+Denise M collected €3.42 from pot
+*** SUMMARY ***
+Total pot €3.58 | Main pot €3.58 | Side pot €0.00 | Rake €0.16
+Board [4s Tc 8h 5c 5d]
+Seat 4: MiamiBlues folded before Flop
+Seat 5: Blake G folded before Flop
+Seat 2: Raymond K (small blind) folded before Flop
+Seat 3: Manuel B (big blind) folded before Turn
+Seat 6: Denise M showed [Js 8c 7c Ks] and won €3.42 with Two Pairs 8 5 and K
+Seat 1: Andre M (button) mucked [Ah Qh 7s Jd] and lost
+
+
+**** **** **** **** **** **** **** ****
+
+
+Run It Once Poker Hand #45242013:  Omaha Pot Limit (€0.10/€0.20) - 2020/05/24 18:33 UTC [2020/05/24 19:33 CET]
+Table ID '45241627' 6-Max Seat #2 is the button
+Seat 1: Andre M (€20 in chips)
+Seat 2: Raymond K (€23.85 in chips)
+Seat 3: Manuel B (€20.54 in chips)
+Seat 4: MiamiBlues (€28.40 in chips)
+Seat 5: Blake G (€23.03 in chips)
+Seat 6: Denise M (€23.48 in chips)
+Manuel B: posts small blind €0.10
+MiamiBlues: posts big blind €0.20
+*** HOLE CARDS ***
+STP added: €0.80
+Dealt to Manuel B [Kh 4h 8h 2h]
+Dealt to MiamiBlues [Ad Js 5c Ac]
+Dealt to Blake G [8s Td 4s Qs]
+Dealt to Denise M [3d 5d 6h 5h]
+Dealt to Andre M [As Qh 3h 2d]
+Dealt to Raymond K [Jd Kd 6d 7c]
+Blake G: folds
+Denise M: raises €0.50 to €0.70
+Andre M: folds
+Raymond K: folds
+Manuel B: folds
+MiamiBlues: raises €1.50 to €2.20
+Denise M: calls €1.50
+*** FLOP *** [3s Ah 3c]
+MiamiBlues: bets €1.50
+Denise M: calls €1.50
+*** TURN *** [3s Ah 3c] [2s]
+MiamiBlues: bets €2.80
+Denise M: calls €2.80
+*** RIVER *** [3s Ah 3c 2s] [7h]
+MiamiBlues: bets €12.51
+Denise M: folds
+MiamiBlues: mucks hand
+*** SHOWDOWN ***
+MiamiBlues: mucks hand
+Uncalled bet (€12.51) returned to MiamiBlues
+MiamiBlues collected €13.31 from pot
+*** SUMMARY ***
+Total pot €13.90 | Main pot €13.10 | Side pot €0.00 | STP €0.80 | Rake €0.59
+Board [3s Ah 3c 2s 7h]
+Seat 5: Blake G folded before Flop
+Seat 1: Andre M folded before Flop
+Seat 2: Raymond K (button) folded before Flop
+Seat 3: Manuel B (small blind) folded before Flop
+Seat 6: Denise M folded during River
+Seat 4: MiamiBlues (big blind) mucked hand and won €13.31
+
+
+**** **** **** **** **** **** **** ****
+
+
+Run It Once Poker Hand #45242047:  Omaha Pot Limit (€0.10/€0.20) - 2020/05/24 18:35 UTC [2020/05/24 19:35 CET]
+Table ID '45241627' 6-Max Seat #3 is the button
+Seat 1: Andre M (€20 in chips)
+Seat 2: Raymond K (€23.85 in chips)
+Seat 3: Manuel B (€20.44 in chips)
+Seat 4: MiamiBlues (€35.21 in chips)
+Seat 5: Blake G (€23.03 in chips)
+Seat 6: Denise M (€20 in chips)
+MiamiBlues: posts small blind €0.10
+Blake G: posts big blind €0.20
+*** HOLE CARDS ***
+Dealt to MiamiBlues [7c Qc 5d 8h]
+Dealt to Blake G [9h 2d Kd 9c]
+Dealt to Denise M [Qh 3s 2h 4s]
+Dealt to Andre M [7d 3h Ks Ac]
+Dealt to Raymond K [2s Qs 7h Qd]
+Dealt to Manuel B [5s 9d Js Jh]
+Denise M: raises €0.50 to €0.70
+Andre M: folds
+Raymond K: folds
+Manuel B: folds
+MiamiBlues: folds
+Blake G: folds
+*** SHOWDOWN ***
+Denise M: mucks hand
+Uncalled bet (€0.50) returned to Denise M
+Denise M collected €0.50 from pot
+*** SUMMARY ***
+Total pot €0.50 | Main pot €0.50 | Side pot €0.00 | Rake €0.00
+Seat 1: Andre M folded before Flop
+Seat 2: Raymond K folded before Flop
+Seat 3: Manuel B (button) folded before Flop
+Seat 4: MiamiBlues (small blind) folded before Flop
+Seat 5: Blake G (big blind) folded before Flop
+Seat 6: Denise M mucked hand and won €0.50
+
+
+**** **** **** **** **** **** **** ****
+
+
+Run It Once Poker Hand #45242050:  Omaha Pot Limit (€0.10/€0.20) - 2020/05/24 18:35 UTC [2020/05/24 19:35 CET]
+Table ID '45241627' 6-Max Seat #4 is the button
+Seat 1: Andre M (€20 in chips)
+Seat 2: Raymond K (€23.85 in chips)
+Seat 3: Manuel B (€20.44 in chips)
+Seat 4: MiamiBlues (€35.11 in chips)
+Seat 5: Blake G (€22.83 in chips)
+Seat 6: Denise M (€20.30 in chips)
+Blake G: posts small blind €0.10
+Denise M: posts big blind €0.20
+*** HOLE CARDS ***
+Dealt to Blake G [Kc 7s Kd Ts]
+Dealt to Denise M [Js 5c 9h Ad]
+Dealt to Andre M [8c 4s 2d 2s]
+Dealt to Raymond K [Qc 4d 6h Jd]
+Dealt to Manuel B [5d Ac Qh 2h]
+Dealt to MiamiBlues [7d 6s 2c 7h]
+Andre M: folds
+Raymond K: folds
+Manuel B: folds
+MiamiBlues: folds
+Blake G: raises €0.40 to €0.60
+Denise M: folds
+*** SHOWDOWN ***
+Blake G: mucks hand
+Uncalled bet (€0.40) returned to Blake G
+Blake G collected €0.40 from pot
+*** SUMMARY ***
+Total pot €0.40 | Main pot €0.40 | Side pot €0.00 | Rake €0.00
+Seat 1: Andre M folded before Flop
+Seat 2: Raymond K folded before Flop
+Seat 3: Manuel B folded before Flop
+Seat 4: MiamiBlues (button) folded before Flop
+Seat 6: Denise M (big blind) folded before Flop
+Seat 5: Blake G (small blind) mucked hand and won €0.40
+
+
+**** **** **** **** **** **** **** ****
+
+
+Run It Once Poker Hand #45242058:  Omaha Pot Limit (€0.10/€0.20) - 2020/05/24 18:36 UTC [2020/05/24 19:36 CET]
+Table ID '45241627' 6-Max Seat #5 is the button
+Seat 1: Andre M (€20 in chips)
+Seat 2: Raymond K (€23.85 in chips)
+Seat 3: Manuel B (€20.44 in chips)
+Seat 4: MiamiBlues (€35.11 in chips)
+Seat 5: Blake G (€23.03 in chips)
+Seat 6: Denise M (€20.10 in chips)
+Denise M: posts small blind €0.10
+Andre M: posts big blind €0.20
+*** HOLE CARDS ***
+Dealt to Denise M [Jd 4s Qh Ks]
+Dealt to Andre M [5h Ts Qd 8h]
+Dealt to Raymond K [7s 7h Tc 9d]
+Dealt to Manuel B [6d 6s Qs 5c]
+Dealt to MiamiBlues [3h 3c 5s 7c]
+Dealt to Blake G [4d 3d Ad Ah]
+Raymond K: folds
+Manuel B: folds
+MiamiBlues: folds
+Blake G: raises €0.50 to €0.70
+Denise M: folds
+Andre M: folds
+*** SHOWDOWN ***
+Blake G: mucks hand
+Uncalled bet (€0.50) returned to Blake G
+Blake G collected €0.50 from pot
+*** SUMMARY ***
+Total pot €0.50 | Main pot €0.50 | Side pot €0.00 | Rake €0.00
+Seat 2: Raymond K folded before Flop
+Seat 3: Manuel B folded before Flop
+Seat 4: MiamiBlues folded before Flop
+Seat 6: Denise M (small blind) folded before Flop
+Seat 1: Andre M (big blind) folded before Flop
+Seat 5: Blake G (button) mucked hand and won €0.50
+
+
+**** **** **** **** **** **** **** ****
+
+
+Run It Once Poker Hand #45242061:  Omaha Pot Limit (€0.10/€0.20) - 2020/05/24 18:36 UTC [2020/05/24 19:36 CET]
+Table ID '45241627' 6-Max Seat #6 is the button
+Seat 1: Andre M (€20 in chips)
+Seat 2: Raymond K (€23.85 in chips)
+Seat 3: Manuel B (€20.44 in chips)
+Seat 4: MiamiBlues (€35.11 in chips)
+Seat 5: Blake G (€23.33 in chips)
+Seat 6: Denise M (€20 in chips)
+Andre M: posts small blind €0.10
+Raymond K: posts big blind €0.20
+*** HOLE CARDS ***
+Dealt to Andre M [Qd 3s Qc 6c]
+Dealt to Raymond K [Js 9d Th Jd]
+Dealt to Manuel B [4h 3d Ts Jc]
+Dealt to MiamiBlues [6h Jh 8s 7c]
+Dealt to Blake G [8c As 8d 3c]
+Dealt to Denise M [5d 5h Kc 5s]
+Manuel B: folds
+MiamiBlues: folds
+Blake G: folds
+Denise M: folds
+Andre M: raises €0.40 to €0.60
+Raymond K: raises €1.20 to €1.80
+Andre M: calls €1.20
+*** FLOP *** [2s 2h 7s]
+Andre M: checks
+Raymond K: bets €1.14
+Andre M: calls €1.14
+*** TURN *** [2s 2h 7s] [Td]
+Andre M: checks
+Raymond K: bets €4.22
+Andre M: folds
+Raymond K: mucks hand
+*** SHOWDOWN ***
+Raymond K: mucks hand
+Uncalled bet (€4.22) returned to Raymond K
+Raymond K collected €5.62 from pot
+*** SUMMARY ***
+Total pot €5.88 | Main pot €5.88 | Side pot €0.00 | Rake €0.26
+Board [2s 2h 7s Td]
+Seat 3: Manuel B folded before Flop
+Seat 4: MiamiBlues folded before Flop
+Seat 5: Blake G folded before Flop
+Seat 6: Denise M (button) folded before Flop
+Seat 1: Andre M (small blind) folded before River
+Seat 2: Raymond K (big blind) mucked hand and won €5.62
+
+
+**** **** **** **** **** **** **** ****
+
+
+Run It Once Poker Hand #45242073:  Omaha Pot Limit (€0.10/€0.20) - 2020/05/24 18:37 UTC [2020/05/24 19:37 CET]
+Table ID '45241627' 6-Max Seat #1 is the button
+Seat 1: Andre M (€20 in chips)
+Seat 2: Raymond K (€26.53 in chips)
+Seat 3: Manuel B (€20.44 in chips)
+Seat 4: MiamiBlues (€35.11 in chips)
+Seat 5: Blake G (€23.33 in chips)
+Seat 6: Denise M (€20 in chips)
+Raymond K: posts small blind €0.10
+Manuel B: posts big blind €0.20
+*** HOLE CARDS ***
+Dealt to Raymond K [Ks 8d Th Jc]
+Dealt to Manuel B [Jd 2c 7h 8c]
+Dealt to MiamiBlues [4s 4d Td 6h]
+Dealt to Blake G [Qd 5s Ad 3d]
+Dealt to Denise M [Kh Jh 9d Ac]
+Dealt to Andre M [3h 7d Qh Tc]
+MiamiBlues: folds
+Blake G: folds
+Denise M: raises €0.50 to €0.70
+Andre M: folds
+Raymond K: folds
+Manuel B: folds
+*** SHOWDOWN ***
+Denise M: mucks hand
+Uncalled bet (€0.50) returned to Denise M
+Denise M collected €0.50 from pot
+*** SUMMARY ***
+Total pot €0.50 | Main pot €0.50 | Side pot €0.00 | Rake €0.00
+Seat 4: MiamiBlues folded before Flop
+Seat 5: Blake G folded before Flop
+Seat 1: Andre M (button) folded before Flop
+Seat 2: Raymond K (small blind) folded before Flop
+Seat 3: Manuel B (big blind) folded before Flop
+Seat 6: Denise M mucked hand and won €0.50
+
+
+**** **** **** **** **** **** **** ****
+
+
+Run It Once Poker Hand #45242079:  Omaha Pot Limit (€0.10/€0.20) - 2020/05/24 18:38 UTC [2020/05/24 19:38 CET]
+Table ID '45241627' 6-Max Seat #2 is the button
+Seat 1: Andre M (€20 in chips)
+Seat 2: Raymond K (€26.43 in chips)
+Seat 3: Manuel B (€20.24 in chips)
+Seat 4: MiamiBlues (€35.11 in chips)
+Seat 5: Blake G (€23.33 in chips)
+Seat 6: Denise M (€20.30 in chips)
+Manuel B: posts small blind €0.10
+MiamiBlues: posts big blind €0.20
+*** HOLE CARDS ***
+Dealt to Manuel B [3c Kh 2c Jh]
+Dealt to MiamiBlues [8c Jc Js Th]
+Dealt to Blake G [8s 6h Ac 2d]
+Dealt to Denise M [9s 3s Qs Qh]
+Dealt to Andre M [2h 6d Ks Qc]
+Dealt to Raymond K [9d 6c 4d 4c]
+Blake G: folds
+Denise M: folds
+Andre M: folds
+Raymond K: raises €0.50 to €0.70
+Manuel B: folds
+MiamiBlues: calls €0.50
+*** FLOP *** [Kc 5c Ah]
+MiamiBlues: checks
+Raymond K: checks
+*** TURN *** [Kc 5c Ah] [Ts]
+MiamiBlues: checks
+Raymond K: bets €0.72
+MiamiBlues: calls €0.72
+*** RIVER *** [Kc 5c Ah Ts] [3d]
+MiamiBlues: checks
+Raymond K: checks
+*** SHOWDOWN ***
+MiamiBlues shows [8c Jc Js Th] for Pair [Ah Kc Js Jc Ts]
+MiamiBlues collected €2.81 from pot
+*** SUMMARY ***
+Total pot €2.94 | Main pot €2.94 | Side pot €0.00 | Rake €0.13
+Board [Kc 5c Ah Ts 3d]
+Seat 5: Blake G folded before Flop
+Seat 6: Denise M folded before Flop
+Seat 1: Andre M folded before Flop
+Seat 3: Manuel B (small blind) folded before Flop
+Seat 4: MiamiBlues (big blind) showed [8c Jc Js Th] and won €2.81 with Pair of J and A K T
+Seat 2: Raymond K (button) mucked [9d 6c 4d 4c] and lost
+
+
+**** **** **** **** **** **** **** ****
+
+
+Run It Once Poker Hand #45242096:  Omaha Pot Limit (€0.10/€0.20) - 2020/05/24 18:39 UTC [2020/05/24 19:39 CET]
+Table ID '45241627' 6-Max Seat #3 is the button
+Seat 1: Andre M (€20 in chips)
+Seat 2: Raymond K (€25.01 in chips)
+Seat 3: Manuel B (€20.14 in chips)
+Seat 4: MiamiBlues (€36.50 in chips)
+Seat 6: Denise M (€20.30 in chips)
+MiamiBlues: posts small blind €0.10
+Denise M: posts big blind €0.20
+*** HOLE CARDS ***
+Dealt to MiamiBlues [Jd Qd 4s Ts]
+Dealt to Denise M [7h 8d Td Ac]
+Dealt to Andre M [5h 8c Ad Tc]
+Dealt to Raymond K [3c Ah Qc 9h]
+Dealt to Manuel B [6c 8h 7d 9d]
+Andre M: folds
+Raymond K: raises €0.50 to €0.70
+Manuel B: calls €0.70
+MiamiBlues: calls €0.60
+Denise M: folds
+*** FLOP *** [2h 6h 5c]
+MiamiBlues: checks
+Raymond K: checks
+Manuel B: bets €1.10
+MiamiBlues: folds
+Raymond K: raises €4.40 to €5.50
+Manuel B: calls €4.40
+*** TURN *** [2h 6h 5c] [Th]
+Raymond K: bets €4.19
+Manuel B: folds
+Raymond K: mucks hand
+*** SHOWDOWN ***
+Raymond K: mucks hand
+Uncalled bet (€4.19) returned to Raymond K
+Raymond K collected €12.70 from pot
+*** SUMMARY ***
+Total pot €13.30 | Main pot €13.30 | Side pot €0.00 | Rake €0.60
+Board [2h 6h 5c Th]
+Seat 1: Andre M folded before Flop
+Seat 6: Denise M (big blind) folded before Flop
+Seat 4: MiamiBlues (small blind) folded before Turn
+Seat 3: Manuel B (button) folded before River
+Seat 2: Raymond K mucked hand and won €12.70
+
+
+**** **** **** **** **** **** **** ****
+
+
+Run It Once Poker Hand #45242109:  Omaha Pot Limit (€0.10/€0.20) - 2020/05/24 18:40 UTC [2020/05/24 19:40 CET]
+Table ID '45241627' 6-Max Seat #4 is the button
+Seat 1: Andre M (€20 in chips)
+Seat 2: Raymond K (€31.51 in chips)
+Seat 3: Manuel B (€20 in chips)
+Seat 4: MiamiBlues (€35.80 in chips)
+Seat 6: Denise M (€20.10 in chips)
+Denise M: posts small blind €0.10
+Andre M: posts big blind €0.20
+*** HOLE CARDS ***
+STP added: €1.00
+Dealt to Denise M [6c 7c Kh 8h]
+Dealt to Andre M [5d Jc 9c 3h]
+Dealt to Raymond K [Js 3c Ah 5s]
+Dealt to Manuel B [Th Ac Qs Qh]
+Dealt to MiamiBlues [8s Tc 8c 3d]
+Raymond K: calls €0.20
+Manuel B: raises €0.70 to €0.90
+MiamiBlues: folds
+Denise M: calls €0.80
+Andre M: folds
+Raymond K: folds
+*** FLOP *** [5c Jh 4d]
+Denise M: checks
+Manuel B: checks
+*** TURN *** [5c Jh 4d] [Qc]
+Denise M: bets €2.05
+Manuel B: raises €6.20 to €8.25
+Denise M: calls €6.20
+*** RIVER *** [5c Jh 4d Qc] [Ks]
+Denise M: checks
+Manuel B: bets €10.85
+Denise M: folds
+Manuel B: mucks hand
+*** SHOWDOWN ***
+Manuel B: mucks hand
+Uncalled bet (€10.85) returned to Manuel B
+Manuel B collected €18.86 from pot
+*** SUMMARY ***
+Total pot €19.70 | Main pot €18.70 | Side pot €0.00 | STP €1.00 | Rake €0.84
+Board [5c Jh 4d Qc Ks]
+Seat 4: MiamiBlues (button) folded before Flop
+Seat 1: Andre M (big blind) folded before Flop
+Seat 2: Raymond K folded before Flop
+Seat 6: Denise M (small blind) folded during River
+Seat 3: Manuel B mucked hand and won €18.86
+
+
+**** **** **** **** **** **** **** ****
+
+
+Run It Once Poker Hand #45242126:  Omaha Pot Limit (€0.10/€0.20) - 2020/05/24 18:42 UTC [2020/05/24 19:42 CET]
+Table ID '45241627' 6-Max Seat #6 is the button
+Seat 1: Andre M (€20 in chips)
+Seat 2: Raymond K (€31.31 in chips)
+Seat 3: Manuel B (€29.71 in chips)
+Seat 4: MiamiBlues (€35.80 in chips)
+Seat 6: Denise M (€20 in chips)
+Andre M: posts small blind €0.10
+Raymond K: posts big blind €0.20
+*** HOLE CARDS ***
+Dealt to Andre M [3h Qc 7c 2h]
+Dealt to Raymond K [6c 5d Td Jd]
+Dealt to Manuel B [Kc 4s Js 6s]
+Dealt to MiamiBlues [Qs Kh 8d 9s]
+Dealt to Denise M [As Ah 2c 3s]
+Manuel B: folds
+MiamiBlues: folds
+Denise M: raises €0.50 to €0.70
+Andre M: folds
+Raymond K: folds
+*** SHOWDOWN ***
+Denise M: mucks hand
+Uncalled bet (€0.50) returned to Denise M
+Denise M collected €0.50 from pot
+*** SUMMARY ***
+Total pot €0.50 | Main pot €0.50 | Side pot €0.00 | Rake €0.00
+Seat 3: Manuel B folded before Flop
+Seat 4: MiamiBlues folded before Flop
+Seat 1: Andre M (small blind) folded before Flop
+Seat 2: Raymond K (big blind) folded before Flop
+Seat 6: Denise M (button) mucked hand and won €0.50
+
+
+**** **** **** **** **** **** **** ****
+
+
+Run It Once Poker Hand #45242129:  Omaha Pot Limit (€0.10/€0.20) - 2020/05/24 18:42 UTC [2020/05/24 19:42 CET]
+Table ID '45241627' 6-Max Seat #1 is the button
+Seat 1: Andre M (€20 in chips)
+Seat 2: Raymond K (€31.11 in chips)
+Seat 3: Manuel B (€29.71 in chips)
+Seat 4: MiamiBlues (€35.80 in chips)
+Seat 6: Denise M (€20.30 in chips)
+Raymond K: posts small blind €0.10
+Manuel B: posts big blind €0.20
+*** HOLE CARDS ***
+Dealt to Raymond K [7s 6c 5d 4d]
+Dealt to Manuel B [Th Jc 8d Qd]
+Dealt to MiamiBlues [Qc 9h 3s 7c]
+Dealt to Denise M [2h Ts 7h 2d]
+Dealt to Andre M [2s 7d 6s 4h]
+MiamiBlues: folds
+Denise M: folds
+Andre M: folds
+Raymond K: raises €0.40 to €0.60
+Manuel B: calls €0.40
+*** FLOP *** [8s 2c 4c]
+Raymond K: bets €0.58
+Manuel B: calls €0.58
+*** TURN *** [8s 2c 4c] [4s]
+Raymond K: bets €1.69
+Manuel B: folds
+Raymond K: mucks hand
+*** SHOWDOWN ***
+Raymond K: mucks hand
+Uncalled bet (€1.69) returned to Raymond K
+Raymond K collected €2.25 from pot
+*** SUMMARY ***
+Total pot €2.36 | Main pot €2.36 | Side pot €0.00 | Rake €0.11
+Board [8s 2c 4c 4s]
+Seat 4: MiamiBlues folded before Flop
+Seat 6: Denise M folded before Flop
+Seat 1: Andre M (button) folded before Flop
+Seat 3: Manuel B (big blind) folded before River
+Seat 2: Raymond K (small blind) mucked hand and won €2.25
+
+
+**** **** **** **** **** **** **** ****
+
+
+Run It Once Poker Hand #45242142:  Omaha Pot Limit (€0.10/€0.20) - 2020/05/24 18:43 UTC [2020/05/24 19:43 CET]
+Table ID '45241627' 6-Max Seat #2 is the button
+Seat 1: Andre M (€20 in chips)
+Seat 2: Raymond K (€32.18 in chips)
+Seat 3: Manuel B (€28.53 in chips)
+Seat 4: MiamiBlues (€35.80 in chips)
+Seat 6: Denise M (€20.30 in chips)
+Manuel B: posts small blind €0.10
+MiamiBlues: posts big blind €0.20
+*** HOLE CARDS ***
+Dealt to Manuel B [3d 6c Jd 5d]
+Dealt to MiamiBlues [2s Tc 3s 6s]
+Dealt to Denise M [Ts Jc Ad 8h]
+Dealt to Andre M [7h Th 7c Js]
+Dealt to Raymond K [Qs Qd Kc Qc]
+Denise M: folds
+Andre M: folds
+Raymond K: folds
+Manuel B: folds
+*** SHOWDOWN ***
+MiamiBlues: mucks hand
+MiamiBlues collected €0.30 from pot
+*** SUMMARY ***
+Total pot €0.30 | Main pot €0.30 | Side pot €0.00 | Rake €0.00
+Seat 6: Denise M folded before Flop
+Seat 1: Andre M folded before Flop
+Seat 2: Raymond K (button) folded before Flop
+Seat 3: Manuel B (small blind) folded before Flop
+Seat 4: MiamiBlues (big blind) mucked hand and won €0.30
+
+
+**** **** **** **** **** **** **** ****
+
+
+Run It Once Poker Hand #45242143:  Omaha Pot Limit (€0.10/€0.20) - 2020/05/24 18:43 UTC [2020/05/24 19:43 CET]
+Table ID '45241627' 6-Max Seat #3 is the button
+Seat 1: Andre M (€20 in chips)
+Seat 2: Raymond K (€32.18 in chips)
+Seat 3: Manuel B (€28.43 in chips)
+Seat 4: MiamiBlues (€35.90 in chips)
+Seat 5: Conner B (€20 in chips)
+Seat 6: Denise M (€20.30 in chips)
+MiamiBlues: posts small blind €0.10
+Conner B: posts big blind €0.20
+*** HOLE CARDS ***
+Dealt to MiamiBlues [Jh 9c Qh 2c]
+Dealt to Conner B [Jd Td 6h 3h]
+Dealt to Denise M [Tc Kd 8s 6s]
+Dealt to Andre M [2s 5h 5c 7h]
+Dealt to Raymond K [Ad 7s 5d As]
+Dealt to Manuel B [8c 7d 8d Qd]
+Denise M: folds
+Andre M: folds
+Raymond K: raises €0.50 to €0.70
+Manuel B: folds
+MiamiBlues: folds
+Conner B: folds
+*** SHOWDOWN ***
+Raymond K: mucks hand
+Uncalled bet (€0.50) returned to Raymond K
+Raymond K collected €0.50 from pot
+*** SUMMARY ***
+Total pot €0.50 | Main pot €0.50 | Side pot €0.00 | Rake €0.00
+Seat 6: Denise M folded before Flop
+Seat 1: Andre M folded before Flop
+Seat 3: Manuel B (button) folded before Flop
+Seat 4: MiamiBlues (small blind) folded before Flop
+Seat 5: Conner B (big blind) folded before Flop
+Seat 2: Raymond K mucked hand and won €0.50
+
+
+**** **** **** **** **** **** **** ****
+
+
+Run It Once Poker Hand #45242146:  Omaha Pot Limit (€0.10/€0.20) - 2020/05/24 18:44 UTC [2020/05/24 19:44 CET]
+Table ID '45241627' 6-Max Seat #4 is the button
+Seat 1: Andre M (€20 in chips)
+Seat 2: Raymond K (€32.48 in chips)
+Seat 3: Manuel B (€28.43 in chips)
+Seat 4: MiamiBlues (€35.80 in chips)
+Seat 5: Conner B (€20 in chips)
+Seat 6: Denise M (€20.30 in chips)
+Conner B: posts small blind €0.10
+Denise M: posts big blind €0.20
+*** HOLE CARDS ***
+Dealt to Conner B [3d Qs 4c 2c]
+Dealt to Denise M [2d 4s 8h Ac]
+Dealt to Andre M [7h Ad As Js]
+Dealt to Raymond K [7s Qc Kd 8c]
+Dealt to Manuel B [Ks 6c 7d 6d]
+Dealt to MiamiBlues [Ah Jd 4d 2h]
+Andre M: raises €0.50 to €0.70
+Raymond K: folds
+Manuel B: folds
+MiamiBlues: calls €0.70
+Conner B: folds
+Denise M: folds
+*** FLOP *** [3h 4h 3s]
+Andre M: bets €0.81
+MiamiBlues: calls €0.81
+*** TURN *** [3h 4h 3s] [5h]
+Andre M: checks
+MiamiBlues: checks
+*** RIVER *** [3h 4h 3s 5h] [8s]
+Andre M: checks
+MiamiBlues: bets €3.17
+Andre M: folds
+MiamiBlues: mucks hand
+*** SHOWDOWN ***
+MiamiBlues: mucks hand
+Uncalled bet (€3.17) returned to MiamiBlues
+MiamiBlues collected €3.17 from pot
+*** SUMMARY ***
+Total pot €3.32 | Main pot €3.32 | Side pot €0.00 | Rake €0.15
+Board [3h 4h 3s 5h 8s]
+Seat 2: Raymond K folded before Flop
+Seat 3: Manuel B folded before Flop
+Seat 5: Conner B (small blind) folded before Flop
+Seat 6: Denise M (big blind) folded before Flop
+Seat 1: Andre M folded during River
+Seat 4: MiamiBlues (button) mucked hand and won €3.17
+
+
+**** **** **** **** **** **** **** ****
+
+
+Run It Once Poker Hand #45242163:  Omaha Pot Limit (€0.10/€0.20) - 2020/05/24 18:44 UTC [2020/05/24 19:44 CET]
+Table ID '45241627' 6-Max Seat #5 is the button
+Seat 1: Andre M (€20 in chips)
+Seat 2: Raymond K (€32.48 in chips)
+Seat 3: Manuel B (€28.43 in chips)
+Seat 4: MiamiBlues (€37.46 in chips)
+Seat 5: Conner B (€20 in chips)
+Seat 6: Denise M (€20.10 in chips)
+Denise M: posts small blind €0.10
+Andre M: posts big blind €0.20
+*** HOLE CARDS ***
+Dealt to Denise M [9h Td 7d 8s]
+Dealt to Andre M [Th Js Jd Jh]
+Dealt to Raymond K [5c Kc 3d 5s]
+Dealt to Manuel B [Kh 7s 2h 7c]
+Dealt to MiamiBlues [2c 6d Ad 9c]
+Dealt to Conner B [Qh 3h 5d 8d]
+Raymond K: folds
+Manuel B: folds
+MiamiBlues: raises €0.50 to €0.70
+Conner B: folds
+Denise M: calls €0.60
+Andre M: folds
+*** FLOP *** [6c Kd Ks]
+Denise M: checks
+MiamiBlues: bets €0.54
+Denise M: folds
+MiamiBlues: mucks hand
+*** SHOWDOWN ***
+MiamiBlues: mucks hand
+Uncalled bet (€0.54) returned to MiamiBlues
+MiamiBlues collected €1.53 from pot
+*** SUMMARY ***
+Total pot €1.60 | Main pot €1.60 | Side pot €0.00 | Rake €0.07
+Board [6c Kd Ks]
+Seat 2: Raymond K folded before Flop
+Seat 3: Manuel B folded before Flop
+Seat 5: Conner B (button) folded before Flop
+Seat 1: Andre M (big blind) folded before Flop
+Seat 6: Denise M (small blind) folded before Turn
+Seat 4: MiamiBlues mucked hand and won €1.53
+
+
+**** **** **** **** **** **** **** ****
+
+
+Run It Once Poker Hand #45242186:  Omaha Pot Limit (€0.10/€0.20) - 2020/05/24 18:45 UTC [2020/05/24 19:45 CET]
+Table ID '45241627' 6-Max Seat #6 is the button
+Seat 1: Andre M (€20 in chips)
+Seat 2: Raymond K (€32.48 in chips)
+Seat 3: Manuel B (€28.43 in chips)
+Seat 4: MiamiBlues (€38.29 in chips)
+Seat 5: Conner B (€20 in chips)
+Seat 6: Denise M (€20 in chips)
+Andre M: posts small blind €0.10
+Raymond K: posts big blind €0.20
+*** HOLE CARDS ***
+Dealt to Andre M [2d 2c 8c Jc]
+Dealt to Raymond K [6c 9h 7s 5s]
+Dealt to Manuel B [Ts 8d 7c 3c]
+Dealt to MiamiBlues [5h 5d Qc Ad]
+Dealt to Conner B [3d Ks Th Td]
+Dealt to Denise M [6d Kc As 4s]
+Manuel B: folds
+MiamiBlues: folds
+Conner B: folds
+Denise M: folds
+Andre M: folds
+*** SHOWDOWN ***
+Raymond K: mucks hand
+Raymond K collected €0.30 from pot
+*** SUMMARY ***
+Total pot €0.30 | Main pot €0.30 | Side pot €0.00 | Rake €0.00
+Seat 3: Manuel B folded before Flop
+Seat 4: MiamiBlues folded before Flop
+Seat 5: Conner B folded before Flop
+Seat 6: Denise M (button) folded before Flop
+Seat 1: Andre M (small blind) folded before Flop
+Seat 2: Raymond K (big blind) mucked hand and won €0.30
+
+
+**** **** **** **** **** **** **** ****
+
+
+Run It Once Poker Hand #45242189:  Omaha Pot Limit (€0.10/€0.20) - 2020/05/24 18:45 UTC [2020/05/24 19:45 CET]
+Table ID '45241627' 6-Max Seat #1 is the button
+Seat 1: Andre M (€20 in chips)
+Seat 2: Raymond K (€32.58 in chips)
+Seat 3: Manuel B (€28.43 in chips)
+Seat 4: MiamiBlues (€38.29 in chips)
+Seat 5: Conner B (€20 in chips)
+Seat 6: Denise M (€20 in chips)
+Raymond K: posts small blind €0.10
+Manuel B: posts big blind €0.20
+*** HOLE CARDS ***
+Dealt to Raymond K [5h Ts Kd Kh]
+Dealt to Manuel B [Jh Ad 9s 2s]
+Dealt to MiamiBlues [3h 5d 3c Tc]
+Dealt to Conner B [8h 6d Qh Qc]
+Dealt to Denise M [2d 2c 4d Td]
+Dealt to Andre M [4c Qd 8c 9d]
+MiamiBlues: folds
+Conner B: raises €0.50 to €0.70
+Denise M: folds
+Andre M: folds
+Raymond K: calls €0.60
+Manuel B: folds
+*** FLOP *** [6s Ac Kc]
+Raymond K: checks
+Conner B: checks
+*** TURN *** [6s Ac Kc] [Jc]
+Raymond K: checks
+Conner B: bets €0.77
+Raymond K: calls €0.77
+*** RIVER *** [6s Ac Kc Jc] [7d]
+Raymond K: checks
+Conner B: checks
+*** SHOWDOWN ***
+Raymond K shows [5h Ts Kd Kh] for Three of Kind [Ac Kh Kd Kc Jc]
+Raymond K collected €3.00 from pot
+*** SUMMARY ***
+Total pot €3.14 | Main pot €3.14 | Side pot €0.00 | Rake €0.14
+Board [6s Ac Kc Jc 7d]
+Seat 4: MiamiBlues folded before Flop
+Seat 6: Denise M folded before Flop
+Seat 1: Andre M (button) folded before Flop
+Seat 3: Manuel B (big blind) folded before Flop
+Seat 2: Raymond K (small blind) showed [5h Ts Kd Kh] and won €3.00 with Three of Kind K's and A J
+Seat 5: Conner B mucked [8h 6d Qh Qc] and lost
+
+
+**** **** **** **** **** **** **** ****
+
+
+Run It Once Poker Hand #45242216:  Omaha Pot Limit (€0.10/€0.20) - 2020/05/24 18:47 UTC [2020/05/24 19:47 CET]
+Table ID '45241627' 6-Max Seat #2 is the button
+Seat 1: Andre M (€20 in chips)
+Seat 2: Raymond K (€34.11 in chips)
+Seat 3: Manuel B (€28.23 in chips)
+Seat 4: MiamiBlues (€38.29 in chips)
+Seat 5: Conner B (€20 in chips)
+Seat 6: Denise M (€20 in chips)
+Manuel B: posts small blind €0.10
+MiamiBlues: posts big blind €0.20
+*** HOLE CARDS ***
+Dealt to Manuel B [Qh Jd Td Tc]
+Dealt to MiamiBlues [Ks 7s Jh 3c]
+Dealt to Conner B [Qs Kh 5c 3s]
+Dealt to Denise M [6h 4s 8c 4d]
+Dealt to Andre M [Ts 9h 7d Kc]
+Dealt to Raymond K [As 8d 6c 4c]
+Conner B: folds
+Denise M: folds
+Andre M: folds
+Raymond K: folds
+Manuel B: raises €0.40 to €0.60
+MiamiBlues: calls €0.40
+*** FLOP *** [Th 8s 3d]
+Manuel B: bets €0.86
+MiamiBlues: calls €0.86
+*** TURN *** [Th 8s 3d] [Qd]
+Manuel B: checks
+MiamiBlues: checks
+*** RIVER *** [Th 8s 3d Qd] [Js]
+Manuel B: checks
+MiamiBlues: checks
+*** SHOWDOWN ***
+Manuel B shows [Qh Jd Td Tc] for Three of Kind [Qd Js Th Td Tc]
+Manuel B collected €2.79 from pot
+*** SUMMARY ***
+Total pot €2.92 | Main pot €2.92 | Side pot €0.00 | Rake €0.13
+Board [Th 8s 3d Qd Js]
+Seat 5: Conner B folded before Flop
+Seat 6: Denise M folded before Flop
+Seat 1: Andre M folded before Flop
+Seat 2: Raymond K (button) folded before Flop
+Seat 3: Manuel B (small blind) showed [Qh Jd Td Tc] and won €2.79 with Three of Kind T's and Q J
+Seat 4: MiamiBlues (big blind) mucked [Ks 7s Jh 3c] and lost
+
+
+**** **** **** **** **** **** **** ****
+
+
+Run It Once Poker Hand #45242229:  Omaha Pot Limit (€0.10/€0.20) - 2020/05/24 18:48 UTC [2020/05/24 19:48 CET]
+Table ID '45241627' 6-Max Seat #3 is the button
+Seat 1: Andre M (€20 in chips)
+Seat 2: Raymond K (€34.11 in chips)
+Seat 3: Manuel B (€29.56 in chips)
+Seat 4: MiamiBlues (€36.83 in chips)
+Seat 5: Conner B (€20 in chips)
+Seat 6: Denise M (€20 in chips)
+MiamiBlues: posts small blind €0.10
+Conner B: posts big blind €0.20
+*** HOLE CARDS ***
+Dealt to MiamiBlues [Qd Js 9c Ad]
+Dealt to Conner B [2h 2c 9s Td]
+Dealt to Denise M [5c 8c 4c 3h]
+Dealt to Andre M [6h 5d 7h 7s]
+Dealt to Raymond K [Th Qh 4s 8h]
+Dealt to Manuel B [As 3c 9h Qs]
+Denise M: folds
+Andre M: folds
+Raymond K: folds
+Manuel B: raises €0.50 to €0.70
+MiamiBlues: raises €1.60 to €2.30
+Conner B: folds
+Manuel B: calls €1.60
+*** FLOP *** [Qc 3d Kc]
+MiamiBlues: bets €1.50
+Manuel B: calls €1.50
+*** TURN *** [Qc 3d Kc] [9d]
+MiamiBlues: bets €5.20
+Manuel B: calls €5.20
+*** RIVER *** [Qc 3d Kc 9d] [8d]
+MiamiBlues: bets €17.38
+Manuel B: folds
+MiamiBlues: mucks hand
+*** SHOWDOWN ***
+MiamiBlues: mucks hand
+Uncalled bet (€17.38) returned to MiamiBlues
+MiamiBlues collected €17.38 from pot
+*** SUMMARY ***
+Total pot €18.20 | Main pot €18.20 | Side pot €0.00 | Rake €0.82
+Board [Qc 3d Kc 9d 8d]
+Seat 6: Denise M folded before Flop
+Seat 1: Andre M folded before Flop
+Seat 2: Raymond K folded before Flop
+Seat 5: Conner B (big blind) folded before Flop
+Seat 3: Manuel B (button) folded during River
+Seat 4: MiamiBlues (small blind) mucked hand and won €17.38
+
+
+**** **** **** **** **** **** **** ****
+
+
+Run It Once Poker Hand #45242260:  Omaha Pot Limit (€0.10/€0.20) - 2020/05/24 18:49 UTC [2020/05/24 19:49 CET]
+Table ID '45241627' 6-Max Seat #4 is the button
+Seat 1: Andre M (€20 in chips)
+Seat 2: Raymond K (€34.11 in chips)
+Seat 3: Manuel B (€20.56 in chips)
+Seat 4: MiamiBlues (€45.21 in chips)
+Seat 5: Conner B (€20 in chips)
+Seat 6: Denise M (€20 in chips)
+Conner B: posts small blind €0.10
+Denise M: posts big blind €0.20
+*** HOLE CARDS ***
+STP added: €0.40
+Dealt to Conner B [6s 5h Td 9c]
+Dealt to Denise M [5s 4d Jc 8c]
+Dealt to Andre M [9d Ts 9h Ks]
+Dealt to Raymond K [4c Tc Th 9s]
+Dealt to Manuel B [3d 4h 5c Kh]
+Dealt to MiamiBlues [Jh Ah Ad Ac]
+Andre M: calls €0.20
+Raymond K: folds
+Manuel B: folds
+MiamiBlues: raises €0.70 to €0.90
+Conner B: folds
+Denise M: folds
+Andre M: calls €0.70
+*** FLOP *** [2s 7h 6h]
+Andre M: checks
+MiamiBlues: bets €0.84
+Andre M: raises €2.05 to €2.89
+MiamiBlues: calls €2.05
+*** TURN *** [2s 7h 6h] [6c]
+Andre M: bets €5.95
+MiamiBlues: calls €5.95
+*** RIVER *** [2s 7h 6h 6c] [3h]
+Andre M: checks
+MiamiBlues: bets €18.89
+Andre M: folds
+MiamiBlues: mucks hand
+*** SHOWDOWN ***
+MiamiBlues: mucks hand
+Uncalled bet (€18.89) returned to MiamiBlues
+MiamiBlues collected €19.29 from pot
+*** SUMMARY ***
+Total pot €20.18 | Main pot €19.78 | Side pot €0.00 | STP €0.40 | Rake €0.89
+Board [2s 7h 6h 6c 3h]
+Seat 2: Raymond K folded before Flop
+Seat 3: Manuel B folded before Flop
+Seat 5: Conner B (small blind) folded before Flop
+Seat 6: Denise M (big blind) folded before Flop
+Seat 1: Andre M folded during River
+Seat 4: MiamiBlues (button) mucked hand and won €19.29
+
+
+**** **** **** **** **** **** **** ****
+
+
+Run It Once Poker Hand #45242289:  Omaha Pot Limit (€0.10/€0.20) - 2020/05/24 18:51 UTC [2020/05/24 19:51 CET]
+Table ID '45241627' 6-Max Seat #5 is the button
+Seat 1: Andre M (€20 in chips)
+Seat 2: Raymond K (€34.11 in chips)
+Seat 3: Manuel B (€20.56 in chips)
+Seat 4: MiamiBlues (€54.76 in chips)
+Seat 5: Conner B (€20 in chips)
+Seat 6: Denise M (€20 in chips)
+Denise M: posts small blind €0.10
+Andre M: posts big blind €0.20
+*** HOLE CARDS ***
+STP added: €0.60
+Dealt to Denise M [Th Ac 6s 9c]
+Dealt to Andre M [Ah Qh Ad 6h]
+Dealt to Raymond K [8d 8c Tc 3h]
+Dealt to Manuel B [Qc 4c 5s 8s]
+Dealt to MiamiBlues [Ts 4s Jc Td]
+Dealt to Conner B [9s Ks Kc 2s]
+Raymond K: folds
+Manuel B: calls €0.20
+MiamiBlues: folds
+Conner B: calls €0.20
+Denise M: calls €0.10
+Andre M: checks
+*** FLOP *** [9d 3s 4d]
+Denise M: checks
+Andre M: checks
+Manuel B: checks
+Conner B: checks
+*** TURN *** [9d 3s 4d] [4h]
+Denise M: checks
+Andre M: checks
+Manuel B: bets €0.76
+Conner B: folds
+Denise M: folds
+Andre M: calls €0.76
+*** RIVER *** [9d 3s 4d 4h] [Qd]
+Andre M: bets €2.22
+Manuel B: raises €6.66 to €8.88
+Andre M: folds
+Manuel B: mucks hand
+*** SHOWDOWN ***
+Manuel B: mucks hand
+Uncalled bet (€6.66) returned to Manuel B
+Manuel B collected €7.06 from pot
+*** SUMMARY ***
+Total pot €7.36 | Main pot €6.76 | Side pot €0.00 | STP €0.60 | Rake €0.30
+Board [9d 3s 4d 4h Qd]
+Seat 2: Raymond K folded before Flop
+Seat 4: MiamiBlues folded before Flop
+Seat 5: Conner B (button) folded before River
+Seat 6: Denise M (small blind) folded before River
+Seat 1: Andre M (big blind) folded during River
+Seat 3: Manuel B mucked hand and won €7.06
+
+
+**** **** **** **** **** **** **** ****
+
+
+Run It Once Poker Hand #45242327:  Omaha Pot Limit (€0.10/€0.20) - 2020/05/24 18:52 UTC [2020/05/24 19:52 CET]
+Table ID '45241627' 6-Max Seat #6 is the button
+Seat 1: Andre M (€20 in chips)
+Seat 2: Raymond K (€34.11 in chips)
+Seat 3: Manuel B (€24.44 in chips)
+Seat 4: MiamiBlues (€54.76 in chips)
+Seat 5: Conner B (€20 in chips)
+Seat 6: Denise M (€20 in chips)
+Andre M: posts small blind €0.10
+Raymond K: posts big blind €0.20
+*** HOLE CARDS ***
+Dealt to Andre M [2d Jc As 8c]
+Dealt to Raymond K [3c 6h 7c Ts]
+Dealt to Manuel B [9c 3s 5d 9s]
+Dealt to MiamiBlues [Qh 4c 5h 2h]
+Dealt to Conner B [7s 4h Kh 5c]
+Dealt to Denise M [4s Ac 8s Js]
+Manuel B: folds
+MiamiBlues: folds
+Conner B: folds
+Denise M: folds
+Andre M: folds
+*** SHOWDOWN ***
+Raymond K: mucks hand
+Raymond K collected €0.30 from pot
+*** SUMMARY ***
+Total pot €0.30 | Main pot €0.30 | Side pot €0.00 | Rake €0.00
+Seat 3: Manuel B folded before Flop
+Seat 4: MiamiBlues folded before Flop
+Seat 5: Conner B folded before Flop
+Seat 6: Denise M (button) folded before Flop
+Seat 1: Andre M (small blind) folded before Flop
+Seat 2: Raymond K (big blind) mucked hand and won €0.30
+
+
+**** **** **** **** **** **** **** ****
+
+
+Run It Once Poker Hand #45242332:  Omaha Pot Limit (€0.10/€0.20) - 2020/05/24 18:53 UTC [2020/05/24 19:53 CET]
+Table ID '45241627' 6-Max Seat #1 is the button
+Seat 1: Andre M (€20 in chips)
+Seat 2: Raymond K (€34.21 in chips)
+Seat 3: Manuel B (€24.44 in chips)
+Seat 4: MiamiBlues (€54.76 in chips)
+Seat 5: Conner B (€20 in chips)
+Seat 6: Denise M (€20 in chips)
+Raymond K: posts small blind €0.10
+Manuel B: posts big blind €0.20
+*** HOLE CARDS ***
+Dealt to Raymond K [9s Ac 7c 8s]
+Dealt to Manuel B [5c Jd Tc 8h]
+Dealt to MiamiBlues [5d 6h Kc 7s]
+Dealt to Conner B [9h Td Js 9d]
+Dealt to Denise M [Kh 6s Qh 6c]
+Dealt to Andre M [4s Ks 3h Qs]
+MiamiBlues: folds
+Conner B: raises €0.50 to €0.70
+Denise M: calls €0.70
+Andre M: folds
+Raymond K: raises €2.30 to €3.00
+Manuel B: folds
+Conner B: calls €2.30
+Denise M: calls €2.30
+*** FLOP *** [Qc 8d 7d]
+Raymond K: bets €8.79
+Conner B: raises €8.21 to €17.00 and is all-in
+Denise M: folds
+Raymond K: calls €8.21
+*** TURN *** [Qc 8d 7d] [4d]
+*** RIVER *** [Qc 8d 7d 4d] [7h]
+*** SHOWDOWN ***
+Raymond K shows [9s Ac 7c 8s] for Full House [8s 8d 7h 7d 7c]
+Raymond K collected €41.26 from pot
+*** SUMMARY ***
+Total pot €43.20 | Main pot €43.20 | Side pot €0.00 | Rake €1.94
+Board [Qc 8d 7d 4d 7h]
+Seat 4: MiamiBlues folded before Flop
+Seat 1: Andre M (button) folded before Flop
+Seat 3: Manuel B (big blind) folded before Flop
+Seat 6: Denise M folded before Turn
+Seat 2: Raymond K (small blind) showed [9s Ac 7c 8s] and won €41.26 with Full House 7's and 8's
+Seat 5: Conner B mucked [9h Td Js 9d] and lost
+
+
+**** **** **** **** **** **** **** ****
+
+
+Run It Once Poker Hand #45242366:  Omaha Pot Limit (€0.10/€0.20) - 2020/05/24 18:54 UTC [2020/05/24 19:54 CET]
+Table ID '45241627' 6-Max Seat #2 is the button
+Seat 2: Raymond K (€55.47 in chips)
+Seat 3: Manuel B (€24.24 in chips)
+Seat 4: MiamiBlues (€54.76 in chips)
+Seat 5: Conner B (€20 in chips)
+Seat 6: Denise M (€20 in chips)
+Manuel B: posts small blind €0.10
+MiamiBlues: posts big blind €0.20
+*** HOLE CARDS ***
+STP added: €0.80
+Dealt to Manuel B [Td 8d Qs 6h]
+Dealt to MiamiBlues [4c Kd Js 2c]
+Dealt to Conner B [9h 2d 5s Tc]
+Dealt to Denise M [Ks Ad 4h 5c]
+Dealt to Raymond K [2h 7c 3s 5h]
+Conner B: folds
+Denise M: folds
+Raymond K: raises €0.50 to €0.70
+Manuel B: folds
+MiamiBlues: calls €0.50
+*** FLOP *** [4s Jc 8h]
+MiamiBlues: checks
+Raymond K: bets €1.43
+MiamiBlues: calls €1.43
+*** TURN *** [4s Jc 8h] [Qh]
+MiamiBlues: checks
+Raymond K: checks
+*** RIVER *** [4s Jc 8h Qh] [2s]
+MiamiBlues: checks
+Raymond K: bets €2.48
+MiamiBlues: calls €2.48
+*** SHOWDOWN ***
+MiamiBlues shows [4c Kd Js 2c] for Two Pairs [Qh Js Jc 4s 4c]
+MiamiBlues collected €9.70 from pot
+*** SUMMARY ***
+Total pot €10.12 | Main pot €9.32 | Side pot €0.00 | STP €0.80 | Rake €0.42
+Board [4s Jc 8h Qh 2s]
+Seat 5: Conner B folded before Flop
+Seat 6: Denise M folded before Flop
+Seat 3: Manuel B (small blind) folded before Flop
+Seat 4: MiamiBlues (big blind) showed [4c Kd Js 2c] and won €9.70 with Two Pairs J 4 and Q
+Seat 2: Raymond K (button) mucked [2h 7c 3s 5h] and lost
+
+
+**** **** **** **** **** **** **** ****
+
+
+Run It Once Poker Hand #45242389:  Omaha Pot Limit (€0.10/€0.20) - 2020/05/24 18:55 UTC [2020/05/24 19:55 CET]
+Table ID '45241627' 6-Max Seat #3 is the button
+Seat 1: Andre M (€20 in chips)
+Seat 3: Manuel B (€24.14 in chips)
+Seat 4: MiamiBlues (€59.85 in chips)
+Seat 5: Conner B (€20 in chips)
+Seat 6: Denise M (€20 in chips)
+MiamiBlues: posts small blind €0.10
+Conner B: posts big blind €0.20
+*** HOLE CARDS ***
+Dealt to MiamiBlues [Ks 7h 4s 8s]
+Dealt to Conner B [Kh 6c 7d 8c]
+Dealt to Denise M [9s 8d 9h 5s]
+Dealt to Andre M [7s 2d Qs 3d]
+Dealt to Manuel B [Kc Th Kd 8h]
+Denise M: folds
+Andre M: folds
+Manuel B: raises €0.50 to €0.70
+MiamiBlues: folds
+Conner B: folds
+*** SHOWDOWN ***
+Manuel B: mucks hand
+Uncalled bet (€0.50) returned to Manuel B
+Manuel B collected €0.50 from pot
+*** SUMMARY ***
+Total pot €0.50 | Main pot €0.50 | Side pot €0.00 | Rake €0.00
+Seat 6: Denise M folded before Flop
+Seat 1: Andre M folded before Flop
+Seat 4: MiamiBlues (small blind) folded before Flop
+Seat 5: Conner B (big blind) folded before Flop
+Seat 3: Manuel B (button) mucked hand and won €0.50
+
+
+**** **** **** **** **** **** **** ****
+
+
+Run It Once Poker Hand #45242394:  Omaha Pot Limit (€0.10/€0.20) - 2020/05/24 18:56 UTC [2020/05/24 19:56 CET]
+Table ID '45241627' 6-Max Seat #4 is the button
+Seat 4: MiamiBlues (€59.75 in chips)
+Seat 5: Conner B (€20 in chips)
+MiamiBlues: posts small blind €0.10
+Conner B: posts big blind €0.20
+*** HOLE CARDS ***
+Dealt to Conner B [7d Jh 7c 9s]
+Dealt to MiamiBlues [8h 6h 5s 4d]
+MiamiBlues: raises €0.40 to €0.60
+Conner B: folds
+*** SHOWDOWN ***
+MiamiBlues: mucks hand
+Uncalled bet (€0.40) returned to MiamiBlues
+MiamiBlues collected €0.40 from pot
+*** SUMMARY ***
+Total pot €0.40 | Main pot €0.40 | Side pot €0.00 | Rake €0.00
+Seat 5: Conner B (big blind) folded before Flop
+Seat 4: MiamiBlues (small blind/button) mucked hand and won €0.40
+
+
+**** **** **** **** **** **** **** ****
+
+
+Run It Once Poker Hand #45242396:  Omaha Pot Limit (€0.10/€0.20) - 2020/05/24 18:56 UTC [2020/05/24 19:56 CET]
+Table ID '45241627' 6-Max Seat #4 is the button
+Seat 4: MiamiBlues (€59.95 in chips)
+Seat 5: Conner B (€20 in chips)
+Seat 6: Jacq W (€20 in chips)
+Conner B: posts small blind €0.10
+Jacq W: posts big blind €0.20
+*** HOLE CARDS ***
+Dealt to Conner B [Ac Kh 2s 4h]
+Dealt to Jacq W [8h Kc Js Ks]
+Dealt to MiamiBlues [Qc 9c 8s 9h]
+MiamiBlues: raises €0.50 to €0.70
+Conner B: folds
+Jacq W: raises €1.50 to €2.20
+MiamiBlues: calls €1.50
+*** FLOP *** [5d 5s 9d]
+Jacq W: bets €2.15
+MiamiBlues: calls €2.15
+*** TURN *** [5d 5s 9d] [3c]
+Jacq W: bets €6.30
+MiamiBlues: raises €21.00 to €27.30
+Jacq W: calls €9.35 and is all-in
+*** RIVER *** [5d 5s 9d 3c] [6s]
+*** SHOWDOWN ***
+MiamiBlues shows [Qc 9c 8s 9h] for Full House [9h 9d 9c 5s 5d]
+Uncalled bet (€11.65) returned to MiamiBlues
+MiamiBlues collected €39.10 from pot
+*** SUMMARY ***
+Total pot €40.10 | Main pot €40.10 | Side pot €0.00 | Rake €1.00
+Board [5d 5s 9d 3c 6s]
+Seat 5: Conner B (small blind) folded before Flop
+Seat 4: MiamiBlues (button) showed [Qc 9c 8s 9h] and won €39.10 with Full House 9's and 5's
+Seat 6: Jacq W (big blind) mucked [8h Kc Js Ks] and lost
+
+
+**** **** **** **** **** **** **** ****
+
+
+Run It Once Poker Hand #45242416:  Omaha Pot Limit (€0.10/€0.20) - 2020/05/24 18:57 UTC [2020/05/24 19:57 CET]
+Table ID '45241627' 6-Max Seat #5 is the button
+Seat 4: MiamiBlues (€79.05 in chips)
+Seat 5: Conner B (€20 in chips)
+Seat 6: Jacq W (€20 in chips)
+Jacq W: posts small blind €0.10
+MiamiBlues: posts big blind €0.20
+*** HOLE CARDS ***
+STP added: €0.80
+Dealt to Jacq W [5d 5h 3h 7c]
+Dealt to MiamiBlues [Jh Ks Jc 7s]
+Dealt to Conner B [7h 9s Ts 4s]
+Conner B: raises €0.50 to €0.70
+Jacq W: folds
+MiamiBlues: calls €0.50
+*** FLOP *** [Qc 5c Js]
+MiamiBlues: checks
+Conner B: checks
+*** TURN *** [Qc 5c Js] [3d]
+MiamiBlues: bets €1.43
+Conner B: calls €1.43
+*** RIVER *** [Qc 5c Js 3d] [Tc]
+MiamiBlues: checks
+Conner B: bets €3.52
+MiamiBlues: folds
+Conner B: mucks hand
+*** SHOWDOWN ***
+Conner B: mucks hand
+Uncalled bet (€3.52) returned to Conner B
+Conner B collected €4.96 from pot
+*** SUMMARY ***
+Total pot €5.16 | Main pot €4.36 | Side pot €0.00 | STP €0.80 | Rake €0.20
+Board [Qc 5c Js 3d Tc]
+Seat 6: Jacq W (small blind) folded before Flop
+Seat 4: MiamiBlues (big blind) folded during River
+Seat 5: Conner B (button) mucked hand and won €4.96
+
+
+**** **** **** **** **** **** **** ****
+
+
+Run It Once Poker Hand #45242442:  Omaha Pot Limit (€0.10/€0.20) - 2020/05/24 18:58 UTC [2020/05/24 19:58 CET]
+Table ID '45241627' 6-Max Seat #6 is the button
+Seat 4: MiamiBlues (€76.92 in chips)
+Seat 5: Conner B (€22.83 in chips)
+Seat 6: Jacq W (€20 in chips)
+MiamiBlues: posts small blind €0.10
+Conner B: posts big blind €0.20
+*** HOLE CARDS ***
+Dealt to MiamiBlues [Kd 5h 9s 8h]
+Dealt to Conner B [8d Jc 3s Ks]
+Dealt to Jacq W [Kh 6c 8c 6s]
+Jacq W: folds
+MiamiBlues: folds
+*** SHOWDOWN ***
+Conner B: mucks hand
+Conner B collected €0.30 from pot
+*** SUMMARY ***
+Total pot €0.30 | Main pot €0.30 | Side pot €0.00 | Rake €0.00
+Seat 6: Jacq W (button) folded before Flop
+Seat 4: MiamiBlues (small blind) folded before Flop
+Seat 5: Conner B (big blind) mucked hand and won €0.30
+
+
+**** **** **** **** **** **** **** ****
+
+
+Run It Once Poker Hand #45242445:  Omaha Pot Limit (€0.10/€0.20) - 2020/05/24 18:58 UTC [2020/05/24 19:58 CET]
+Table ID '45241627' 6-Max Seat #4 is the button
+Seat 4: MiamiBlues (€76.82 in chips)
+Seat 5: Conner B (€22.93 in chips)
+Seat 6: Jacq W (€20 in chips)
+Conner B: posts small blind €0.10
+Jacq W: posts big blind €0.20
+*** HOLE CARDS ***
+Dealt to Conner B [2h Kc 7d Qc]
+Dealt to Jacq W [Ks Ts Ah 4d]
+Dealt to MiamiBlues [5h 7h Qd 8c]
+MiamiBlues: raises €0.50 to €0.70
+Conner B: folds
+Jacq W: raises €1.50 to €2.20
+MiamiBlues: calls €1.50
+*** FLOP *** [As 6d 8h]
+Jacq W: bets €4.30
+MiamiBlues: calls €4.30
+*** TURN *** [As 6d 8h] [Jh]
+Jacq W: bets €12.51
+MiamiBlues: raises €18.77 to €31.28
+Jacq W: calls €0.99 and is all-in
+*** RIVER *** [As 6d 8h Jh] [8d]
+*** SHOWDOWN ***
+MiamiBlues shows [5h 7h Qd 8c] for Three of Kind [As Qd 8h 8d 8c]
+Uncalled bet (€17.78) returned to MiamiBlues
+MiamiBlues collected €39.10 from pot
+*** SUMMARY ***
+Total pot €40.10 | Main pot €40.10 | Side pot €0.00 | Rake €1.00
+Board [As 6d 8h Jh 8d]
+Seat 5: Conner B (small blind) folded before Flop
+Seat 4: MiamiBlues (button) showed [5h 7h Qd 8c] and won €39.10 with Three of Kind 8's and A Q
+Seat 6: Jacq W (big blind) mucked [Ks Ts Ah 4d] and lost
+
+
+**** **** **** **** **** **** **** ****
+
+
+Run It Once Poker Hand #45242460:  Omaha Pot Limit (€0.10/€0.20) - 2020/05/24 18:59 UTC [2020/05/24 19:59 CET]
+Table ID '45241627' 6-Max Seat #5 is the button
+Seat 4: MiamiBlues (€95.92 in chips)
+Seat 5: Conner B (€22.83 in chips)
+Seat 6: Jacq W (€20 in chips)
+Jacq W: posts small blind €0.10
+MiamiBlues: posts big blind €0.20
+*** HOLE CARDS ***
+Dealt to Jacq W [Kc Kh Ah Qs]
+Dealt to MiamiBlues [8h 9c 5c 2c]
+Dealt to Conner B [Jd Kd 6c 6d]
+Conner B: folds
+Jacq W: raises €0.40 to €0.60
+MiamiBlues: folds
+*** SHOWDOWN ***
+Jacq W: mucks hand
+Uncalled bet (€0.40) returned to Jacq W
+Jacq W collected €0.40 from pot
+*** SUMMARY ***
+Total pot €0.40 | Main pot €0.40 | Side pot €0.00 | Rake €0.00
+Seat 5: Conner B (button) folded before Flop
+Seat 4: MiamiBlues (big blind) folded before Flop
+Seat 6: Jacq W (small blind) mucked hand and won €0.40
+
+
+**** **** **** **** **** **** **** ****
+
+
+Run It Once Poker Hand #45242465:  Omaha Pot Limit (€0.10/€0.20) - 2020/05/24 18:59 UTC [2020/05/24 19:59 CET]
+Table ID '45241627' 6-Max Seat #6 is the button
+Seat 4: MiamiBlues (€95.72 in chips)
+Seat 5: Conner B (€22.83 in chips)
+Seat 6: Jacq W (€20.20 in chips)
+MiamiBlues: posts small blind €0.10
+Conner B: posts big blind €0.20
+*** HOLE CARDS ***
+Dealt to MiamiBlues [4s Jd 2d Tc]
+Dealt to Conner B [7c 5c 4d Qh]
+Dealt to Jacq W [9c Kh 8s Kd]
+Jacq W: raises €0.50 to €0.70
+MiamiBlues: folds
+Conner B: folds
+*** SHOWDOWN ***
+Jacq W: mucks hand
+Uncalled bet (€0.50) returned to Jacq W
+Jacq W collected €0.50 from pot
+*** SUMMARY ***
+Total pot €0.50 | Main pot €0.50 | Side pot €0.00 | Rake €0.00
+Seat 4: MiamiBlues (small blind) folded before Flop
+Seat 5: Conner B (big blind) folded before Flop
+Seat 6: Jacq W (button) mucked hand and won €0.50
+
+
+**** **** **** **** **** **** **** ****
+
+
+Run It Once Poker Hand #45242471:  Omaha Pot Limit (€0.10/€0.20) - 2020/05/24 18:59 UTC [2020/05/24 19:59 CET]
+Table ID '45241627' 6-Max Seat #4 is the button
+Seat 4: MiamiBlues (€95.62 in chips)
+Seat 5: Conner B (€22.63 in chips)
+Seat 6: Jacq W (€20.50 in chips)
+Conner B: posts small blind €0.10
+Jacq W: posts big blind €0.20
+*** HOLE CARDS ***
+Dealt to Conner B [9c 4c 4d 3c]
+Dealt to Jacq W [Ts Qd Td Jd]
+Dealt to MiamiBlues [Js Qs 7d 5d]
+MiamiBlues: raises €0.50 to €0.70
+Conner B: folds
+Jacq W: raises €1.50 to €2.20
+MiamiBlues: calls €1.50
+*** FLOP *** [6d 7h Kh]
+Jacq W: bets €4.30
+MiamiBlues: folds
+Jacq W: mucks hand
+*** SHOWDOWN ***
+Jacq W: mucks hand
+Uncalled bet (€4.30) returned to Jacq W
+Jacq W collected €4.30 from pot
+*** SUMMARY ***
+Total pot €4.50 | Main pot €4.50 | Side pot €0.00 | Rake €0.20
+Board [6d 7h Kh]
+Seat 5: Conner B (small blind) folded before Flop
+Seat 4: MiamiBlues (button) folded before Turn
+Seat 6: Jacq W (big blind) mucked hand and won €4.30
+
+
+**** **** **** **** **** **** **** ****
+
+
+Run It Once Poker Hand #45242485:  Omaha Pot Limit (€0.10/€0.20) - 2020/05/24 18:59 UTC [2020/05/24 19:59 CET]
+Table ID '45241627' 6-Max Seat #5 is the button
+Seat 4: MiamiBlues (€93.42 in chips)
+Seat 5: Conner B (€22.53 in chips)
+Seat 6: Jacq W (€22.60 in chips)
+Jacq W: posts small blind €0.10
+MiamiBlues: posts big blind €0.20
+*** HOLE CARDS ***
+Dealt to Jacq W [9d 3h Qd Qs]
+Dealt to MiamiBlues [7s Kd 9s 6h]
+Dealt to Conner B [7h 4d Td 3c]
+Conner B: folds
+Jacq W: raises €0.40 to €0.60
+MiamiBlues: calls €0.40
+*** FLOP *** [7d 8s 9c]
+Jacq W: checks
+MiamiBlues: checks
+*** TURN *** [7d 8s 9c] [Ad]
+Jacq W: bets €1.15
+MiamiBlues: calls €1.15
+*** RIVER *** [7d 8s 9c Ad] [6d]
+Jacq W: bets €3.34
+MiamiBlues: folds
+Jacq W: mucks hand
+*** SHOWDOWN ***
+Jacq W: mucks hand
+Uncalled bet (€3.34) returned to Jacq W
+Jacq W collected €3.34 from pot
+*** SUMMARY ***
+Total pot €3.50 | Main pot €3.50 | Side pot €0.00 | Rake €0.16
+Board [7d 8s 9c Ad 6d]
+Seat 5: Conner B (button) folded before Flop
+Seat 4: MiamiBlues (big blind) folded during River
+Seat 6: Jacq W (small blind) mucked hand and won €3.34
+
+
+**** **** **** **** **** **** **** ****
+
+
+Run It Once Poker Hand #45242501:  Omaha Pot Limit (€0.10/€0.20) - 2020/05/24 19:00 UTC [2020/05/24 20:00 CET]
+Table ID '45241627' 6-Max Seat #6 is the button
+Seat 4: MiamiBlues (€91.67 in chips)
+Seat 5: Conner B (€22.53 in chips)
+Seat 6: Jacq W (€24.19 in chips)
+MiamiBlues: posts small blind €0.10
+Conner B: posts big blind €0.20
+*** HOLE CARDS ***
+STP added: €0.20
+Dealt to MiamiBlues [Qd 6c Qs 6h]
+Dealt to Conner B [3c 5c 4c 2s]
+Dealt to Jacq W [Ts Jd 7s 9d]
+Jacq W: raises €0.50 to €0.70
+MiamiBlues: calls €0.60
+Conner B: calls €0.50
+*** FLOP *** [4s 9s Qc]
+MiamiBlues: checks
+Conner B: checks
+Jacq W: bets €2.01
+MiamiBlues: raises €4.98 to €6.99
+Conner B: folds
+Jacq W: raises €15.99 to €22.98
+MiamiBlues: raises €47.97 to €70.95
+Jacq W: calls €0.51 and is all-in
+*** TURN *** [4s 9s Qc] [Kh]
+*** RIVER *** [4s 9s Qc Kh] [Tc]
+*** SHOWDOWN ***
+Jacq W shows [Ts Jd 7s 9d] for Straight [Kh Qc Jd Ts 9s]
+Uncalled bet (€47.46) returned to MiamiBlues
+Jacq W collected €48.28 from pot
+*** SUMMARY ***
+Total pot €49.28 | Main pot €49.08 | Side pot €0.00 | STP €0.20 | Rake €1.00
+Board [4s 9s Qc Kh Tc]
+Seat 5: Conner B (big blind) folded before Turn
+Seat 6: Jacq W (button) showed [Ts Jd 7s 9d] and won €48.28 with Straight 9 to K
+Seat 4: MiamiBlues (small blind) mucked [Qd 6c Qs 6h] and lost
+
+
+**** **** **** **** **** **** **** ****
+
+
+Run It Once Poker Hand #45242521:  Omaha Pot Limit (€0.10/€0.20) - 2020/05/24 19:01 UTC [2020/05/24 20:01 CET]
+Table ID '45241627' 6-Max Seat #4 is the button
+Seat 4: MiamiBlues (€67.48 in chips)
+Seat 5: Conner B (€21.83 in chips)
+Seat 6: Jacq W (€48.28 in chips)
+Conner B: posts small blind €0.10
+Jacq W: posts big blind €0.20
+*** HOLE CARDS ***
+STP added: €0.20
+Dealt to Conner B [9c As 6s Ad]
+Dealt to Jacq W [Td 5h 4d 4c]
+Dealt to MiamiBlues [2h Ks 9h 8d]
+MiamiBlues: raises €0.50 to €0.70
+Conner B: calls €0.60
+Jacq W: calls €0.50
+*** FLOP *** [6h 5c 7d]
+Conner B: checks
+Jacq W: checks
+MiamiBlues: bets €1.77
+Conner B: folds
+Jacq W: folds
+MiamiBlues: mucks hand
+*** SHOWDOWN ***
+MiamiBlues: mucks hand
+Uncalled bet (€1.77) returned to MiamiBlues
+MiamiBlues collected €2.21 from pot
+*** SUMMARY ***
+Total pot €2.30 | Main pot €2.10 | Side pot €0.00 | STP €0.20 | Rake €0.09
+Board [6h 5c 7d]
+Seat 5: Conner B (small blind) folded before Turn
+Seat 6: Jacq W (big blind) folded before Turn
+Seat 4: MiamiBlues (button) mucked hand and won €2.21
+
+
+**** **** **** **** **** **** **** ****
+
+
+Run It Once Poker Hand #45242541:  Omaha Pot Limit (€0.10/€0.20) - 2020/05/24 19:01 UTC [2020/05/24 20:01 CET]
+Table ID '45241627' 6-Max Seat #5 is the button
+Seat 1: Nolan L (€20 in chips)
+Seat 4: MiamiBlues (€68.99 in chips)
+Seat 5: Conner B (€21.13 in chips)
+Seat 6: Jacq W (€47.58 in chips)
+Jacq W: posts small blind €0.10
+Nolan L: posts big blind €0.20
+*** HOLE CARDS ***
+Dealt to Jacq W [Jh 9h 8h Ac]
+Dealt to Nolan L [As Kc Ah 6c]
+Dealt to MiamiBlues [Qh Ad 4s 8d]
+Dealt to Conner B [Kh Ts 4h 6s]
+MiamiBlues: folds
+Conner B: raises €0.40 to €0.60
+Jacq W: calls €0.50
+Nolan L: raises €1.80 to €2.40
+Conner B: calls €1.80
+Jacq W: folds
+*** FLOP *** [Ks 9c 9s]
+Nolan L: bets €2
+Conner B: calls €2
+*** TURN *** [Ks 9c 9s] [Tc]
+Nolan L: checks
+Conner B: checks
+*** RIVER *** [Ks 9c 9s Tc] [6h]
+Nolan L: checks
+Conner B: checks
+*** SHOWDOWN ***
+Nolan L shows [As Kc Ah 6c] for Two Pairs [As Ah Ks 9s 9c]
+Nolan L collected €8.98 from pot
+*** SUMMARY ***
+Total pot €9.40 | Main pot €9.40 | Side pot €0.00 | Rake €0.42
+Board [Ks 9c 9s Tc 6h]
+Seat 4: MiamiBlues folded before Flop
+Seat 6: Jacq W (small blind) folded before Flop
+Seat 1: Nolan L (big blind) showed [As Kc Ah 6c] and won €8.98 with Two Pairs A 9 and K
+Seat 5: Conner B (button) mucked [Kh Ts 4h 6s] and lost
+
+
+**** **** **** **** **** **** **** ****
+
+
+Run It Once Poker Hand #45242572:  Omaha Pot Limit (€0.10/€0.20) - 2020/05/24 19:03 UTC [2020/05/24 20:03 CET]
+Table ID '45241627' 6-Max Seat #6 is the button
+Seat 1: Nolan L (€24.58 in chips)
+Seat 2: Raymond K (€20 in chips)
+Seat 4: MiamiBlues (€68.99 in chips)
+Seat 5: Conner B (€20 in chips)
+Seat 6: Jacq W (€46.98 in chips)
+Nolan L: posts small blind €0.10
+Raymond K: posts big blind €0.20
+*** HOLE CARDS ***
+STP added: €0.40
+Dealt to Nolan L [9h 5h 7h Ad]
+Dealt to Raymond K [Jc Qh Qc Kc]
+Dealt to MiamiBlues [6h 6d 4h 9d]
+Dealt to Conner B [5c 4s Jh 7d]
+Dealt to Jacq W [6c 3s 2s 8d]
+MiamiBlues: folds
+Conner B: folds
+Jacq W: raises €0.50 to €0.70
+Nolan L: folds
+Raymond K: calls €0.50
+*** FLOP *** [6s Js 9s]
+Raymond K: checks
+Jacq W: checks
+*** TURN *** [6s Js 9s] [3c]
+Raymond K: checks
+Jacq W: bets €1.37
+Raymond K: folds
+Jacq W: mucks hand
+*** SHOWDOWN ***
+Jacq W: mucks hand
+Uncalled bet (€1.37) returned to Jacq W
+Jacq W collected €1.83 from pot
+*** SUMMARY ***
+Total pot €1.90 | Main pot €1.50 | Side pot €0.00 | STP €0.40 | Rake €0.07
+Board [6s Js 9s 3c]
+Seat 4: MiamiBlues folded before Flop
+Seat 5: Conner B folded before Flop
+Seat 1: Nolan L (small blind) folded before Flop
+Seat 2: Raymond K (big blind) folded before River
+Seat 6: Jacq W (button) mucked hand and won €1.83
+
+
+**** **** **** **** **** **** **** ****
+
+
+Run It Once Poker Hand #45242592:  Omaha Pot Limit (€0.10/€0.20) - 2020/05/24 19:03 UTC [2020/05/24 20:03 CET]
+Table ID '45241627' 6-Max Seat #1 is the button
+Seat 1: Nolan L (€24.48 in chips)
+Seat 2: Raymond K (€20 in chips)
+Seat 3: Simeon U (€20 in chips)
+Seat 4: MiamiBlues (€68.99 in chips)
+Seat 5: Conner B (€20 in chips)
+Seat 6: Jacq W (€48.11 in chips)
+Raymond K: posts small blind €0.10
+Simeon U: posts big blind €0.20
+*** HOLE CARDS ***
+Dealt to Raymond K [Ks Qh 2s Ts]
+Dealt to Simeon U [9s 3s 3h Qd]
+Dealt to MiamiBlues [Ad Th 2h Td]
+Dealt to Conner B [2d As 4s 6s]
+Dealt to Jacq W [7h 5s 8h 2c]
+Dealt to Nolan L [7s 5h 9c 7c]
+MiamiBlues: folds
+Conner B: folds
+Jacq W: folds
+Nolan L: raises €0.50 to €0.70
+Raymond K: folds
+Simeon U: folds
+*** SHOWDOWN ***
+Nolan L: mucks hand
+Uncalled bet (€0.50) returned to Nolan L
+Nolan L collected €0.50 from pot
+*** SUMMARY ***
+Total pot €0.50 | Main pot €0.50 | Side pot €0.00 | Rake €0.00
+Seat 4: MiamiBlues folded before Flop
+Seat 5: Conner B folded before Flop
+Seat 6: Jacq W folded before Flop
+Seat 2: Raymond K (small blind) folded before Flop
+Seat 3: Simeon U (big blind) folded before Flop
+Seat 1: Nolan L (button) mucked hand and won €0.50
+
+
+**** **** **** **** **** **** **** ****
+
+
+Run It Once Poker Hand #45243645:  Omaha Pot Limit (€0.10/€0.20) - 2020/05/24 19:04 UTC [2020/05/24 20:04 CET]
+Table ID '45241627' 6-Max Seat #2 is the button
+Seat 1: Nolan L (€24.78 in chips)
+Seat 2: Raymond K (€20 in chips)
+Seat 3: Simeon U (€19.80 in chips)
+Seat 4: MiamiBlues (€68.99 in chips)
+Seat 5: Conner B (€20 in chips)
+Seat 6: Jacq W (€48.11 in chips)
+Simeon U: posts small blind €0.10
+MiamiBlues: posts big blind €0.20
+*** HOLE CARDS ***
+Dealt to Simeon U [9c Ah Qd 2s]
+Dealt to MiamiBlues [Qh 7h 6d 6s]
+Dealt to Conner B [5d 5s 5h 4c]
+Dealt to Jacq W [5c Qs Tc 3d]
+Dealt to Nolan L [Ks 8s Ad 3h]
+Dealt to Raymond K [4d Kc Th Qc]
+Conner B: folds
+Jacq W: folds
+Nolan L: folds
+Raymond K: raises €0.50 to €0.70
+Simeon U: folds
+MiamiBlues: folds
+*** SHOWDOWN ***
+Raymond K: mucks hand
+Uncalled bet (€0.50) returned to Raymond K
+Raymond K collected €0.50 from pot
+*** SUMMARY ***
+Total pot €0.50 | Main pot €0.50 | Side pot €0.00 | Rake €0.00
+Seat 5: Conner B folded before Flop
+Seat 6: Jacq W folded before Flop
+Seat 1: Nolan L folded before Flop
+Seat 3: Simeon U (small blind) folded before Flop
+Seat 4: MiamiBlues (big blind) folded before Flop
+Seat 2: Raymond K (button) mucked hand and won €0.50
+
+
+**** **** **** **** **** **** **** ****
+
+
+Run It Once Poker Hand #45243661:  Omaha Pot Limit (€0.10/€0.20) - 2020/05/24 19:04 UTC [2020/05/24 20:04 CET]
+Table ID '45241627' 6-Max Seat #3 is the button
+Seat 1: Nolan L (€24.78 in chips)
+Seat 2: Raymond K (€20.30 in chips)
+Seat 3: Simeon U (€19.70 in chips)
+Seat 4: MiamiBlues (€68.79 in chips)
+Seat 5: Conner B (€20 in chips)
+Seat 6: Jacq W (€48.11 in chips)
+MiamiBlues: posts small blind €0.10
+Conner B: posts big blind €0.20
+*** HOLE CARDS ***
+Dealt to MiamiBlues [Jh Jc 4s 7c]
+Dealt to Conner B [Ah 9s 4h Ks]
+Dealt to Jacq W [3d 8s 8h Ac]
+Dealt to Nolan L [6s Th 6h 5c]
+Dealt to Raymond K [2h 4c 8d 3c]
+Dealt to Simeon U [4d Ad Qs 7d]
+Jacq W: folds
+Nolan L: folds
+Raymond K: folds
+Simeon U: raises €0.50 to €0.70
+MiamiBlues: calls €0.60
+Conner B: calls €0.50
+*** FLOP *** [6d Qh 5d]
+MiamiBlues: checks
+Conner B: checks
+Simeon U: bets €1.51
+MiamiBlues: folds
+Conner B: folds
+Simeon U: mucks hand
+*** SHOWDOWN ***
+Simeon U: mucks hand
+Uncalled bet (€1.51) returned to Simeon U
+Simeon U collected €2.01 from pot
+*** SUMMARY ***
+Total pot €2.10 | Main pot €2.10 | Side pot €0.00 | Rake €0.09
+Board [6d Qh 5d]
+Seat 6: Jacq W folded before Flop
+Seat 1: Nolan L folded before Flop
+Seat 2: Raymond K folded before Flop
+Seat 4: MiamiBlues (small blind) folded before Turn
+Seat 5: Conner B (big blind) folded before Turn (disconnected)
+Seat 3: Simeon U (button) mucked hand and won €2.01
+
+
+**** **** **** **** **** **** **** ****
+
+
+Run It Once Poker Hand #45243712:  Omaha Pot Limit (€0.10/€0.20) - 2020/05/24 19:06 UTC [2020/05/24 20:06 CET]
+Table ID '45241627' 6-Max Seat #4 is the button
+Seat 1: Nolan L (€24.78 in chips)
+Seat 2: Raymond K (€20.30 in chips)
+Seat 3: Simeon U (€21.01 in chips)
+Seat 4: MiamiBlues (€68.09 in chips)
+Seat 5: Conner B (€19.30 in chips) - Sitting Out
+Seat 6: Jacq W (€48.11 in chips)
+Jacq W: posts small blind €0.10
+Nolan L: posts big blind €0.20
+*** HOLE CARDS ***
+Dealt to Jacq W [Kd 9h 3s 5h]
+Dealt to Nolan L [Ah 6c 3d As]
+Dealt to Raymond K [4s 9c Jh 2s]
+Dealt to Simeon U [8s Ac 5s Jc]
+Dealt to MiamiBlues [9s 7d 7c 8d]
+Raymond K: folds
+Simeon U: raises €0.50 to €0.70
+MiamiBlues: calls €0.70
+Jacq W: folds
+Nolan L: raises €2.20 to €2.90
+Simeon U: calls €2.20
+MiamiBlues: calls €2.20
+*** FLOP *** [4d Qc 4h]
+Nolan L: bets €3
+Simeon U: folds
+MiamiBlues: folds
+Nolan L: mucks hand
+*** SHOWDOWN ***
+Nolan L: mucks hand
+Uncalled bet (€3) returned to Nolan L
+Nolan L collected €8.40 from pot
+*** SUMMARY ***
+Total pot €8.80 | Main pot €8.80 | Side pot €0.00 | Rake €0.40
+Board [4d Qc 4h]
+Seat 2: Raymond K folded before Flop
+Seat 6: Jacq W (small blind) folded before Flop
+Seat 3: Simeon U folded before Turn
+Seat 4: MiamiBlues (button) folded before Turn
+Seat 1: Nolan L (big blind) mucked hand and won €8.40
+
+
+**** **** **** **** **** **** **** ****
+
+
+Run It Once Poker Hand #45243733:  Omaha Pot Limit (€0.10/€0.20) - 2020/05/24 19:07 UTC [2020/05/24 20:07 CET]
+Table ID '45241627' 6-Max Seat #6 is the button
+Seat 1: Nolan L (€30.28 in chips)
+Seat 2: Raymond K (€20.30 in chips)
+Seat 3: Simeon U (€18.11 in chips)
+Seat 4: MiamiBlues (€65.19 in chips)
+Seat 5: Conner B (€19.30 in chips) - Sitting Out
+Seat 6: Jacq W (€48.01 in chips)
+Nolan L: posts small blind €0.10
+Raymond K: posts big blind €0.20
+*** HOLE CARDS ***
+STP added: €0.80
+Dealt to Nolan L [Kh Ah Jc Kd]
+Dealt to Raymond K [4h 9h 8d 5s]
+Dealt to Simeon U [3d Ad Ks 5d]
+Dealt to MiamiBlues [9d 2s Ts 2h]
+Dealt to Jacq W [Qd 8s 6c 7d]
+Simeon U: raises €0.50 to €0.70
+MiamiBlues: folds
+Jacq W: calls €0.70
+Nolan L: calls €0.60
+Raymond K: folds
+*** FLOP *** [6h 3s Js]
+Nolan L: checks
+Simeon U: checks
+Jacq W: checks
+*** TURN *** [6h 3s Js] [4s]
+Nolan L: checks
+Simeon U: bets €1.80
+Jacq W: folds
+Nolan L: folds
+Simeon U: mucks hand
+*** SHOWDOWN ***
+Simeon U: mucks hand
+Uncalled bet (€1.80) returned to Simeon U
+Simeon U collected €3.00 from pot
+*** SUMMARY ***
+Total pot €3.10 | Main pot €2.30 | Side pot €0.00 | STP €0.80 | Rake €0.10
+Board [6h 3s Js 4s]
+Seat 4: MiamiBlues folded before Flop
+Seat 2: Raymond K (big blind) folded before Flop
+Seat 6: Jacq W (button) folded before River
+Seat 1: Nolan L (small blind) folded before River
+Seat 3: Simeon U mucked hand and won €3.00
+
+
+**** **** **** **** **** **** **** ****
+
+
+Run It Once Poker Hand #45243762:  Omaha Pot Limit (€0.10/€0.20) - 2020/05/24 19:08 UTC [2020/05/24 20:08 CET]
+Table ID '45241627' 6-Max Seat #1 is the button
+Seat 1: Nolan L (€29.58 in chips)
+Seat 2: Raymond K (€20.10 in chips)
+Seat 3: Simeon U (€20.41 in chips)
+Seat 4: MiamiBlues (€65.19 in chips)
+Seat 5: Conner B (€19.30 in chips) - Sitting Out
+Seat 6: Jacq W (€47.31 in chips)
+Raymond K: posts small blind €0.10
+Simeon U: posts big blind €0.20
+*** HOLE CARDS ***
+Dealt to Raymond K [2c Ad 7s Qc]
+Dealt to Simeon U [Jd Ks 7c 2s]
+Dealt to MiamiBlues [Qh 5d 8h Ah]
+Dealt to Jacq W [Kh 6h 7d As]
+Dealt to Nolan L [Ac Qd Qs 4s]
+MiamiBlues: folds
+Jacq W: folds
+Nolan L: raises €0.50 to €0.70
+Raymond K: folds
+Simeon U: folds
+*** SHOWDOWN ***
+Nolan L: mucks hand
+Uncalled bet (€0.50) returned to Nolan L
+Nolan L collected €0.50 from pot
+*** SUMMARY ***
+Total pot €0.50 | Main pot €0.50 | Side pot €0.00 | Rake €0.00
+Seat 4: MiamiBlues folded before Flop
+Seat 6: Jacq W folded before Flop
+Seat 2: Raymond K (small blind) folded before Flop
+Seat 3: Simeon U (big blind) folded before Flop
+Seat 1: Nolan L (button) mucked hand and won €0.50
