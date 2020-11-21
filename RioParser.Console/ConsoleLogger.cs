@@ -4,6 +4,11 @@ namespace RioParser.Console
 {
     internal class ConsoleLogger : ILogger
     {
+        public ConsoleLogger()
+        {
+            System.Console.OutputEncoding = System.Text.Encoding.UTF8;
+        }
+
         public void Log(string message)
         {
             System.Console.WriteLine(message);

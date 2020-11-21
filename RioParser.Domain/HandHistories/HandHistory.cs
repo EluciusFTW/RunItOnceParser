@@ -14,6 +14,13 @@ namespace RioParser.Domain.HandHistories
         private string _showDown;
         private string _summary;
 
+        private string _PloIndicator = "Omaha Pot Limit";
+
+        public GameType Game
+            => _intro.Contains(_PloIndicator)
+                ? GameType.PLO
+                : GameType.Unknown;
+
         public decimal Rake => _summary
             .AfterSingle("Rake €")
             .TakeAfter('.', 2)

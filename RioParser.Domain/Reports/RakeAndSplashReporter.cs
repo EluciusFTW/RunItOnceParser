@@ -1,4 +1,5 @@
-﻿using RioParser.Domain.HandHistories;
+﻿using RioParser.Domain;
+using RioParser.Domain.HandHistories;
 using RioParser.Domain.Logging;
 using RioParser.Domain.Reports;
 using System.Collections.Generic;
@@ -13,13 +14,14 @@ internal class RakeAndSplashReporter : IReporter
         _logger = logger;
     }
 
-    public IReadOnlyCollection<IHandsReport> Process(IReadOnlyCollection<HandHistoryFile> handhistoryFiles, string hero)
+    public IReadOnlyCollection<IHandsReport> Process(IReadOnlyCollection<HandHistoryFile> handhistoryFiles, string hero, GameType gameType)
         => handhistoryFiles
             .SelectMany(file =>
             {
                 _logger.Log($"Processing {file.Name} containing {file.Hands.Count} hands.");
                 return file.Hands;
             })
+            .Where(hand => hand.Game == gameType)
             .GroupBy(hand => hand.BigBlind)
             .Select(hands => new RakeAndSplashReport(hero, hands.ToList()))
             .ToList();

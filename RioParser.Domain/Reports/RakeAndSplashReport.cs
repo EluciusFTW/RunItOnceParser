@@ -37,12 +37,12 @@ namespace RioParser.Domain.Reports
         public string PrintOut()
         {
             return
+                $"Big Blind: {_bigBlind:F2}€" + Environment.NewLine +
                 $"Hands: {_hands}" + Environment.NewLine +
-                $"Big Blind: {_bigBlind}" + Environment.NewLine +
-                $"Rake: {_rake}" + Environment.NewLine +
-                $"Rake in BB/100: {_relativeRake}" + Environment.NewLine +
-                $"STP: {_splash }" + Environment.NewLine +
-                $"STP in BB/100: {_relativeSplash}" + Environment.NewLine;
+                $"Rake: {_rake:F2}€" + Environment.NewLine +
+                $"Rake in BB/100: {_relativeRake:F2}€" + Environment.NewLine +
+                $"STP: {_splash:F2}€" + Environment.NewLine +
+                $"STP in BB/100: {_relativeSplash:F2}€" + Environment.NewLine;
         }
     }
 }
