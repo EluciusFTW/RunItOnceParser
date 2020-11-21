@@ -1,5 +1,4 @@
 ﻿using RioParser.Console.Extensions;
-using System;
 using System.Linq;
 
 namespace RioParser.Console
