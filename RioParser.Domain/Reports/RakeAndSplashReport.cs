@@ -10,8 +10,12 @@ namespace RioParser.Domain.Reports
     {
         private int _hands;
         private decimal _bigBlind;
-        private decimal _rake;
-        private decimal _splash;
+
+        private decimal _totalRake;
+        private decimal _heroRake;
+
+        private decimal _totalSplash;
+        private decimal _heroSplash;
 
         private decimal _relativeRake;
         private decimal _relativeSplash;
@@ -22,27 +26,36 @@ namespace RioParser.Domain.Reports
             _bigBlind = hands.First().BigBlind;
 
             hands
-                .Where(hand => hand.Winner == hero)
                 .ForEach(hand =>
                 {
-                    _rake += hand.Rake;
-                    _splash += hand.Splash;
+                    _totalRake += hand.Rake;
+                    _totalSplash += hand.Splash;
+
+                    if(hand.Winner == hero)
+                    {
+                        _heroRake += hand.Rake;
+                        _heroSplash += hand.Splash;
+                    }
                 });
 
             var factor = 1 / (_bigBlind * _hands / 100);
-            _relativeRake = _rake * factor;
-            _relativeSplash = _splash * factor;
+            _relativeRake = _heroRake * factor;
+            _relativeSplash = _heroSplash * factor;
         }
 
         public string PrintOut()
         {
             return
-                $"Big Blind: {_bigBlind:F2}€" + Environment.NewLine +
-                $"Hands: {_hands}" + Environment.NewLine +
-                $"Rake: {_rake:F2}€" + Environment.NewLine +
-                $"Rake in BB/100: {_relativeRake:F2}€" + Environment.NewLine +
-                $"STP: {_splash:F2}€" + Environment.NewLine +
-                $"STP in BB/100: {_relativeSplash:F2}€" + Environment.NewLine;
+                Environment.NewLine + 
+                $"*** Big Blind: {_bigBlind:F2}€ ---  Hands: {_hands}" + Environment.NewLine +
+                $"Rake" + Environment.NewLine +
+                $" - total:                 {_totalRake:F2}€" + Environment.NewLine +
+                $" - by hero:               {_heroRake:F2}€" + Environment.NewLine +
+                $" - by hero in BB/100:     {_relativeRake:F2}" + Environment.NewLine +
+                $"Splashes:" + Environment.NewLine +
+                $" - total:                 {_totalSplash:F2}€" + Environment.NewLine +
+                $" - won by hero:           {_heroSplash:F2}€" + Environment.NewLine +
+                $" - won by hero in BB/100: {_relativeSplash:F2}" + Environment.NewLine;
         }
     }
 }
