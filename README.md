@@ -4,7 +4,7 @@ RunItOnceParser is a CLI tool to analyze hand histories from [Run It Once Poker 
 ## Usage
 Execute "Rioparser.exe /h" to see all available options.
 
-Here is a preview of the output:
+Preview of the output:
 ![Screenshot of a report](./Sample/terminal-screenshot.png)
 
 ## Status
