@@ -12,6 +12,3 @@ The tool is still in very early stages. Particularily, the most obvious shortcom
 
 ## Contribute
 All contributions are welcome!
-
-## Licence
-This project is licenced under GNU General Public License v3.0.
