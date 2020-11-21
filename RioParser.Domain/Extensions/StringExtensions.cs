@@ -2,19 +2,22 @@
 using System.Globalization;
 using System.Linq;
 
-namespace RioParser.Console.Extensions
+namespace RioParser.Domain.Extensions
 {
     public static class StringExtensions
     {
         public static string BetweenSingle(this string subject, string beginning, string end)
-            => subject.AfterSingle(beginning).Before(end);
+            => subject.AfterFirst(beginning).Before(end);
 
-        public static string Before(this string suject, string end)
+        public static string Before(this string subject, string end)
+            => subject.Split(end)[0].Trim();
+
+        public static string BeforeAny(this string subject, string[] ends)
         {
-            var parts = suject.Split(end);
-            return end.Length >= 2
-                ? parts[0].Trim()
-                : string.Empty;
+            var piece = subject;
+            ends.ForEach(end => piece = piece.Split(end)[0]);
+
+            return piece.Trim();
         }
 
         public static string AfterSingle(this string subject, string beginning)
@@ -28,9 +31,7 @@ namespace RioParser.Console.Extensions
         public static string AfterFirst(this string subject, string beginning)
         {
             var parts = subject.Split(beginning);
-            return parts.Length >= 2
-                ? subject.Split(beginning)[1].Trim()
-                : string.Empty;
+            return string.Join('', parts.Skip(1)).Trim();
         }
 
         public static string LineContaining(this string subject, string marker)

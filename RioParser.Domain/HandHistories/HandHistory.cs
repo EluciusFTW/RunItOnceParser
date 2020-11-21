@@ -1,10 +1,9 @@
-﻿using RioParser.Console.Extensions;
-using System;
-using System.Linq;
+﻿using System.Linq;
+using RioParser.Domain.Extensions;
 
-namespace RioParser.Console
+namespace RioParser.Domain.HandHistories
 {
-    internal class HandHistory
+    public class HandHistory
     {
         private const string ShowDownMarker = "*** SHOWDOWN ***";
         private const string ActionMarker = "*** HOLE CARDS ***";
@@ -37,8 +36,9 @@ namespace RioParser.Console
 
         public string Winner => new string(_summary
             .LineContaining(" won €")
-            .Skip(8)
-            .TakeWhile(c => c != ' ').ToArray());
+            .AfterFirst(":")
+            .BeforeAny(new[] { "(", "showed" })
+            .ToArray());
 
         public HandHistory(string hand)
         {

@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace RioParser.Console.Extensions
+namespace RioParser.Domain.Extensions
 {
     public static class EnumerableExtensions
     {

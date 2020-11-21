@@ -1,11 +1,12 @@
-﻿using RioParser.Console.Extensions;
+﻿using RioParser.Domain.Extensions;
+using RioParser.Domain.HandHistories;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 
-namespace RioParser.Console
+namespace RioParser.Domain.Reports
 {
-    internal class HandsReport
+    public class HandsReport
     {
         private int _hands;
         private decimal _bigBlind;
