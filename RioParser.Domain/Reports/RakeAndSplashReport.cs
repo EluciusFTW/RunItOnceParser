@@ -6,7 +6,7 @@ using System.Linq;
 
 namespace RioParser.Domain.Reports
 {
-    public class HandsReport
+    public class RakeAndSplashReport : IHandsReport
     {
         private int _hands;
         private decimal _bigBlind;
@@ -16,7 +16,7 @@ namespace RioParser.Domain.Reports
         private decimal _relativeRake;
         private decimal _relativeSplash;
 
-        public HandsReport(string hero, IReadOnlyCollection<HandHistory> hands)
+        public RakeAndSplashReport(string hero, IReadOnlyCollection<HandHistory> hands)
         {
             _hands = hands.Count;
             _bigBlind = hands.First().BigBlind;

@@ -31,7 +31,7 @@ namespace RioParser.Domain.Extensions
         public static string AfterFirst(this string subject, string beginning)
         {
             var parts = subject.Split(beginning);
-            return string.Join('', parts.Skip(1)).Trim();
+            return string.Join('\0', parts.Skip(1)).Trim();
         }
 
         public static string LineContaining(this string subject, string marker)
