@@ -69,11 +69,12 @@ namespace RioParser.Domain.Tests
 
         public HandHistoryFile GetHandHistoryFileContent()
         {
-            var embeddedProvider = new EmbeddedFileProvider(Assembly.GetExecutingAssembly());
-            using var reader = embeddedProvider.GetFileInfo("_TestData/manipulated-hand-histories-plo-20.txt").CreateReadStream();
-            using var readerr = new StreamReader(reader);
+            using var stream = new EmbeddedFileProvider(Assembly.GetExecutingAssembly())
+                .GetFileInfo("_TestData/manipulated-hand-histories-plo-20.txt")
+                .CreateReadStream();
+            using var reader = new StreamReader(stream);
             
-            return new HandHistoryFile("test", readerr.ReadToEnd());
+            return new HandHistoryFile("test", reader.ReadToEnd());
         }
     }
 }
