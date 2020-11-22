@@ -8,6 +8,7 @@
 
   <ItemGroup>
     <PackageReference Include="FluentAssertions" Version="5.10.3" />
+    <PackageReference Include="Microsoft.Extensions.FileProviders.Embedded" Version="5.0.0" />
     <PackageReference Include="Microsoft.NET.Test.Sdk" Version="16.5.0" />
     <PackageReference Include="NSubstitute" Version="4.2.2" />
     <PackageReference Include="xunit" Version="2.4.0" />
@@ -20,6 +21,14 @@
 
   <ItemGroup>
     <ProjectReference Include="..\..\RioParser.Domain\RioParser.Domain.csproj" />
+  </ItemGroup>
+  
+  <ItemGroup>
+    <EmbeddedResource Include="..\..\Sample\TestData\manipulated-hand-histories-plo-20.txt" Link="_TestData\manipulated-hand-histories-plo-20.txt" />
+  </ItemGroup>
+  
+  <ItemGroup>
+    <Folder Include="_TestData\" />
   </ItemGroup>
 
 </Project>

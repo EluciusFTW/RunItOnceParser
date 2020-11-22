@@ -5,11 +5,11 @@ VisualStudioVersion = 16.0.30523.141
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RioParser.Console", "RioParser.Console\RioParser.Console.csproj", "{F36FCF04-DE40-479D-A57C-6AAF13D6D48F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RioParser.Domain", "RioParser.Domain\RioParser.Domain.csproj", "{F145F4F9-8535-46B5-838E-660620AC707A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RioParser.Domain", "RioParser.Domain\RioParser.Domain.csproj", "{F145F4F9-8535-46B5-838E-660620AC707A}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tests", "Tests", "{E3AD3E16-DA60-4D5B-AF58-5E41780BCDE7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RioParser.Domain.Tests", "Tests\RioParser.Domain.Tests\RioParser.Domain.Tests.csproj", "{2B0D750A-0906-4E4B-9A60-38435A8A8A35}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RioParser.Domain.Tests", "Tests\RioParser.Domain.Tests\RioParser.Domain.Tests.csproj", "{2B0D750A-0906-4E4B-9A60-38435A8A8A35}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

@@ -11,6 +11,15 @@ namespace RioParser.Domain.HandHistories
 
         public IReadOnlyCollection<HandHistory> Hands { get; }
 
+        public HandHistoryFile(string name, string content)
+        {
+            Name = name;
+            Hands = content
+                .Split(separator)
+                .Select(hand => new HandHistory(hand))
+                .ToList();
+        }
+
         public HandHistoryFile(FileInfo fileInfo)
         {
             Name = fileInfo.Name;

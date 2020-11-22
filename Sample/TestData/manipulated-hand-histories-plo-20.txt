@@ -1,0 +1,422 @@
+Run It Once Poker Hand #44774946:  Omaha Pot Limit (€0.10/€0.20) - 2020/05/13 11:30 UTC [2020/05/13 12:30 CET]
+Table ID '44771362' 6-Max Seat #2 is the button
+Seat 1: Willie F (€17.09 in chips)
+Seat 2: Joel U (€23.20 in chips)
+Seat 3: Carson A (€17.56 in chips)
+Seat 4: MiamiBlues (€20 in chips)
+Seat 5: Ari Z (€29.21 in chips)
+Seat 6: Kassidy N (€21.49 in chips)
+Carson A: posts small blind €0.10
+MiamiBlues: posts big blind €0.20
+*** HOLE CARDS ***
+Dealt to Carson A [6s 8s 3h 7h]
+Dealt to MiamiBlues [2s 5c Th Ks]
+Dealt to Ari Z [Qc 4s Td 6c]
+Dealt to Kassidy N [7d 4h Qh 3s]
+Dealt to Willie F [9h Js 5d 9c]
+Dealt to Joel U [Ah Jd 2d Kc]
+Ari Z: folds
+Kassidy N: folds
+Willie F: folds
+Joel U: folds
+Carson A: folds
+*** SHOWDOWN ***
+MiamiBlues: mucks hand
+MiamiBlues collected €0.30 from pot
+*** SUMMARY ***
+Total pot €0.30 | Main pot €0.30 | Side pot €0.00 | Rake €0.00
+Seat 5: Ari Z folded before Flop
+Seat 6: Kassidy N folded before Flop
+Seat 1: Willie F folded before Flop
+Seat 2: Joel U (button) folded before Flop
+Seat 3: Carson A (small blind) folded before Flop
+Seat 4: MiamiBlues (big blind) mucked hand and won €0.30
+
+
+**** **** **** **** **** **** **** ****
+
+
+Run It Once Poker Hand #44774954:  Omaha Pot Limit (€0.10/€0.20) - 2020/05/13 11:30 UTC [2020/05/13 12:30 CET]
+Table ID '44771362' 6-Max Seat #3 is the button
+Seat 1: Willie F (€17.09 in chips)
+Seat 2: Joel U (€23.20 in chips)
+Seat 3: Carson A (€17.46 in chips)
+Seat 4: MiamiBlues (€20.10 in chips)
+Seat 6: Kassidy N (€21.49 in chips)
+MiamiBlues: posts small blind €0.10
+Kassidy N: posts big blind €0.20
+*** HOLE CARDS ***
+Dealt to MiamiBlues [Th Ah Jh Js]
+Dealt to Kassidy N [5c 6d Qs 2d]
+Dealt to Willie F [3s 8h 5d 6c]
+Dealt to Joel U [6s 5h 3d Qc]
+Dealt to Carson A [9s 2c Ts Td]
+Willie F: folds
+Joel U: folds
+Carson A: raises €0.20 to €0.40
+MiamiBlues: raises €1.00 to €1.40
+Kassidy N: folds
+Carson A: calls €1
+*** FLOP *** [4c 7d 9h]
+MiamiBlues: checks
+Carson A: checks
+*** TURN *** [4c 7d 9h] [3c]
+MiamiBlues: checks
+Carson A: bets €1.80
+MiamiBlues: calls €1.80
+*** RIVER *** [4c 7d 9h 3c] [Kc]
+MiamiBlues: checks
+Carson A: checks
+*** SHOWDOWN ***
+MiamiBlues shows [Th Ah Jh Js] for Pair [Kc Js Jh 9h 7d]
+MiamiBlues collected €6.30 from pot
+*** SUMMARY ***
+Total pot €6.60 | Main pot €6.60 | Side pot €0.00 | Rake €0.30
+Board [4c 7d 9h 3c Kc]
+Seat 1: Willie F folded before Flop
+Seat 2: Joel U folded before Flop
+Seat 6: Kassidy N (big blind) folded before Flop
+Seat 4: MiamiBlues (small blind) showed [Th Ah Jh Js] and won €6.30 with Pair of J and K 9 7
+Seat 3: Carson A (button) mucked [9s 2c Ts Td] and lost
+
+
+**** **** **** **** **** **** **** ****
+
+
+Run It Once Poker Hand #44774985:  Omaha Pot Limit (€0.10/€0.20) - 2020/05/13 11:32 UTC [2020/05/13 12:32 CET]
+Table ID '44771362' 6-Max Seat #4 is the button
+Seat 1: Willie F (€17.09 in chips)
+Seat 2: Joel U (€23.20 in chips)
+Seat 3: Carson A (€14.26 in chips)
+Seat 4: MiamiBlues (€23.20 in chips)
+Seat 6: Kassidy N (€21.29 in chips)
+Kassidy N: posts small blind €0.10
+Willie F: posts big blind €0.20
+*** HOLE CARDS ***
+Dealt to Kassidy N [Kh Jh Qs 5h]
+Dealt to Willie F [Kc 9s 2h Qh]
+Dealt to Joel U [Kd 5s 6c 8c]
+Dealt to Carson A [As 7s 9h 7d]
+Dealt to MiamiBlues [5c 2c 3c Ks]
+Joel U: folds
+Carson A: raises €0.20 to €0.40
+MiamiBlues: folds
+Kassidy N: folds
+Willie F: folds
+*** SHOWDOWN ***
+Carson A: mucks hand
+Uncalled bet (€0.20) returned to Carson A
+Carson A collected €0.50 from pot
+*** SUMMARY ***
+Total pot €0.50 | Main pot €0.50 | Side pot €0.00 | Rake €0.00
+Seat 2: Joel U folded before Flop
+Seat 4: MiamiBlues (button) folded before Flop
+Seat 6: Kassidy N (small blind) folded before Flop
+Seat 1: Willie F (big blind) folded before Flop
+Seat 3: Carson A mucked hand and won €0.50
+
+
+**** **** **** **** **** **** **** ****
+
+
+Run It Once Poker Hand #44774994:  Omaha Pot Limit (€0.10/€0.20) - 2020/05/13 11:32 UTC [2020/05/13 12:32 CET]
+Table ID '44771362' 6-Max Seat #6 is the button
+Seat 1: Willie F (€16.89 in chips)
+Seat 2: Joel U (€23.20 in chips)
+Seat 3: Carson A (€14.56 in chips)
+Seat 4: MiamiBlues (€23.20 in chips)
+Seat 6: Kassidy N (€21.19 in chips)
+Willie F: posts small blind €0.10
+Joel U: posts big blind €0.20
+*** HOLE CARDS ***
+Dealt to Willie F [3h Qc 5c Kd]
+Dealt to Joel U [9h 8h Ts 2c]
+Dealt to Carson A [4s 8c Tc 3d]
+Dealt to MiamiBlues [8s 7c Kc 7d]
+Dealt to Kassidy N [9c 9d Ks As]
+Carson A: folds
+MiamiBlues: folds
+Kassidy N: raises €0.50 to €0.70
+Willie F: folds
+Joel U: folds
+*** SHOWDOWN ***
+Kassidy N: mucks hand
+Uncalled bet (€0.50) returned to Kassidy N
+Kassidy N collected €0.50 from pot
+*** SUMMARY ***
+Total pot €0.50 | Main pot €0.50 | Side pot €0.00 | Rake €0.00
+Seat 3: Carson A folded before Flop
+Seat 4: MiamiBlues folded before Flop
+Seat 1: Willie F (small blind) folded before Flop
+Seat 2: Joel U (big blind) folded before Flop
+Seat 6: Kassidy N (button) mucked hand and won €0.50
+
+
+**** **** **** **** **** **** **** ****
+
+
+Run It Once Poker Hand #44775005:  Omaha Pot Limit (€0.10/€0.20) - 2020/05/13 11:32 UTC [2020/05/13 12:32 CET]
+Table ID '44771362' 6-Max Seat #1 is the button
+Seat 1: Willie F (€16.79 in chips)
+Seat 2: Joel U (€23 in chips)
+Seat 3: Carson A (€14.56 in chips)
+Seat 4: MiamiBlues (€23.20 in chips)
+Seat 6: Kassidy N (€21.49 in chips)
+Joel U: posts small blind €0.10
+Carson A: posts big blind €0.20
+*** HOLE CARDS ***
+Dealt to Joel U [Jc 5s 3d Th]
+Dealt to Carson A [5d Qc Td 6c]
+Dealt to MiamiBlues [7h 7s Ah 4d]
+Dealt to Kassidy N [6s 8h 9c 3s]
+Dealt to Willie F [2h Ad 4s 6h]
+MiamiBlues: folds
+Kassidy N: folds
+Willie F: folds
+Joel U: folds
+*** SHOWDOWN ***
+Carson A: mucks hand
+Carson A collected €0.30 from pot
+*** SUMMARY ***
+Total pot €0.30 | Main pot €0.30 | Side pot €0.00 | Rake €0.00
+Seat 4: MiamiBlues folded before Flop
+Seat 6: Kassidy N folded before Flop
+Seat 1: Willie F (button) folded before Flop
+Seat 2: Joel U (small blind) folded before Flop
+Seat 3: Carson A (big blind) mucked hand and won €0.30
+
+
+**** **** **** **** **** **** **** ****
+
+
+Run It Once Poker Hand #44775017:  Omaha Pot Limit (€0.10/€0.20) - 2020/05/13 11:33 UTC [2020/05/13 12:33 CET]
+Table ID '44771362' 6-Max Seat #2 is the button
+Seat 1: Willie F (€16.79 in chips)
+Seat 2: Joel U (€22.90 in chips)
+Seat 3: Carson A (€14.66 in chips)
+Seat 4: MiamiBlues (€23.20 in chips)
+Seat 6: Kassidy N (€21.49 in chips)
+Carson A: posts small blind €0.10
+MiamiBlues: posts big blind €0.20
+*** HOLE CARDS ***
+Dealt to Carson A [7c 4s 8d 9d]
+Dealt to MiamiBlues [Ah Qh Qc 9s]
+Dealt to Kassidy N [7d 6d As Kd]
+Dealt to Willie F [Kc 8s 8h 5c]
+Dealt to Joel U [3d 8c 5h 3s]
+Kassidy N: folds
+Willie F: folds
+Joel U: folds
+Carson A: folds
+*** SHOWDOWN ***
+MiamiBlues: mucks hand
+MiamiBlues collected €0.30 from pot
+*** SUMMARY ***
+Total pot €0.30 | Main pot €0.30 | Side pot €0.00 | Rake €0.00
+Seat 6: Kassidy N folded before Flop
+Seat 1: Willie F folded before Flop
+Seat 2: Joel U (button) folded before Flop
+Seat 3: Carson A (small blind) folded before Flop
+Seat 4: MiamiBlues (big blind) mucked hand and won €0.30
+
+
+**** **** **** **** **** **** **** ****
+
+
+Run It Once Poker Hand #44776077:  Omaha Pot Limit (€0.10/€0.20) - 2020/05/13 11:33 UTC [2020/05/13 12:33 CET]
+Table ID '44771362' 6-Max Seat #3 is the button
+Seat 1: Willie F (€16.79 in chips)
+Seat 2: Joel U (€22.90 in chips)
+Seat 3: Carson A (€14.56 in chips)
+Seat 4: MiamiBlues (€23.30 in chips)
+Seat 5: Amy E (€20 in chips)
+Seat 6: Kassidy N (€21.49 in chips)
+MiamiBlues: posts small blind €0.10
+Amy E: posts big blind €0.20
+*** HOLE CARDS ***
+Dealt to MiamiBlues [2h Qs 2c Js]
+Dealt to Amy E [Kc Th 6d 9c]
+Dealt to Kassidy N [2d 6h 4d 9s]
+Dealt to Willie F [5c 6s 8h 7h]
+Dealt to Joel U [4c Ts 8s 4h]
+Dealt to Carson A [Td Kd 7s 8c]
+Kassidy N: folds
+Willie F: folds
+Joel U: folds
+Carson A: folds
+MiamiBlues: raises €0.40 to €0.60
+Amy E: calls €0.40
+*** FLOP *** [5d Ah 2s]
+MiamiBlues: checks
+Amy E: checks
+*** TURN *** [5d Ah 2s] [5s]
+MiamiBlues: bets €1.15
+Amy E: folds
+MiamiBlues: mucks hand
+*** SHOWDOWN ***
+MiamiBlues: mucks hand
+Uncalled bet (€1.15) returned to MiamiBlues
+MiamiBlues collected €1.15 from pot
+*** SUMMARY ***
+Total pot €1.20 | Main pot €1.20 | Side pot €0.00 | Rake €0.05
+Board [5d Ah 2s 5s]
+Seat 6: Kassidy N folded before Flop
+Seat 1: Willie F folded before Flop
+Seat 2: Joel U folded before Flop
+Seat 3: Carson A (button) folded before Flop
+Seat 5: Amy E (big blind) folded before River
+Seat 4: MiamiBlues (small blind) mucked hand and won €1.15
+
+
+**** **** **** **** **** **** **** ****
+
+
+Run It Once Poker Hand #44776087:  Omaha Pot Limit (€0.10/€0.20) - 2020/05/13 11:34 UTC [2020/05/13 12:34 CET]
+Table ID '44771362' 6-Max Seat #4 is the button
+Seat 1: Willie F (€16.79 in chips)
+Seat 2: Joel U (€22.90 in chips)
+Seat 3: Carson A (€14.56 in chips)
+Seat 4: MiamiBlues (€23.85 in chips)
+Seat 5: Amy E (€20 in chips)
+Amy E: posts small blind €0.10
+Willie F: posts big blind €0.20
+*** HOLE CARDS ***
+Dealt to Amy E [As 5c Ac Td]
+Dealt to Willie F [Qc 4c 7d 3d]
+Dealt to Joel U [6c 4s Kh 5s]
+Dealt to Carson A [8c 7h Kc 9s]
+Dealt to MiamiBlues [Kd 4h Qh 9d]
+Joel U: folds
+Carson A: raises €0.20 to €0.40
+MiamiBlues: calls €0.40
+Amy E: raises €1.40 to €1.80
+Willie F: folds
+Carson A: calls €1.40
+MiamiBlues: calls €1.40
+*** FLOP *** [Js Jd 2c]
+Amy E: checks
+Carson A: checks
+MiamiBlues: checks
+*** TURN *** [Js Jd 2c] [Ad]
+Amy E: bets €4.01
+Carson A: folds
+MiamiBlues: folds
+Amy E: mucks hand
+*** SHOWDOWN ***
+Amy E: mucks hand
+Uncalled bet (€4.01) returned to Amy E
+Amy E collected €5.35 from pot
+*** SUMMARY ***
+Total pot €5.60 | Main pot €5.60 | Side pot €0.00 | Rake €0.25
+Board [Js Jd 2c Ad]
+Seat 2: Joel U folded before Flop
+Seat 1: Willie F (big blind) folded before Flop
+Seat 3: Carson A folded before River
+Seat 4: MiamiBlues (button) folded before River
+Seat 5: Amy E (small blind) mucked hand and won €5.35
+
+
+**** **** **** **** **** **** **** ****
+
+
+Run It Once Poker Hand #45241640:  Omaha Pot Limit (€0.10/€0.20) - 2020/05/24 18:07 UTC [2020/05/24 19:07 CET]
+Table ID '45238934' 6-Max Seat #3 is the button
+Seat 1: Avery I (€32.01 in chips)
+Seat 2: Brad A (€29.33 in chips)
+Seat 3: MiamiBlues (€20 in chips)
+Seat 4: Curtis B (€49.59 in chips)
+Seat 5: Charles A (€42.51 in chips)
+Seat 6: Zach Y (€20 in chips)
+Curtis B: posts small blind €0.10
+Charles A: posts big blind €0.20
+*** HOLE CARDS ***
+STP added: €0.80
+Dealt to Curtis B [3h 2c 3c 9h]
+Dealt to Charles A [Ks Ah Qc Js]
+Dealt to Zach Y [6h 6s 7d Kh]
+Dealt to Avery I [Qh 5s Kc Td]
+Dealt to Brad A [8s 6d 9c Tc]
+Dealt to MiamiBlues [4s Jc 8d 8h]
+Zach Y: folds
+Avery I: folds
+Brad A: raises €0.50 to €0.70
+MiamiBlues: folds
+Curtis B: folds
+Charles A: raises €1.50 to €2.20
+Brad A: raises €2.40 to €4.60
+Charles A: calls €2.40
+*** FLOP *** [Jd Ac 5d]
+Charles A: checks
+Brad A: bets €3.80
+Charles A: calls €3.80
+*** TURN *** [Jd Ac 5d] [2h]
+Charles A: checks
+Brad A: bets €8.47
+Charles A: folds
+Brad A: mucks hand
+*** SHOWDOWN ***
+Brad A: mucks hand
+Uncalled bet (€8.47) returned to Brad A
+Brad A collected €16.94 from pot
+*** SUMMARY ***
+Total pot €17.70 | Main pot €16.90 | Side pot €0.00 | STP €0.80 | Rake €0.76
+Board [Jd Ac 5d 2h]
+Seat 6: Zach Y folded before Flop
+Seat 1: Avery I folded before Flop
+Seat 3: MiamiBlues (button) folded before Flop
+Seat 4: Curtis B (small blind) folded before Flop
+Seat 5: Charles A (big blind) folded before River
+Seat 2: Brad A mucked hand and won €16.94
+
+
+**** **** **** **** **** **** **** ****
+
+
+Run It Once Poker Hand #45241669:  Omaha Pot Limit (€0.10/€0.20) - 2020/05/24 18:09 UTC [2020/05/24 19:09 CET]
+Table ID '45238934' 6-Max Seat #4 is the button
+Seat 1: Avery I (€32.01 in chips)
+Seat 2: Brad A (€37.87 in chips)
+Seat 3: MiamiBlues (€20 in chips)
+Seat 4: Curtis B (€49.49 in chips)
+Seat 5: Charles A (€34.11 in chips)
+Seat 6: Cassandra O (€20 in chips)
+Charles A: posts small blind €0.10
+Cassandra O: posts big blind €0.20
+*** HOLE CARDS ***
+STP added: €0.60
+Dealt to Charles A [2s Tc Td 3c]
+Dealt to Cassandra O [6c 2d Kh 4h]
+Dealt to Avery I [7s 9h 3s 5d]
+Dealt to Brad A [9c 9s 3d Qd]
+Dealt to MiamiBlues [Ks Jd Qs Jc]
+Dealt to Curtis B [3h Qc 4c Ah]
+Avery I: folds
+Brad A: folds
+MiamiBlues: raises €0.50 to €0.70
+Curtis B: calls €0.70
+Charles A: calls €0.60
+Cassandra O: folds
+*** FLOP *** [5c 7h 7c]
+Charles A: checks
+MiamiBlues: checks
+Curtis B: bets €1.40
+Charles A: calls €1.40
+MiamiBlues: folds
+*** TURN *** [5c 7h 7c] [5h]
+Charles A: checks
+Curtis B: bets €4.10
+Charles A: folds
+Curtis B: mucks hand
+*** SHOWDOWN ***
+Curtis B: mucks hand
+Uncalled bet (€4.10) returned to Curtis B
+Curtis B collected €5.47 from pot
+*** SUMMARY ***
+Total pot €5.70 | Main pot €5.10 | Side pot €0.00 | STP €0.60 | Rake €0.23
+Board [5c 7h 7c 5h]
+Seat 1: Avery I folded before Flop
+Seat 2: Brad A folded before Flop
+Seat 6: Cassandra O (big blind) folded before Flop
+Seat 3: MiamiBlues folded before Turn
+Seat 5: Charles A (small blind) folded before River
+Seat 4: Curtis B (button) mucked hand and won €5.47

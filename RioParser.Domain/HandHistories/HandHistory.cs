@@ -44,7 +44,7 @@ namespace RioParser.Domain.HandHistories
         public string Winner => new string(_summary
             .LineContaining(" won €")
             .AfterFirst(":")
-            .BeforeAny(new[] { "(", "showed" })
+            .BeforeAny(new[] { "(", "showed", "mucked" })
             .ToArray());
 
         public HandHistory(string hand)

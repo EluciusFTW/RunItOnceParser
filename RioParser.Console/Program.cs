@@ -6,7 +6,6 @@ using System.CommandLine;
 using System.CommandLine.Invocation;
 
 var logger = new ConsoleLogger();
-
 var reportCommand = new RootCommand("RioParser Report Generator")
 {
     new Option<GameType>("--game", getDefaultValue: () => GameType.PLO, description: "Gametype to Analyze"),
