@@ -25,10 +25,7 @@
   
   <ItemGroup>
     <EmbeddedResource Include="..\..\Sample\TestData\manipulated-hand-histories-plo-20.txt" Link="_TestData\manipulated-hand-histories-plo-20.txt" />
-  </ItemGroup>
-  
-  <ItemGroup>
-    <Folder Include="_TestData\" />
+    <EmbeddedResource Include="..\..\Sample\TestData\manipulated-hand-histories-nlh-20.txt" Link="_TestData\manipulated-hand-histories-nlh-20.txt" />
   </ItemGroup>
 
 </Project>

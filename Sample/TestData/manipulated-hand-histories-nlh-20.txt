@@ -1,0 +1,123 @@
+﻿Run It Once Poker Hand #46744454:  Hold'em No Limit (€0.10/€0.20) - 2020/06/30 21:33 UTC [2020/06/30 22:33 CET]
+Table ID '46723680' 6-Max Seat #4 is the button
+Seat 1: Daniel P (€20.60 in chips)
+Seat 4: Clark H (€24.79 in chips)
+Seat 5: Maddison Z (€36.64 in chips)
+Seat 6: MiamiBlues (€20 in chips)
+Maddison Z: posts small blind €0.10
+MiamiBlues: posts big blind €0.20
+*** HOLE CARDS ***
+Dealt to Maddison Z [7s Jc]
+Dealt to MiamiBlues [Jh 6c]
+Dealt to Daniel P [Qc 5s]
+Dealt to Clark H [Jd Ks]
+Daniel P: folds
+Clark H: raises €0.30 to €0.50
+Maddison Z: folds
+MiamiBlues: folds
+*** SHOWDOWN ***
+Clark H: mucks hand
+Uncalled bet (€0.30) returned to Clark H
+Clark H collected €0.50 from pot
+*** SUMMARY ***
+Total pot €0.50 | Main pot €0.50 | Side pot €0.00 | Rake €0.00
+Seat 1: Daniel P folded before Flop
+Seat 5: Maddison Z (small blind) folded before Flop
+Seat 6: MiamiBlues (big blind) folded before Flop
+Seat 4: Clark H (button) mucked hand and won €0.50
+
+
+**** **** **** **** **** **** **** ****
+
+
+Run It Once Poker Hand #46744469:  Hold'em No Limit (€0.10/€0.20) - 2020/06/30 21:33 UTC [2020/06/30 22:33 CET]
+Table ID '46723680' 6-Max Seat #5 is the button
+Seat 1: Daniel P (€20.60 in chips)
+Seat 4: Clark H (€25.09 in chips)
+Seat 5: Maddison Z (€36.54 in chips)
+Seat 6: MiamiBlues (€20 in chips)
+MiamiBlues: posts small blind €0.10
+Daniel P: posts big blind €0.20
+*** HOLE CARDS ***
+Dealt to MiamiBlues [2h Qd]
+Dealt to Daniel P [Th 4c]
+Dealt to Clark H [4d Jc]
+Dealt to Maddison Z [8h Kd]
+Clark H: folds
+Maddison Z: raises €0.30 to €0.50
+MiamiBlues: folds
+Daniel P: folds
+*** SHOWDOWN ***
+Maddison Z: mucks hand
+Uncalled bet (€0.30) returned to Maddison Z
+Maddison Z collected €0.50 from pot
+*** SUMMARY ***
+Total pot €0.50 | Main pot €0.50 | Side pot €0.00 | Rake €0.00
+Seat 4: Clark H folded before Flop
+Seat 6: MiamiBlues (small blind) folded before Flop
+Seat 1: Daniel P (big blind) folded before Flop
+Seat 5: Maddison Z (button) mucked hand and won €0.50
+
+
+**** **** **** **** **** **** **** ****
+
+
+Run It Once Poker Hand #46744479:  Hold'em No Limit (€0.10/€0.20) - 2020/06/30 21:33 UTC [2020/06/30 22:33 CET]
+Table ID '46723680' 6-Max Seat #6 is the button
+Seat 1: Daniel P (€20.40 in chips)
+Seat 4: Clark H (€25.09 in chips)
+Seat 5: Maddison Z (€36.84 in chips)
+Seat 6: MiamiBlues (€20 in chips)
+Daniel P: posts small blind €0.10
+Clark H: posts big blind €0.20
+*** HOLE CARDS ***
+Dealt to Daniel P [8d 2h]
+Dealt to Clark H [7d Jh]
+Dealt to Maddison Z [Kd Kc]
+Dealt to MiamiBlues [4s 6h]
+Maddison Z: raises €0.30 to €0.50
+MiamiBlues: folds
+Daniel P: folds
+Clark H: folds
+*** SHOWDOWN ***
+Maddison Z: mucks hand
+Uncalled bet (€0.30) returned to Maddison Z
+Maddison Z collected €0.50 from pot
+*** SUMMARY ***
+Total pot €0.50 | Main pot €0.50 | Side pot €0.00 | Rake €0.00
+Seat 6: MiamiBlues (button) folded before Flop
+Seat 1: Daniel P (small blind) folded before Flop
+Seat 4: Clark H (big blind) folded before Flop
+Seat 5: Maddison Z mucked hand and won €0.50
+
+
+**** **** **** **** **** **** **** ****
+
+
+Run It Once Poker Hand #46744487:  Hold'em No Limit (€0.10/€0.20) - 2020/06/30 21:33 UTC [2020/06/30 22:33 CET]
+Table ID '46723680' 6-Max Seat #1 is the button
+Seat 1: Daniel P (€20.30 in chips)
+Seat 4: Clark H (€24.89 in chips)
+Seat 5: Maddison Z (€37.14 in chips)
+Seat 6: MiamiBlues (€20 in chips)
+Clark H: posts small blind €0.10
+Maddison Z: posts big blind €0.20
+*** HOLE CARDS ***
+Dealt to Clark H [5s 6d]
+Dealt to Maddison Z [Kc Ts]
+Dealt to MiamiBlues [7s Ac]
+Dealt to Daniel P [Th 9d]
+MiamiBlues: raises €0.30 to €0.50
+Daniel P: folds
+Clark H: folds
+Maddison Z: folds
+*** SHOWDOWN ***
+MiamiBlues: mucks hand
+Uncalled bet (€0.30) returned to MiamiBlues
+MiamiBlues collected €0.50 from pot
+*** SUMMARY ***
+Total pot €0.50 | Main pot €0.50 | Side pot €0.00 | Rake €0.00
+Seat 1: Daniel P (button) folded before Flop
+Seat 4: Clark H (small blind) folded before Flop
+Seat 5: Maddison Z (big blind) folded before Flop
+Seat 6: MiamiBlues mucked hand and won €0.50
