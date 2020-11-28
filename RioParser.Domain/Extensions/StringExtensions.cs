@@ -20,18 +20,18 @@ namespace RioParser.Domain.Extensions
             return piece.Trim();
         }
 
-        public static string AfterSingle(this string subject, string beginning)
+        public static string AfterSingle(this string subject, string marker)
         {
-            var parts = subject.Split(beginning);
+            var parts = subject.Split(marker);
             return parts.Length == 2
-                ? subject.Split(beginning)[1].Trim()
+                ? subject.Split(marker)[1].Trim()
                 : string.Empty;
         }
 
-        public static string AfterFirst(this string subject, string beginning)
+        public static string AfterFirst(this string subject, string marker)
         {
-            var parts = subject.Split(beginning);
-            return string.Join('\0', parts.Skip(1)).Trim();
+            var parts = subject.Split(marker);
+            return string.Join(marker, parts.Skip(1)).Trim();
         }
 
         public static string LineContaining(this string subject, string marker)
