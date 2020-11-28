@@ -8,11 +8,13 @@ Preview of the output:
 
 ![Screenshot of a report](./Sample/terminal-screenshot.png)
 
+## Prerequisites
+In order to build the project, you need to have the [NET5.0 SDK](https://dotnet.microsoft.com/download/dotnet/5.0) installed.
+
 ## Status
-The tool is still in very early stages. Particularily, the most obvious shortcomings are:
-* Only recognizes PLO hands (I have no NLH hand histories, and since I'm based in Germany I can't play at the moment)
+The tool is still in early stages. Particularily, the most obvious shortcomings are:
 * Split pots and other "edge cases" are not handled yet
-* Still not covered with tests
+* Still not completely covered with tests
 
 ## Contribute
 All contributions are welcome!
