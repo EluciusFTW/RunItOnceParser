@@ -36,12 +36,18 @@ namespace RioParser.Domain.Tests
         }
 
         [Fact]
+        public void Extracts_Identifier()
+        {
+            _handHistories.Hands.First().Identifier
+                .Should().Be("44774946");
+        }
+
+        [Fact]
         public void Extracts_Total()
         {
             var expectedTotals = new[] { 0.30, 6.60, 0.50, 0.50, 0.30, 0.30, 1.20, 5.60, 17.70, 5.70 };
 
             _handHistories.Hands
-                .Take(10)
                 .Select(hand => hand.Total)
                 .Should().BeEquivalentTo(expectedTotals);
         }

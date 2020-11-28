@@ -16,6 +16,11 @@ namespace RioParser.Domain.HandHistories
 
         private string _PloIndicator = "Omaha Pot Limit";
 
+        public string Identifier
+            => _intro
+                .AfterFirst("#")
+                .Before(":");
+
         public GameType Game
             => _intro.Contains(_PloIndicator)
                 ? GameType.PLO
