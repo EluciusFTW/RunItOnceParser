@@ -3,22 +3,24 @@ using RioParser.Domain.HandHistories;
 using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Text;
 
 namespace RioParser.Domain.Reports
 {
     public class RakeAndSplashReport : IHandsReport
     {
-        private int _hands;
-        private decimal _bigBlind;
-
         private decimal _totalRake;
         private decimal _heroRake;
 
         private decimal _totalSplash;
         private decimal _heroSplash;
+        private int _handsWithSplash;
+        private decimal _maxSplash;
 
-        private decimal _relativeRake;
-        private decimal _relativeSplash;
+        private readonly int _hands;
+        private readonly decimal _bigBlind;
+        private readonly decimal _relativeRake;
+        private readonly decimal _relativeSplash;
 
         public RakeAndSplashReport(string hero, IReadOnlyCollection<HandHistory> hands)
         {
@@ -36,6 +38,12 @@ namespace RioParser.Domain.Reports
                         _heroRake += hand.Rake;
                         _heroSplash += hand.Splash;
                     }
+
+                    if (hand.Splash != default)
+                    {
+                        _handsWithSplash++;
+                        _maxSplash = hand.Splash > _maxSplash ? hand.Splash : _maxSplash;
+                    }
                 });
 
             var factor = 1 / (_bigBlind * _hands / 100);
@@ -45,17 +53,21 @@ namespace RioParser.Domain.Reports
 
         public string PrintOut()
         {
-            return
-                Environment.NewLine + 
-                $"*** Big Blind: {_bigBlind:F2}€ ---  Hands: {_hands}" + Environment.NewLine +
-                $"Rake" + Environment.NewLine +
-                $" - total:                 {_totalRake:F2}€" + Environment.NewLine +
-                $" - by hero:               {_heroRake:F2}€" + Environment.NewLine +
-                $" - by hero in BB/100:     {_relativeRake:F2}" + Environment.NewLine +
-                $"Splashes:" + Environment.NewLine +
-                $" - total:                 {_totalSplash:F2}€" + Environment.NewLine +
-                $" - won by hero:           {_heroSplash:F2}€" + Environment.NewLine +
-                $" - won by hero in BB/100: {_relativeSplash:F2}" + Environment.NewLine;
+            var builder = new StringBuilder();
+            return builder
+                .AppendLine()
+                .AppendLine($"*** Big Blind: {_bigBlind:F2}€ ---  Hands: {_hands}")
+                .AppendLine("Rake")
+                .AppendLine($" - total:                 {_totalRake:F2}€")
+                .AppendLine($" - by hero:               {_heroRake:F2}€")
+                .AppendLine($" - by hero in BB/100:     {_relativeRake:F2}")
+                .AppendLine("Splash")
+                .AppendLine($" - total:                 {_totalSplash:F2}€")
+                .AppendLine($" - won by hero:           {_heroSplash:F2}€")
+                .AppendLine($" - won by hero in BB/100: {_relativeSplash:F2}")
+                .AppendLine($" - splash frequency:      {(double)_handsWithSplash/_hands:P2}")
+                .AppendLine($" - biggest splash:        {_maxSplash/_bigBlind:F2} BB")
+                .ToString();
         }
     }
 }

@@ -7,7 +7,8 @@ namespace RioParser.Domain.HandHistories
 {
     public class HandHistoryFileLoader
     {
-        private Regex _handHistoryRegex = new Regex("([0-9]*)_([0-9]*)");
+        private readonly Regex _handHistoryRegex = new Regex("([0-9]*)_([0-9]*)");
+        private readonly string _handHistoryExtension = ".txt";
 
         public IReadOnlyCollection<HandHistoryFile> Load(string path)
             => new DirectoryInfo(path)
@@ -18,7 +19,7 @@ namespace RioParser.Domain.HandHistories
 
         private bool MatchesHandHistoryFileFormat(FileInfo fileInfo)
         {
-            var extensionFits = fileInfo.Extension == ".txt";
+            var extensionFits = fileInfo.Extension == _handHistoryExtension;
             var nameSchemeFits = _handHistoryRegex
                 .Match(fileInfo.Name)
                 .Success;

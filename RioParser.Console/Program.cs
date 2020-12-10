@@ -6,11 +6,12 @@ using System.CommandLine;
 using System.CommandLine.Invocation;
 
 var logger = new ConsoleLogger();
+
 var reportCommand = new RootCommand("RioParser Report Generator")
 {
-    new Option<GameType>("--game", getDefaultValue: () => GameType.PLO, description: "Gametype to Analyze"),
-    new Option<string>("--path", getDefaultValue: () => @"D:\Temp\RioHHs", "Path to hand history folder"),
-    new Option<string>("--hero", getDefaultValue: () => "MiamiBlues", "Name of the hero")
+    GameTypeOption(),
+    PathOption(),
+    HeroNameOption()
 };
 reportCommand.Handler = CommandHandler.Create<GameType, string, string>(GenerateReport);
 
@@ -27,3 +28,24 @@ void GenerateReport(GameType gameType, string path, string hero)
 
     reports.ForEach(report => logger.Log(report.PrintOut()));
 };
+
+Option<GameType> GameTypeOption()
+{
+    var option = new Option<GameType>("--game", getDefaultValue: () => GameType.PLO, description: "Gametype to Analyze");
+    option.AddAlias("-g");
+    return option;
+}
+
+Option<string> PathOption()
+{
+    var option = new Option<string>("--path", getDefaultValue: () => @"C:\Users\bussg\EluciusFTW\RunItOnceParser\Sample\HandHistoryBatch", "Path to hand history folder");
+    option.AddAlias("-p");
+    return option;
+}
+
+Option<string> HeroNameOption()
+{
+    var option = new Option<string>("--hero", getDefaultValue: () => "MiamiBlues", "Name of the hero");
+    option.AddAlias("-h");
+    return option;
+}

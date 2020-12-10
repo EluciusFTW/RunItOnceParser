@@ -6,7 +6,7 @@ namespace RioParser.Domain.HandHistories
 {
     public class HandHistoryFile
     {
-        private const string separator = "**** **** **** **** **** **** **** ****";
+        private const string Separator = "**** **** **** **** **** **** **** ****";
         public string Name { get; }
 
         public IReadOnlyCollection<HandHistory> Hands { get; }
@@ -15,7 +15,7 @@ namespace RioParser.Domain.HandHistories
         {
             Name = name;
             Hands = content
-                .Split(separator)
+                .Split(Separator)
                 .Select(hand => new HandHistory(hand))
                 .ToList();
         }
@@ -24,14 +24,14 @@ namespace RioParser.Domain.HandHistories
         {
             Name = fileInfo.Name;
             Hands = GetFileContent(fileInfo)
-                .Split(separator)
+                .Split(Separator)
                 .Select(hand => new HandHistory(hand))
                 .ToList();
         }
 
-        private string GetFileContent(FileInfo fileInfo)
+        private static string GetFileContent(FileInfo fileInfo)
         {
-            using StreamReader reader = fileInfo.OpenText();
+            using var reader = fileInfo.OpenText();
             return reader.ReadToEnd();
         }
     }
