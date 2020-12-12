@@ -25,13 +25,15 @@ namespace RioParser.Domain.Extensions
             var parts = subject.Split(marker);
             return parts.Length == 2
                 ? subject.Split(marker)[1].Trim()
-                : string.Empty;
+                : throw new ArgumentException($"The marker string \"{marker}\" is contained {parts.Length - 1} times in \"{subject}\", but expected single occurence.");
         }
 
         public static string AfterFirst(this string subject, string marker)
         {
-            var parts = subject.Split(marker);
-            return string.Join(marker, parts.Skip(1)).Trim();
+            var startIndex = subject.IndexOf(marker);
+            return startIndex >= 0
+                ? subject.Substring(startIndex + marker.Length).Trim()
+                : throw new ArgumentException($"The marker string \"{marker}\" is not contained in \"{subject}\"");
         }
 
         public static string LineContaining(this string subject, string marker)
