@@ -1,10 +1,10 @@
-﻿using RioParser.Domain.Extensions;
-using RioParser.Domain.HandHistories;
-using System.Collections.Generic;
+﻿using System.Collections.Generic;
 using System.Linq;
 using System.Text;
+using RioParser.Domain.Extensions;
+using RioParser.Domain.HandHistories;
 
-namespace RioParser.Domain.Reports
+namespace RioParser.Domain.Reports.Implementations
 {
     public class RakeAndSplashReport : IHandsReport
     {
@@ -26,34 +26,33 @@ namespace RioParser.Domain.Reports
             _hands = hands.Count;
             _bigBlind = hands.First().BigBlind;
 
-            hands
-                .ForEach(hand =>
-                {
-                    _totalRake += hand.Rake;
-                    _totalSplash += hand.Splash;
-
-                    if(hand.Winner == hero)
-                    {
-                        _heroRake += hand.Rake;
-                        _heroSplash += hand.Splash;
-                    }
-
-                    if (hand.Splash != default)
-                    {
-                        _handsWithSplash++;
-                        _maxSplash = hand.Splash > _maxSplash ? hand.Splash : _maxSplash;
-                    }
-                });
+            hands.ForEach(hand => ParseHand(hero, hand));
 
             var factor = 1 / (_bigBlind * _hands / 100);
             _relativeRake = _heroRake * factor;
             _relativeSplash = _heroSplash * factor;
         }
 
-        public string PrintOut()
+        private void ParseHand(string hero, HandHistory hand)
         {
-            var builder = new StringBuilder();
-            return builder
+            _totalRake += hand.Rake;
+            _totalSplash += hand.Splash;
+
+            if (hand.Winner == hero)
+            {
+                _heroRake += hand.Rake;
+                _heroSplash += hand.Splash;
+            }
+
+            if (hand.Splash != default)
+            {
+                _handsWithSplash++;
+                _maxSplash = hand.Splash > _maxSplash ? hand.Splash : _maxSplash;
+            }
+        }
+
+        public string PrintOut() 
+            => new StringBuilder()
                 .AppendLine()
                 .AppendLine($"*** Big Blind: {_bigBlind:F2}€ ---  Hands: {_hands}")
                 .AppendLine("Rake")
@@ -67,6 +66,5 @@ namespace RioParser.Domain.Reports
                 .AppendLine($" - splash frequency:      {(double)_handsWithSplash/_hands:P2}")
                 .AppendLine($" - biggest splash:        {_maxSplash/_bigBlind:F2} BB")
                 .ToString();
-        }
     }
 }

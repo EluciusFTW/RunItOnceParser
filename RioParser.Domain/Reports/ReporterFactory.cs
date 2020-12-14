@@ -1,11 +1,12 @@
 ﻿using System;
 using RioParser.Domain.Logging;
+using RioParser.Domain.Reports.Implementations;
 
 namespace RioParser.Domain.Reports
 {
     public class ReporterFactory
     {
-        private ILogger _logger;
+        private readonly ILogger _logger;
 
         public ReporterFactory(ILogger logger)
         {
@@ -15,7 +16,7 @@ namespace RioParser.Domain.Reports
         public IReporter Create(ReportType reportType) 
             => reportType switch
             {
-                ReportType.RakeAndSplash => new RakeAndSplashReporter(_logger),
+                ReportType.RakeAndSplash => new Reporter<RakeAndSplashReport>(_logger),
                 _ => throw new NotImplementedException()
             };
     }

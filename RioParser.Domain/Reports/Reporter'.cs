@@ -1,15 +1,16 @@
-﻿using System.Collections.Generic;
+﻿using System;
+using System.Collections.Generic;
 using System.Linq;
 using RioParser.Domain.HandHistories;
 using RioParser.Domain.Logging;
 
 namespace RioParser.Domain.Reports
 {
-    internal class RakeAndSplashReporter : IReporter
+    internal class Reporter<TReport> : IReporter where TReport: IHandsReport
     {
         private readonly ILogger _logger;
     
-        public RakeAndSplashReporter(ILogger logger)
+        public Reporter(ILogger logger)
         {
             _logger = logger;
         }
@@ -23,7 +24,8 @@ namespace RioParser.Domain.Reports
                 })
                 .Where(hand => hand.Game == gameType)
                 .GroupBy(hand => hand.BigBlind)
-                .Select(hands => new RakeAndSplashReport(hero, hands.ToList()))
+                .Select(hands => (TReport)Activator.CreateInstance(typeof(TReport), hero, hands.ToList()))
+                .Cast<IHandsReport>()
                 .ToList();
     }
 }
