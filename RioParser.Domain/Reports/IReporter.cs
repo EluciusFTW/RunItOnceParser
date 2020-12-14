@@ -1,9 +1,10 @@
-﻿using RioParser.Domain;
+﻿using System.Collections.Generic;
 using RioParser.Domain.HandHistories;
-using RioParser.Domain.Reports;
-using System.Collections.Generic;
 
-public interface IReporter
+namespace RioParser.Domain.Reports
 {
-    public IReadOnlyCollection<IHandsReport> Process(IReadOnlyCollection<HandHistoryFile> handhistoryFiles, string hero, GameType gameType);
+    public interface IReporter
+    {
+        public IReadOnlyCollection<IHandsReport> Process(IReadOnlyCollection<HandHistoryFile> handHistoryFiles, string hero, GameType gameType);
+    }
 }

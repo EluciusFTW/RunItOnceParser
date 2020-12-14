@@ -9,13 +9,13 @@ namespace RioParser.Domain.HandHistories
         private const string ActionMarker = "*** HOLE CARDS ***";
         private const string SummaryMarker = "*** SUMMARY ***";
 
-        private string _intro;
-        private string _action;
-        private string _showDown;
-        private string _summary;
+        private const string PLOIndicator = "Omaha Pot Limit";
+        private const string NLHIndicator = "Hold'em No Limit";
 
-        private string _PloIndicator = "Omaha Pot Limit";
-        private string _NlhIndicator = "Hold'em No Limit";
+        private readonly string _intro;
+        private readonly string _action;
+        private readonly string _showDown;
+        private readonly string _summary;
 
         public string Identifier
             => _intro
@@ -23,9 +23,9 @@ namespace RioParser.Domain.HandHistories
                 .Before(":");
 
         public GameType Game
-            => _intro.Contains(_PloIndicator)
+            => _intro.Contains(PLOIndicator)
                 ? GameType.PLO
-                : _intro.Contains(_NlhIndicator)
+                : _intro.Contains(NLHIndicator)
                     ? GameType.NLH
                     : GameType.Unknown;
 

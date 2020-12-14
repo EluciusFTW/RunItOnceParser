@@ -2,6 +2,7 @@
 using RioParser.Domain.Extensions;
 using RioParser.Domain.HandHistories;
 using System.Threading.Tasks;
+using RioParser.Domain.Reports;
 
 namespace RioParser.Console
 {

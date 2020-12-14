@@ -1,7 +1,10 @@
-﻿public enum ReportType
+﻿namespace RioParser.Domain.Reports
 {
-    Simple,
-    Rake,
-    Splash,
-    RakeAndSplash
+    public enum ReportType
+    {
+        Simple,
+        Rake,
+        Splash,
+        RakeAndSplash
+    }
 }

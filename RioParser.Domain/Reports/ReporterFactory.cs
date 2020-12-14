@@ -1,21 +1,22 @@
-﻿using RioParser.Domain.Logging;
-using System;
+﻿using System;
+using RioParser.Domain.Logging;
 
-public class ReporterFactory
+namespace RioParser.Domain.Reports
 {
-    private ILogger _logger;
-
-    public ReporterFactory(ILogger logger)
+    public class ReporterFactory
     {
-        _logger = logger;
-    }
+        private ILogger _logger;
 
-    public IReporter Create(ReportType reportType)
-    {
-        return reportType switch
+        public ReporterFactory(ILogger logger)
         {
-            ReportType.RakeAndSplash => new RakeAndSplashReporter(_logger),
-            _ => throw new NotImplementedException()
-        };
+            _logger = logger;
+        }
+
+        public IReporter Create(ReportType reportType) 
+            => reportType switch
+            {
+                ReportType.RakeAndSplash => new RakeAndSplashReporter(_logger),
+                _ => throw new NotImplementedException()
+            };
     }
 }
