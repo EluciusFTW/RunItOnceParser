@@ -17,7 +17,6 @@ namespace RioParser.Console
             logger.Log("Path: " + path);
             logger.Log("heroName: " + hero);
             logger.Log("Assembly: " + System.Reflection.Assembly.GetExecutingAssembly().Location);
-            // logger.Log("Directory: " + System.IO.GetDirectoryName(System.Reflection.Assembly.GetExecutingAssembly().Location));
             
             GenerateReport(gameType, path, hero);
         }

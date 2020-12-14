@@ -17,6 +17,7 @@ namespace RioParser.Domain.Reports
             => reportType switch
             {
                 ReportType.RakeAndSplash => new Reporter<RakeAndSplashReport>(_logger),
+                ReportType.Debug => new Reporter<DebugReport>(_logger),
                 _ => throw new NotImplementedException()
             };
     }

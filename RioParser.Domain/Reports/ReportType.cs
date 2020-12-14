@@ -5,6 +5,7 @@
         Simple,
         Rake,
         Splash,
-        RakeAndSplash
+        RakeAndSplash,
+        Debug
     }
 }
