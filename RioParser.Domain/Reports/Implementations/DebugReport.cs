@@ -12,12 +12,12 @@ namespace RioParser.Domain.Reports.Implementations
         private readonly IList<KeyValuePair<string, string>> _errors = new List<KeyValuePair<string, string>>();
         private readonly IDictionary<string, Func<HandHistory, string>> _properties = new Dictionary<string, Func<HandHistory, string>>
         {
-            {"Game", x => x.Game.ToString()},
-            {"Rake", x => x.Rake.ToString()},
-            {"Total", x => x.Total.ToString()},
-            {"Splash", x => x.Splash.ToString()},
-            {"Winner", x => x.Winner.ToString()},
-            {"BigBlind", x => x.BigBlind.ToString()},
+            { "Game", x => x.Game.ToString() },
+            { "Rake", x => x.Rake.ToString() },
+            { "Total", x => x.Total.ToString() },
+            { "Splash", x => x.Splash.ToString() },
+            { "Winner", x => x.Winner.ToString() },
+            { "BigBlind", x => x.BigBlind.ToString() }
         };
 
         public DebugReport(string hero, IReadOnlyCollection<HandHistory> hands)
@@ -32,7 +32,7 @@ namespace RioParser.Domain.Reports.Implementations
             File.WriteAllLines(@"C:\Users\bussg\EluciusFTW\RunItOnceParser\Sample\HandHistoryBatch\dump.txt", lines);
         }
 
-        private void TryParse(HandHistory hand) =>_properties.ForEach(prop => TryParseProp(hand, prop));
+        private void TryParse(HandHistory hand) => _properties.ForEach(prop => TryParseProp(hand, prop));
 
         private void TryParseProp(HandHistory hand, in KeyValuePair<string, Func<HandHistory, string>> prop)
         {
@@ -42,8 +42,8 @@ namespace RioParser.Domain.Reports.Implementations
             }
             catch
             {
-                var key = prop.Key != "Identifier" 
-                    ? hand.Identifier 
+                var key = prop.Key != "Identifier"
+                    ? hand.Identifier
                     : "IDENTIFIER FAILURE";
                 _errors.Add(new KeyValuePair<string, string>(key, prop.Key));
             }
@@ -54,7 +54,7 @@ namespace RioParser.Domain.Reports.Implementations
             var errorDetails = _errors
                 .GroupBy(error => error.Value)
                 .Select(grp => $"Accessing '{grp.Key}' found {grp.Count()} errors.");
-            
+
             return "Debug report run found the following errors: " + Environment.NewLine + string.Join(Environment.NewLine, errorDetails);
         }
     }
