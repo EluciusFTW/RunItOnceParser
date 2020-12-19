@@ -28,8 +28,10 @@ namespace RioParser.Domain.Reports.Implementations
 
         private void DumpErrors()
         {
-            var lines = _errors.Select(error => $"ID: {error.Value}, Extraction: {error.Key}");
-            File.WriteAllLines(@"C:\Users\bussg\EluciusFTW\RunItOnceParser\Sample\HandHistoryBatch\dump.txt", lines);
+            var lines = new[] { "Extraction errors listed by hand history", Environment.NewLine }
+                .Concat(_errors.Select(error => $"Hand Id: {error.Key}, Extraction property: {error.Value}"));
+
+            File.WriteAllLines(@"D:\dump.txt", lines);
         }
 
         private void TryParse(HandHistory hand) => _properties.ForEach(prop => TryParseProp(hand, prop));
