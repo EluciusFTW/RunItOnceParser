@@ -12,14 +12,14 @@ namespace RioParser.Console
         private static readonly ConsoleLogger Logger = new();
 
         /// <param name="gameType">Game type to analyze. Valid values: PLO, NLH</param>
-        /// /// <param name="reportType">Report type to run. Valid values: Debug, RakeAndSplash</param>
+        /// <param name="reportType">Report type to run. Valid values: Debug, RakeAndSplash</param>
         /// <param name="path">Path of folder where the hand histories can be found</param>
         /// <param name="hero">Name of the hero</param>
         static void Main(
             string path, 
             string hero = "MiamiBlues", 
             GameType gameType = GameType.PLO,
-            ReportType reportType = ReportType.Debug)
+            ReportType reportType = ReportType.RakeAndSplash)
         {
             path ??= Path.Combine(Assembly.GetExecutingAssembly().Location.Split("RioParser.Console")[0], "Sample\\HandHistoryBatch");
             LogApplicationStart(path, hero, reportType, gameType);

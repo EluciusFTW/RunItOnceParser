@@ -12,7 +12,7 @@ namespace RioParser.Domain.Reports.Implementations
         private int _handsWithSplash;
         private decimal _maxSplash;
         private readonly decimal _relativeSplash;
-
+        
         public SplashReport(string hero, IReadOnlyCollection<HandHistory> hands) 
             : base(hands)
         {
