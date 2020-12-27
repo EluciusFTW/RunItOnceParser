@@ -31,7 +31,6 @@ namespace RioParser.Domain.Reports.Implementations
 
         public void AppendStakeReport(StringBuilder builder)
             => builder
-                .AppendLine()
                 .AppendLine($"*** Big Blind: {_bigBlind:F2}€ ---  Hands: {_hands}");
     }
 }

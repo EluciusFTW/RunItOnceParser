@@ -1,6 +1,5 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.IO;
 using System.Linq;
 using RioParser.Domain.Extensions;
 using RioParser.Domain.HandHistories;
@@ -20,19 +19,7 @@ namespace RioParser.Domain.Reports.Implementations
             { "BigBlind", x => x.BigBlind.ToString() }
         };
 
-        public DebugReport(string hero, IReadOnlyCollection<HandHistory> hands)
-        {
-            hands.ForEach(TryParse);
-            // DumpErrors();
-        }
-
-        private void DumpErrors()
-        {
-            var lines = new[] { "Extraction errors listed by hand history", Environment.NewLine }
-                .Concat(_errors.Select(error => $"Hand Id: {error.Key}, Extraction property: {error.Value}"));
-
-            File.WriteAllLines(@"D:\dump.txt", lines);
-        }
+        public DebugReport(string hero, IReadOnlyCollection<HandHistory> hands) => hands.ForEach(TryParse);
 
         private void TryParse(HandHistory hand) => _properties.ForEach(prop => TryParseProp(hand, prop));
 
@@ -55,9 +42,13 @@ namespace RioParser.Domain.Reports.Implementations
         {
             var errorDetails = _errors
                 .GroupBy(error => error.Value)
-                .Select(grp => $"Accessing '{grp.Key}' found {grp.Count()} errors.");
+                .Select(grp => ErrorDetailsLine(grp.Key, grp.Select(kvp => kvp.Key).ToList()));
 
             return "Debug report run found the following errors: " + Environment.NewLine + string.Join(Environment.NewLine, errorDetails);
         }
+
+        private string ErrorDetailsLine(string prop, IReadOnlyCollection<string> identigfiers)
+            => $"Accessing property '{prop}' resulted in {identigfiers.Count()} errors, in the following hands: "
+                + Environment.NewLine + string.Join(", ", identigfiers) + Environment.NewLine;
     }
 }
