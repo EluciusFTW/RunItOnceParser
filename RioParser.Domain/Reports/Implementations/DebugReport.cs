@@ -23,7 +23,7 @@ namespace RioParser.Domain.Reports.Implementations
         public DebugReport(string hero, IReadOnlyCollection<HandHistory> hands)
         {
             hands.ForEach(TryParse);
-            DumpErrors();
+            // DumpErrors();
         }
 
         private void DumpErrors()
