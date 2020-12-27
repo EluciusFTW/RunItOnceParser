@@ -22,11 +22,20 @@ namespace RioParser.Domain.Extensions
 
         public static string AfterSingle(this string subject, string marker)
         {
+            return AfterSingleOrDefault(subject, marker)
+                ?? throw new ArgumentException($"The marker string \"{marker}\" is contained not contained in \"{subject}\", but expected.");
+        }
+
+        public static string AfterSingleOrDefault(this string subject, string marker)
+        {
             var parts = subject.Split(marker);
             return parts.Length == 2
                 ? subject.Split(marker)[1].Trim()
-                : throw new ArgumentException($"The marker string \"{marker}\" is contained {parts.Length - 1} times in \"{subject}\", but expected single occurence.");
+                : parts.Length == 1 
+                    ? null
+                    : throw new ArgumentException($"The marker string \"{marker}\" is contained {parts.Length - 1} times in \"{subject}\", but is expected to be contained at most once.");
         }
+
 
         public static string AfterFirst(this string subject, string marker)
         {

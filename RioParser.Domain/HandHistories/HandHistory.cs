@@ -40,9 +40,10 @@ namespace RioParser.Domain.HandHistories
             .ToDecimal();
 
         public decimal Splash => _action
-            .AfterSingle("STP added: €")
+            .AfterSingleOrDefault("STP added: €")?
             .TakeAfter('.', 2)
-            .ToDecimal();
+            .ToDecimal() 
+            ?? 0;
 
         public decimal BigBlind => _intro
             .AfterSingle("/€")
