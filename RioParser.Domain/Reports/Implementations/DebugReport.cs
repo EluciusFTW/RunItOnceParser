@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using RioParser.Domain.Extensions;
 using RioParser.Domain.HandHistories;
+using RioParser.Domain.Reports.Models;
 
 namespace RioParser.Domain.Reports.Implementations
 {
@@ -19,7 +20,7 @@ namespace RioParser.Domain.Reports.Implementations
             { "BigBlind", x => x.BigBlind.ToString() }
         };
 
-        public DebugReport(string hero, IReadOnlyCollection<HandHistory> hands) => hands.ForEach(TryParse);
+        public DebugReport(ReportOptions reportOptions, IReadOnlyCollection<HandHistory> hands) => hands.ForEach(TryParse);
 
         private void TryParse(HandHistory hand) => _properties.ForEach(prop => TryParseProp(hand, prop));
 

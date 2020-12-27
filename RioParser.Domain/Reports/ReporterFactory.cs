@@ -1,6 +1,7 @@
 ﻿using System;
 using RioParser.Domain.Logging;
 using RioParser.Domain.Reports.Implementations;
+using RioParser.Domain.Reports.Models;
 
 namespace RioParser.Domain.Reports
 {
@@ -13,11 +14,11 @@ namespace RioParser.Domain.Reports
             _logger = logger;
         }
 
-        public IReporter Create(ReportType reportType) 
-            => reportType switch
+        public IReporter Create(ReportOptions reportOptions) 
+            => reportOptions switch
             {
-                ReportType.RakeAndSplash => new Reporter<RakeAndSplashReport>(_logger),
-                ReportType.Debug => new Reporter<DebugReport>(_logger),
+                { IsDebug: false } => new Reporter<PerStakeReport>(reportOptions, _logger),
+                { IsDebug: true } => new Reporter<DebugReport>(reportOptions, _logger),
                 _ => throw new NotImplementedException()
             };
     }

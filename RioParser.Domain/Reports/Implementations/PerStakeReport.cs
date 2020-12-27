@@ -2,17 +2,19 @@
 using System.Collections.Generic;
 using System.Linq;
 using RioParser.Domain.HandHistories;
+using RioParser.Domain.Reports.Models;
 
 namespace RioParser.Domain.Reports.Implementations
 {
-    public class RakeAndSplashReport : IHandsReport
+    public class PerStakeReport : IHandsReport
     {
         private readonly IReadOnlyCollection<IHandsReport> _stakeReports;
 
-        public RakeAndSplashReport(string hero, IReadOnlyCollection<HandHistory> hands)
+        public PerStakeReport(ReportOptions reportOptions, IReadOnlyCollection<HandHistory> hands)
         {
-            _stakeReports = hands.GroupBy(hand => hand.BigBlind)
-                .Select(group => new StakeReport(hero, group.ToList()))
+            _stakeReports = hands
+                .GroupBy(hand => hand.BigBlind)
+                .Select(group => new StakeReport(reportOptions, group.ToList()))
                 .ToList();
         }
 

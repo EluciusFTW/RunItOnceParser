@@ -1,5 +1,6 @@
 ﻿using RioParser.Domain.Extensions;
 using RioParser.Domain.HandHistories;
+using RioParser.Domain.Reports.Models;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -10,12 +11,12 @@ namespace RioParser.Domain.Reports.Implementations
     {
         private StakeReportBase[] _reports;
 
-        public StakeReport(string hero, IReadOnlyCollection<HandHistory> hands)
+        public StakeReport(ReportOptions reportOptions, IReadOnlyCollection<HandHistory> hands)
         {
             _reports = new StakeReportBase[]
             {
-                new RakeReport(hero, hands),
-                new SplashReport(hero, hands)
+                new RakeReport(reportOptions.Hero, hands),
+                new SplashReport(reportOptions.Hero, hands)
             };
         }
 
