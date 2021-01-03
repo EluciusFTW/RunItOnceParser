@@ -17,23 +17,36 @@ namespace RioParser.Console
         /// <param name="reportType">Report type to run. Valid values: Debug, RakeAndSplash</param>
         /// <param name="path">Path of folder where the hand histories can be found</param>
         /// <param name="hero">Name of the hero</param>
+        /// <param name="verbose">Set to true for more detailed output</param>
         static void Main(
             string path, 
             string hero = "MiamiBlues", 
+            bool verbose = false,
             GameType gameType = GameType.PLO,
             ReportType reportType = ReportType.RakeAndSplash)
         {
+            if(verbose)
+            {
+                ConsoleLogger.SetVerbose();
+            }
+
             path ??= Path.Combine(Assembly.GetExecutingAssembly().Location.Split("RioParser.Console")[0], "Sample\\HandHistoryBatch");
-            LogApplicationStart(path, hero, reportType, gameType);
+            LogApplicationStart(path, hero, reportType, gameType, verbose);
 
             var options = new ReportOptions(hero, gameType, reportType);
             GenerateReport(path, options);
         }
 
-        private static void LogApplicationStart(string path, string hero, ReportType reportType, GameType gameType)
+        private static void LogApplicationStart(string path, string hero, ReportType reportType, GameType gameType, bool verbose)
         {
-            Logger.Chapter("Running RioParser");
+            Logger.Chapter("RioParser: Parse your cash game hand histories played on Run It Once Poker!");
+
+            Logger.Log("Stay up to date with newest development and features by");
+            Logger.Log(" * following me on Twitter (@EluciusFTW)");
+            Logger.Log(" * visiting the GitHub page (https://github.com/EluciusFTW/RunItOnceParser)");
+
             Logger.Paragraph("Configuration");
+            Logger.Log("- Output:                  " + (verbose ? "verbose" : "terse"));
             Logger.Log("- Report type:             " + reportType);
             Logger.Log("- Game type:               " + gameType);
             Logger.Log("- Hero name:               " + hero);
