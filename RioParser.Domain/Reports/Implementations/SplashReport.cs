@@ -1,6 +1,8 @@
 ﻿using RioParser.Domain.Extensions;
 using RioParser.Domain.HandHistories;
+using System;
 using System.Collections.Generic;
+using System.Linq;
 using System.Text;
 
 namespace RioParser.Domain.Reports.Implementations
@@ -10,40 +12,67 @@ namespace RioParser.Domain.Reports.Implementations
         private decimal _totalSplash;
         private decimal _heroSplash;
         private int _handsWithSplash;
-        private decimal _maxSplash;
         private readonly decimal _relativeSplash;
-        
-        public SplashReport(string hero, IReadOnlyCollection<HandHistory> hands) 
+
+        private readonly IList<string> _bigSplashes = new List<string>();
+        private readonly IDictionary<decimal, int> _spashDistribution = new Dictionary<decimal, int>();
+
+        public SplashReport(string hero, IReadOnlyCollection<HandHistory> hands)
             : base(hands)
         {
             hands.ForEach(hands => ParseHand(hero, hands));
             _relativeSplash = _heroSplash * _factor;
+            _handsWithSplash = _spashDistribution.Sum(kvp => kvp.Value);
         }
 
         protected override void ParseHand(string hero, HandHistory hand)
         {
+            if (hand.BigSplash)
+            {
+                _bigSplashes.Add(hand.Identifier);
+                return;
+            }
+
+            if (hand.Splash == default)
+            {
+                return;
+            }
+
             _totalSplash += hand.Splash;
             if (hand.Winner == hero)
             {
                 _heroSplash += hand.Splash;
             }
 
-            if (hand.Splash != default)
+            var relative = hand.Splash / _bigBlind;
+            if (_spashDistribution.ContainsKey(relative))
             {
-                _handsWithSplash++;
-                _maxSplash = hand.Splash > _maxSplash 
-                    ? hand.Splash 
-                    : _maxSplash;
+                _spashDistribution[relative]++;
+            }
+            else
+            {
+                _spashDistribution.Add(relative, 1);
             }
         }
 
         public override void AppendReport(StringBuilder builder)
-            => builder
+        {
+            builder
                 .AppendLine("Splash")
-                .AppendLine($" - total:                 {_totalSplash:F2}€")
+                .AppendLine($" - occurences:            {_handsWithSplash}")
+                .AppendLine($" - splash frequency:      {(double)_handsWithSplash / _hands:P2}")
+                .AppendLine($" - total amount:          {_totalSplash:F2}€")
                 .AppendLine($" - won by hero:           {_heroSplash:F2}€")
                 .AppendLine($" - won by hero in BB/100: {_relativeSplash:F2}")
-                .AppendLine($" - splash frequency:      {(double)_handsWithSplash / _hands:P2}")
-                .AppendLine($" - biggest splash:        {_maxSplash / _bigBlind:F2} BB");
+                .AppendLine("Splash distribution");
+            _spashDistribution
+                .OrderBy(kvp => kvp.Key)
+                .ForEach(kvp => builder.AppendLine($" - {kvp.Key,3}BB {kvp.Value, 18} Splash{(kvp.Value > 1 ? @"es" : string.Empty)}"));
+
+            if (_bigSplashes.Any())
+            {
+                builder.AppendLine($"Exceptional Splashes occured in hands: {string.Join(", ", _bigSplashes)}");
+            }
+        }
     }
 }

@@ -22,7 +22,7 @@ namespace RioParser.Domain.Reports
             => handHistoryFiles
                 .SelectMany(file =>
                 {
-                    _logger.Log($"Processing {file.Name} containing {file.Hands.Count} hands.");
+                    // _logger.Log($"Processing {file.Name} containing {file.Hands.Count} hands.");
                     return file.Hands;
                 })
                 .Where(hand => hand.Game == _reportOptions.GameType)
