@@ -56,11 +56,17 @@ namespace RioParser.Domain.HandHistories
             .BeforeAny(new[] { "(", "showed", "mucked" })
             .ToArray());
 
+        public bool BigSplash => _showDown == null;
+
         public HandHistory(string hand)
         {
             _intro = hand.Before(ActionMarker);
-            _action = hand.BetweenSingle(ActionMarker, ShowDownMarker);
-            _showDown = hand.BetweenSingle(ShowDownMarker, SummaryMarker);
+            _action = hand
+                .AfterSingle(ActionMarker)
+                .BeforeAny(new[] { ShowDownMarker, SummaryMarker});
+            _showDown = hand
+                .AfterSingleOrDefault(ShowDownMarker)?
+                .Before(SummaryMarker);
             _summary = hand.AfterSingle(SummaryMarker);
         }
     }
