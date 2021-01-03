@@ -1,6 +1,8 @@
 ﻿using System;
+using System.Collections.Generic;
 using System.Drawing;
 using Pastel;
+using RioParser.Domain.Extensions;
 using RioParser.Domain.Logging;
 
 namespace RioParser.Console
@@ -14,7 +16,12 @@ namespace RioParser.Console
 
         public void Log(string message)
         {
-            System.Console.WriteLine(message.Pastel(Color.Aquamarine));
+            Log(message, Color.Aquamarine);
+        }
+
+        private void Log(string message, Color color)
+        {
+            System.Console.WriteLine(message.Pastel(color));
         }
         
         public void Chapter(string line)
@@ -25,6 +32,17 @@ namespace RioParser.Console
         public void Paragraph(string line)
         {
             System.Console.WriteLine(Environment.NewLine + $"* {line}".Pastel(Color.DarkSalmon));
+        }
+
+        internal void LogAlternating(IEnumerable<string> messages)
+        {
+            messages.ForEach((message, index) => 
+                {
+                    var color = index % 2 == 0
+                        ? Color.PaleVioletRed 
+                        : Color.Plum;
+                    Log(message, color);
+                });
         }
     }
 }

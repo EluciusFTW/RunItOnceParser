@@ -1,4 +1,5 @@
 ﻿using System.IO;
+using System.Linq;
 using System.Reflection;
 using RioParser.Domain;
 using RioParser.Domain.Extensions;
@@ -50,7 +51,7 @@ namespace RioParser.Console
                 .Process(handHistoryFiles);
             
             Logger.Paragraph($"Finished processing {handHistoryFiles.Count} hand history files");
-            reports.ForEach(report => Logger.Log(report.PrintOut()));
+            Logger.LogAlternating(reports.Select(report => report.PrintOut()));
         }
     } 
 }
