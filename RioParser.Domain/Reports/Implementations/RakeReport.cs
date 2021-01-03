@@ -28,7 +28,7 @@ namespace RioParser.Domain.Reports.Implementations
         protected override void ParseHand(string hero, HandHistory hand)
         {
             _totalRake += hand.Rake;
-            if (hand.Winner == hero)
+            if (!hand.BigSplash && hand.Winner == hero)
             {
                 _heroRake += hand.Rake;
             }
