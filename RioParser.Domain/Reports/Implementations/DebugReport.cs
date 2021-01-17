@@ -39,13 +39,13 @@ namespace RioParser.Domain.Reports.Implementations
             }
         }
 
-        public string PrintOut()
+        public IEnumerable<string> PrintOut()
         {
             var errorDetails = _errors
                 .GroupBy(error => error.Value)
                 .Select(grp => ErrorDetailsLine(grp.Key, grp.Select(kvp => kvp.Key).ToList()));
 
-            return "Debug report run found the following errors: " + Environment.NewLine + string.Join(Environment.NewLine, errorDetails);
+            return new[] { "Debug report run found the following errors: " + Environment.NewLine + string.Join(Environment.NewLine, errorDetails) };
         }
 
         private string ErrorDetailsLine(string prop, IReadOnlyCollection<string> identigfiers)

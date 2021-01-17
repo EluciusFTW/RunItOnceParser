@@ -25,13 +25,13 @@ namespace RioParser.Domain.Reports.Implementations
                 .ToList();
         }
 
-        public string PrintOut()
+        public IEnumerable<string> PrintOut()
         {
             var builder = new StringBuilder();
             _reports.First().AppendStakeReport(builder);
             _reports.ForEach(report => report.AppendReport(builder));
 
-            return builder.ToString();
+            return new[] { builder.ToString() };
         }
     }
 }

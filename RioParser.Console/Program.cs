@@ -2,7 +2,6 @@
 using System.Linq;
 using System.Reflection;
 using RioParser.Domain;
-using RioParser.Domain.Extensions;
 using RioParser.Domain.HandHistories;
 using RioParser.Domain.Reports;
 using RioParser.Domain.Reports.Models;
@@ -64,7 +63,7 @@ namespace RioParser.Console
                 .Process(handHistoryFiles);
             
             Logger.Paragraph($"Finished processing {handHistoryFiles.Count} hand history files");
-            Logger.LogAlternating(reports.Select(report => report.PrintOut()));
+            Logger.LogAlternating(reports.SelectMany(report => report.PrintOut()));
         }
     } 
 }

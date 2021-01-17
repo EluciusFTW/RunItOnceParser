@@ -1,7 +1,9 @@
-﻿namespace RioParser.Domain.Reports
+﻿using System.Collections.Generic;
+
+namespace RioParser.Domain.Reports
 {
     public interface IHandsReport
     {
-        public string PrintOut();
+        public IEnumerable<string> PrintOut();
     }
 }

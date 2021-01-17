@@ -18,7 +18,7 @@ namespace RioParser.Domain.Reports.Implementations
                 .ToList();
         }
 
-        public string PrintOut() 
-            => string.Join(Environment.NewLine + Environment.NewLine, _stakeReports.Select(report => report.PrintOut()));
+        public IEnumerable<string> PrintOut() 
+            => _stakeReports.Select(report => string.Join(Environment.NewLine, report.PrintOut()));
     }
 }
