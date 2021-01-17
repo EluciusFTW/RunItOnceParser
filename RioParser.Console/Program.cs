@@ -14,7 +14,7 @@ namespace RioParser.Console
         private static readonly ConsoleLogger Logger = new();
 
         /// <param name="gameType">Game type to analyze. Valid values: PLO, NLH</param>
-        /// <param name="reportType">Report type to run. Valid values: Debug, RakeAndSplash</param>
+        /// <param name="reportType">Report type to run. Valid values: Rake, Splash, RakeAndSplash.</param>
         /// <param name="path">Path of folder where the hand histories can be found</param>
         /// <param name="hero">Name of the hero</param>
         /// <param name="verbose">Set to true for more detailed output</param>

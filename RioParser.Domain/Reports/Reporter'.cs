@@ -19,16 +19,20 @@ namespace RioParser.Domain.Reports
         }
 
         public IReadOnlyCollection<IHandsReport> Process(IReadOnlyCollection<HandHistoryFile> handHistoryFiles)
-            => handHistoryFiles
+        {
+            var filteredFiles = handHistoryFiles
+                .Where(file => file.Hands.First().Game == _reportOptions.GameType)
                 .SelectMany(file =>
                 {
                     _logger.Verbose($"Processing {file.Name} containing {file.Hands.Count} hands.");
                     return file.Hands;
                 })
-                .Where(hand => hand.Game == _reportOptions.GameType)
-                .GroupBy(hand => hand.BigBlind)
-                .Select(hands => (TReport)Activator.CreateInstance(typeof(TReport), _reportOptions, hands.ToList()))
+                .ToList();
+
+            return new[] { (TReport)Activator.CreateInstance(typeof(TReport), _reportOptions, filteredFiles) }
                 .Cast<IHandsReport>()
                 .ToList();
+        }
+            
     }
 }

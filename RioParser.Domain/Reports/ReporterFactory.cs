@@ -17,7 +17,7 @@ namespace RioParser.Domain.Reports
         public IReporter Create(ReportOptions reportOptions) 
             => reportOptions switch
             {
-                { IsDebug: false } => new Reporter<PerStakeReport>(reportOptions, _logger),
+                { IsPerStakeReport: true } => new Reporter<PerStakeReport>(reportOptions, _logger),
                 { IsDebug: true } => new Reporter<DebugReport>(reportOptions, _logger),
                 _ => throw new NotImplementedException()
             };
