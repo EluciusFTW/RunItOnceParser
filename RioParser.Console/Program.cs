@@ -1,4 +1,5 @@
-﻿using System.IO;
+﻿using System.Diagnostics;
+using System.IO;
 using System.Linq;
 using System.Reflection;
 using RioParser.Domain;
@@ -33,6 +34,7 @@ namespace RioParser.Console
             LogApplicationStart(path, hero, reportType, gameType, verbose);
 
             var options = new ReportOptions(hero, gameType, reportType);
+
             GenerateReport(path, options);
         }
 
@@ -54,16 +56,19 @@ namespace RioParser.Console
 
         private static void GenerateReport(string path, ReportOptions options)
         {
+            var stopwatch = Stopwatch.StartNew();
             var handHistoryFiles = new HandHistoryFileLoader()
                 .Load(path);
             
-            Logger.Paragraph($"Found {handHistoryFiles.Count} files to process");
+            Logger.Paragraph($"Loaded {handHistoryFiles.Count} hand history files to memory in {stopwatch.Elapsed} seconds.");
             var reports = new ReporterFactory(Logger)
                 .Create(options)
                 .Process(handHistoryFiles);
             
-            Logger.Paragraph($"Finished processing {handHistoryFiles.Count} hand history files");
+            Logger.Paragraph($"Finished processing {handHistoryFiles.Count} hand history files after {stopwatch.Elapsed} seconds.");
             Logger.LogAlternating(reports.SelectMany(report => report.PrintOut()));
+
+            Logger.Paragraph($"Finished reports after {stopwatch.Elapsed} seconds.");
         }
     } 
 }
