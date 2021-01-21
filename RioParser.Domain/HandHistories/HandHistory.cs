@@ -9,23 +9,29 @@ namespace RioParser.Domain.HandHistories
         private const string ActionMarker = "*** HOLE CARDS ***";
         private const string SummaryMarker = "*** SUMMARY ***";
 
+        private const string HeaderSeparator = "Table ID '";
+
         private const string PLOIndicator = "Omaha Pot Limit";
         private const string NLHIndicator = "Hold'em No Limit";
+        private const string CubedIndicator = "Cub3d";
 
+        private readonly string _header;
         private readonly string _intro;
         private readonly string _action;
         private readonly string _showDown;
         private readonly string _summary;
 
+        public bool Cubed => _header.Contains(CubedIndicator);
+
         public string Identifier
-            => _intro
+            => _header
                 .AfterFirst("#")
                 .Before(":");
 
         public GameType Game
-            => _intro.Contains(PLOIndicator)
+            => _header.Contains(PLOIndicator)
                 ? GameType.PLO
-                : _intro.Contains(NLHIndicator)
+                : _header.Contains(NLHIndicator)
                     ? GameType.NLH
                     : GameType.Unknown;
 
@@ -61,6 +67,7 @@ namespace RioParser.Domain.HandHistories
         public HandHistory(string hand)
         {
             _intro = hand.Before(ActionMarker);
+            _header = _intro.Before(HeaderSeparator);
             _action = hand
                 .AfterSingle(ActionMarker)
                 .BeforeAny(new[] { ShowDownMarker, SummaryMarker});

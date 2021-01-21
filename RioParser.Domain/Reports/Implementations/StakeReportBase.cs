@@ -10,8 +10,9 @@ namespace RioParser.Domain.Reports.Implementations
     {
         protected readonly int _hands;
         protected readonly decimal _bigBlind;
+        private readonly GameType _gameType;
         protected readonly decimal _factor;
-
+        
         public StakeReportBase(IReadOnlyCollection<HandHistory> hands)
         {
             var bigBlinds = hands.GroupBy(hand => hand.BigBlind);
@@ -22,7 +23,8 @@ namespace RioParser.Domain.Reports.Implementations
             
             _hands = hands.Count;
             _bigBlind = bigBlinds.Single().Key;
-
+            _gameType = hands.First().Game;
+            
             _factor = 1 / (_bigBlind * _hands / 100);
         }
 
@@ -31,6 +33,6 @@ namespace RioParser.Domain.Reports.Implementations
 
         public void AppendStakeReport(StringBuilder builder)
             => builder
-                .AppendLine($"----- Big Blind: {_bigBlind:F2}€ - Hands: {_hands} -----");
+                .AppendLine($"----- Big Blind: {_bigBlind:F2}€ - {_gameType} - Hands: {_hands} -----");
     }
 }

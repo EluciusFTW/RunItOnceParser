@@ -2,10 +2,10 @@
 {
     public enum ReportType
     {
-        Simple,
         Rake,
         Splash,
         RakeAndSplash,
+        Cubed,
         Debug
     }
 }

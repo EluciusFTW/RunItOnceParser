@@ -22,5 +22,8 @@ namespace RioParser.Domain.Extensions
         private static IEnumerable<(T Item, int Index)> Indexed<T>(this IEnumerable<T> source) 
             => source
                 .Select((item, index) => (item, index));
+
+        public static (IEnumerable<T>, IEnumerable<T>) Split<T>(this IEnumerable<T> source, Func<T, bool> condition)
+            => (source.Where(element => condition(element)), source.Where(element => !condition(element)));
     }
 }
