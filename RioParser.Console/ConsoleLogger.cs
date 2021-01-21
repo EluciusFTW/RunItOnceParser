@@ -13,8 +13,8 @@ namespace RioParser.Console
         private readonly Color paragraphColor = Color.DarkSalmon;
         private readonly Color mainColor = Color.Aquamarine;
         
-        private readonly Color alternatingColorOne = Color.PaleVioletRed;
-        private readonly Color alternatingColorTwo = Color.Plum;
+        private readonly Color alternatingColorOne = Color.Linen;
+        private readonly Color alternatingColorTwo = Color.PeachPuff;
         
         private static bool _isVerbose;
 
