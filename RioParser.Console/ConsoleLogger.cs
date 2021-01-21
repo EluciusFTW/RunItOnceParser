@@ -23,7 +23,7 @@ namespace RioParser.Console
             System.Console.OutputEncoding = System.Text.Encoding.UTF8;
         }
        
-        public static void SetVerbose() => _isVerbose = true;
+        public static void SetVerbosity(bool verbosity) => _isVerbose = verbosity;
 
         public void Log(string message) => Log(message, mainColor);
 
