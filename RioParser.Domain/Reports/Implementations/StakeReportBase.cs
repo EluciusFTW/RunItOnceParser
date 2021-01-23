@@ -12,15 +12,17 @@ namespace RioParser.Domain.Reports.Implementations
         protected readonly decimal _bigBlind;
         private readonly GameType _gameType;
         protected readonly decimal _factor;
-        
-        public StakeReportBase(IReadOnlyCollection<HandHistory> hands)
+        protected readonly bool _includeHeroStatistics;
+
+        public StakeReportBase(string hero, IReadOnlyCollection<HandHistory> hands)
         {
             var bigBlinds = hands.GroupBy(hand => hand.BigBlind);
             if (bigBlinds.Count() != 1)
             {
                 throw new ArgumentException("A stake report can only contain hands of one stake!");
             }
-            
+         
+            _includeHeroStatistics = !string.IsNullOrEmpty(hero);
             _hands = hands.Count;
             _bigBlind = bigBlinds.Single().Key;
             _gameType = hands.First().Game;

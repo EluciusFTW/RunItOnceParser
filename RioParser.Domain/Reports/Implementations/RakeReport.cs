@@ -9,26 +9,34 @@ namespace RioParser.Domain.Reports.Implementations
     {
         private decimal _totalRake;
         private decimal _heroRake;
-        private decimal _relativeRake;
+        private readonly decimal _relativeHeroRake;
+        
         
         public RakeReport(string hero, IReadOnlyCollection<HandHistory> hands) 
-            : base(hands)
+            : base(hero, hands)
         {
             hands.ForEach(hands => ParseHand(hero, hands));
-            _relativeRake =  _heroRake * _factor;
+            _relativeHeroRake =  _heroRake * _factor;
         }
 
         public override void AppendReport(StringBuilder builder)
-            => builder
+        {
+            builder
                 .AppendLine("Rake")
-                .AppendLine($" - total:                 {_totalRake:F2}€")
-                .AppendLine($" - by hero:               {_heroRake:F2}€")
-                .AppendLine($" - by hero in BB/100:     {_relativeRake:F2}");
+                .AppendLine($" - total:                 {_totalRake:F2}€");
+
+            if (_includeHeroStatistics)
+            {
+                builder
+                    .AppendLine($" - by hero:               {_heroRake:F2}€")
+                    .AppendLine($" - by hero in BB/100:     {_relativeHeroRake:F2}");
+            }
+        }
 
         protected override void ParseHand(string hero, HandHistory hand)
         {
             _totalRake += hand.Rake;
-            if (!hand.BigSplash && hand.Winner == hero)
+            if (_includeHeroStatistics && !hand.BigSplash && hand.Winner == hero)
             {
                 _heroRake += hand.Rake;
             }

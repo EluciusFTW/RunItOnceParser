@@ -12,16 +12,16 @@ namespace RioParser.Domain.Reports.Implementations
         private decimal _totalSplash;
         private decimal _heroSplash;
         private int _handsWithSplash;
-        private readonly decimal _relativeSplash;
+        private readonly decimal _relativeHeroSplash;
 
         private readonly IList<string> _bigSplashes = new List<string>();
         private readonly IDictionary<decimal, int> _spashDistribution = new Dictionary<decimal, int>();
 
         public SplashReport(string hero, IReadOnlyCollection<HandHistory> hands)
-            : base(hands)
+            : base(hero, hands)
         {
             hands.ForEach(hands => ParseHand(hero, hands));
-            _relativeSplash = _heroSplash * _factor;
+            _relativeHeroSplash = _heroSplash * _factor;
             _handsWithSplash = _spashDistribution.Sum(kvp => kvp.Value);
         }
 
@@ -39,7 +39,7 @@ namespace RioParser.Domain.Reports.Implementations
             }
 
             _totalSplash += hand.Splash;
-            if (hand.Winner == hero)
+            if (_includeHeroStatistics && hand.Winner == hero)
             {
                 _heroSplash += hand.Splash;
             }
@@ -61,10 +61,18 @@ namespace RioParser.Domain.Reports.Implementations
                 .AppendLine("Splash")
                 .AppendLine($" - occurences:            {_handsWithSplash}")
                 .AppendLine($" - splash frequency:      {(double)_handsWithSplash / _hands:P2}")
-                .AppendLine($" - total amount:          {_totalSplash:F2}€")
-                .AppendLine($" - won by hero:           {_heroSplash:F2}€")
-                .AppendLine($" - won by hero in BB/100: {_relativeSplash:F2}")
+                .AppendLine($" - total amount:          {_totalSplash:F2}€");
+            
+            if (_includeHeroStatistics)
+            {
+                builder
+                    .AppendLine($" - won by hero:           {_heroSplash:F2}€")
+                    .AppendLine($" - won by hero in BB/100: {_relativeHeroSplash:F2}");
+            }
+                
+            builder
                 .AppendLine("Splash distribution");
+
             _spashDistribution
                 .OrderBy(kvp => kvp.Key)
                 .ForEach(kvp => builder.AppendLine($" - {kvp.Key,3}BB {kvp.Value, 18} Splash{(kvp.Value > 1 ? @"es" : string.Empty)}"));
