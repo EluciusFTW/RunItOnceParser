@@ -1,7 +1,5 @@
 ﻿using System.Diagnostics;
-using System.IO;
 using System.Linq;
-using System.Reflection;
 using RioParser.Domain;
 using RioParser.Domain.HandHistories;
 using RioParser.Domain.Reports;
@@ -13,10 +11,10 @@ namespace RioParser.Console
     {
         private static readonly ConsoleLogger Logger = new();
 
+        /// <param name="path">Required: Path of folder where the hand histories can be found.</param>
         /// <param name="gameType">Game type to analyze. Valid values: PLO, NLH</param>
         /// <param name="reportType">Report type to run. Valid values: Rake, Splash, RakeAndSplash.</param>
-        /// <param name="path">Path of folder where the hand histories can be found</param>
-        /// <param name="hero">Name of the hero</param>
+        /// <param name="hero">Name of the hero. If none is provided, only general stats will be computed.</param>
         /// <param name="verbose">Set to true for more detailed output</param>
         static void Main(
             string path,
@@ -26,14 +24,18 @@ namespace RioParser.Console
             ReportType reportType = ReportType.RakeAndSplash)
         {
             ConsoleLogger.SetVerbosity(verbose);
-            
-            path ??= SamplePath();
             LogApplicationStart(path, hero, reportType, gameType, verbose);
+            
+            if (string.IsNullOrEmpty(path))
+            {
+                Logger.Paragraph($"A path is required, please provide it via \"--{nameof(path)} <path to hand history folder>\".");
+                return;
+            }
             var options = new ReportOptions(hero, gameType, reportType);
 
             GenerateReport(path, options);
         }
-        
+
         private static void LogApplicationStart(string path, string hero, ReportType reportType, GameType gameType, bool verbose)
         {
             Logger.Chapter("RioParser: Parse your cash game hand histories played on Run It Once Poker!");
@@ -75,11 +77,6 @@ namespace RioParser.Console
                 Logger.LogAlternating(reports.SelectMany(report => report.PrintOut()));
                 Logger.Paragraph($"Finished reports after {stopwatch.Elapsed} seconds.");
             }
-        }
-        private static string SamplePath()
-        {
-            var fi = new FileInfo(Assembly.GetExecutingAssembly().Location).Directory.FullName;
-            return Path.Combine(fi.Split("RioParser.Console")[0], "Sample\\HandHistoryBatch");
         }
     }
 }
