@@ -9,10 +9,23 @@
     <Authors>Guy Buss (@EluciusFTW)</Authors>
   </PropertyGroup>
 
+  <PropertyGroup>
+    <Configuration>Release</Configuration>
+    <Platform>Any CPU</Platform>
+    <PublishDir>bin\publish</PublishDir>
+    <PublishProtocol>FileSystem</PublishProtocol>
+    <TargetFramework>net5.0</TargetFramework>
+    <RuntimeIdentifier>win-x64</RuntimeIdentifier>
+    <SelfContained>true</SelfContained>
+    <PublishSingleFile>True</PublishSingleFile>
+    <PublishTrimmed>False</PublishTrimmed>
+    <IncludeNativeLibrariesForSelfExtract>true</IncludeNativeLibrariesForSelfExtract>
+  </PropertyGroup>
+
   <ItemGroup>
     <PackageReference Include="Pastel" Version="2.1.0" />
-    <PackageReference Include="System.CommandLine" Version="2.0.0-beta1.20574.7" />
-    <PackageReference Include="System.CommandLine.DragonFruit" Version="0.3.0-alpha.20574.7" />
+    <PackageReference Include="System.CommandLine" Version="2.0.0-beta1.21072.2" />
+    <PackageReference Include="System.CommandLine.DragonFruit" Version="2.0.0-beta1.20074.1" />
   </ItemGroup>
 
   <ItemGroup>

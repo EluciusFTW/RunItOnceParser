@@ -56,6 +56,12 @@ namespace RioParser.Console
             var handHistoryFiles = new HandHistoryFileLoader()
                 .Load(path);
             
+            if (!handHistoryFiles.Any())
+            {
+                Logger.Paragraph($"Didn't find any hand history files in {path}.");
+                return;
+            }
+
             Logger.Paragraph($"Loaded {handHistoryFiles.Count} hand history files to memory in {stopwatch.Elapsed} seconds.");
             var reports = new ReporterFactory(Logger)
                 .Create(options)
