@@ -5,7 +5,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 
-namespace RioParser.Domain.Reports.Implementations
+namespace RioParser.Domain.Reports.CashGame
 {
     public class SplashReport : StakeReportBase
     {
@@ -62,20 +62,20 @@ namespace RioParser.Domain.Reports.Implementations
                 .AppendLine($" - occurences:            {_handsWithSplash}")
                 .AppendLine($" - splash frequency:      {(double)_handsWithSplash / _hands:P2}")
                 .AppendLine($" - total amount:          {_totalSplash:F2}€");
-            
+
             if (_includeHeroStatistics)
             {
                 builder
                     .AppendLine($" - won by hero:           {_heroSplash:F2}€")
                     .AppendLine($" - won by hero in BB/100: {_relativeHeroSplash:F2}");
             }
-                
+
             builder
                 .AppendLine("Splash distribution");
 
             _spashDistribution
                 .OrderBy(kvp => kvp.Key)
-                .ForEach(kvp => builder.AppendLine($" - {kvp.Key,3}BB {kvp.Value, 18} Splash{(kvp.Value > 1 ? @"es" : string.Empty)}"));
+                .ForEach(kvp => builder.AppendLine($" - {kvp.Key,3}BB {kvp.Value,18} Splash{(kvp.Value > 1 ? @"es" : string.Empty)}"));
 
             if (_bigSplashes.Any())
             {

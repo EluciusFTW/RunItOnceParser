@@ -4,7 +4,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 
-namespace RioParser.Domain.Reports.Implementations
+namespace RioParser.Domain.Reports.CashGame
 {
     public abstract class StakeReportBase
     {
@@ -21,12 +21,12 @@ namespace RioParser.Domain.Reports.Implementations
             {
                 throw new ArgumentException("A stake report can only contain hands of one stake!");
             }
-         
+
             _includeHeroStatistics = !string.IsNullOrEmpty(hero);
             _hands = hands.Count;
             _bigBlind = bigBlinds.Single().Key;
             _gameType = hands.First().Game;
-            
+
             _factor = 1 / (_bigBlind * _hands / 100);
         }
 

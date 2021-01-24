@@ -1,7 +1,9 @@
 ﻿using System;
 using RioParser.Domain.Logging;
+using RioParser.Domain.Reports.CashGame;
 using RioParser.Domain.Reports.Implementations;
 using RioParser.Domain.Reports.Models;
+using RioParser.Domain.Reports.SitAndGo;
 
 namespace RioParser.Domain.Reports
 {
@@ -17,8 +19,9 @@ namespace RioParser.Domain.Reports
         public IReporter Create(ReportOptions reportOptions) 
             => reportOptions switch
             {
-                { IsPerStakeReport: true } => new Reporter<PerStakeReport>(reportOptions, _logger),
-                { IsDebug: true } => new Reporter<DebugReport>(reportOptions, _logger),
+                { IsCub3d: true } => new SitAndGoReporter<Cub3dReport>(reportOptions, _logger),
+                { IsPerStakeReport: true } => new CashGameReporter<StakesReport>(reportOptions, _logger),
+                { IsDebug: true } => new CashGameReporter<DebugReport>(reportOptions, _logger),
                 _ => throw new NotImplementedException()
             };
     }

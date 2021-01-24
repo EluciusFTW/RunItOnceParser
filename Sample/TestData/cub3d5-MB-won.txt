@@ -1,0 +1,519 @@
+Run It Once Poker Hand #52305875: Tournament #69794, €4.69+€0.31 Cub3d, Hold'em No Limit (4/8) - 2020/12/30 22:31 UTC [2020/12/30 23:31 CET]
+Table ID '52305873' 3-Max Seat #1 is the button
+Seat 1: MiamiBlues (500 in chips) [hero]
+Seat 3: Dorian Z (500 in chips)
+Seat 5: Ralph V (500 in chips)
+Dorian Z: posts small blind 10
+Ralph V: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Dorian Z [2h 8c]
+Dealt to Ralph V [Ah 3h]
+Dealt to MiamiBlues [6d Qc]
+MiamiBlues: raises 20 to 40
+Dorian Z: folds
+Ralph V: calls 20
+*** FLOP *** [9c 7d 8s]
+Ralph V: checks
+MiamiBlues: checks
+*** TURN *** [9c 7d 8s] [2s]
+Ralph V: checks
+MiamiBlues: checks
+*** RIVER *** [9c 7d 8s 2s] [4h]
+Ralph V: checks
+MiamiBlues: checks
+*** SHOWDOWN ***
+Ralph V shows [Ah 3h] for  [Ah 9c 8s 7d 4h]
+Ralph V collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | Rake 0
+Board [9c 7d 8s 2s 4h]
+Seat 3: Dorian Z (small blind) folded before Flop
+Seat 5: Ralph V (big blind) showed [Ah 3h] and won 90 with A 9 8 7 4
+Seat 1: MiamiBlues (button) mucked [6d Qc] and lost
+
+
+**** **** **** **** **** **** **** ****
+
+
+Run It Once Poker Hand #52305881: Tournament #69794, €4.69+€0.31 Cub3d, Hold'em No Limit (4/8) - 2020/12/30 22:32 UTC [2020/12/30 23:32 CET]
+Table ID '52305873' 3-Max Seat #3 is the button
+Seat 1: MiamiBlues (460 in chips) [hero]
+Seat 3: Dorian Z (490 in chips)
+Seat 5: Ralph V (550 in chips)
+Ralph V: posts small blind 10
+MiamiBlues: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Ralph V [6h 2h]
+Dealt to MiamiBlues [Ks 3s]
+Dealt to Dorian Z [Kc 3d]
+Dorian Z: folds
+Ralph V: calls 10
+MiamiBlues: checks
+*** FLOP *** [6s 9s Tc]
+Ralph V: checks
+MiamiBlues: bets 20
+Ralph V: folds
+MiamiBlues: mucks hand
+*** SHOWDOWN ***
+MiamiBlues: mucks hand
+Uncalled bet (20) returned to MiamiBlues
+MiamiBlues collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0
+Board [6s 9s Tc]
+Seat 3: Dorian Z (button) folded before Flop
+Seat 5: Ralph V (small blind) folded before Turn
+Seat 1: MiamiBlues (big blind) mucked hand and won 40
+
+
+**** **** **** **** **** **** **** ****
+
+
+Run It Once Poker Hand #52305883: Tournament #69794, €4.69+€0.31 Cub3d, Hold'em No Limit (4/8) - 2020/12/30 22:32 UTC [2020/12/30 23:32 CET]
+Table ID '52305873' 3-Max Seat #5 is the button
+Seat 1: MiamiBlues (480 in chips) [hero]
+Seat 3: Dorian Z (490 in chips)
+Seat 5: Ralph V (530 in chips)
+MiamiBlues: posts small blind 10
+Dorian Z: posts big blind 20
+*** HOLE CARDS ***
+Dealt to MiamiBlues [Qh 8s]
+Dealt to Dorian Z [Jc Ah]
+Dealt to Ralph V [4s Kd]
+Ralph V: folds
+MiamiBlues: calls 10
+Dorian Z: raises 40 to 60
+MiamiBlues: calls 40
+*** FLOP *** [9d 9h 8h]
+MiamiBlues: checks
+Dorian Z: bets 40
+MiamiBlues: calls 40
+*** TURN *** [9d 9h 8h] [3d]
+MiamiBlues: checks
+Dorian Z: checks
+*** RIVER *** [9d 9h 8h 3d] [6d]
+MiamiBlues: checks
+Dorian Z: checks
+*** SHOWDOWN ***
+MiamiBlues shows [Qh 8s] for Two Pairs [Qh 9h 9d 8s 8h]
+MiamiBlues collected 200 from pot
+*** SUMMARY ***
+Total pot 200 | Rake 0
+Board [9d 9h 8h 3d 6d]
+Seat 5: Ralph V (button) folded before Flop
+Seat 1: MiamiBlues (small blind) showed [Qh 8s] and won 200 with Two Pairs 9 8 and Q
+Seat 3: Dorian Z (big blind) mucked [Jc Ah] and lost
+
+
+**** **** **** **** **** **** **** ****
+
+
+Run It Once Poker Hand #52305895: Tournament #69794, €4.69+€0.31 Cub3d, Hold'em No Limit (4/8) - 2020/12/30 22:33 UTC [2020/12/30 23:33 CET]
+Table ID '52305873' 3-Max Seat #1 is the button
+Seat 1: MiamiBlues (580 in chips) [hero]
+Seat 3: Dorian Z (390 in chips)
+Seat 5: Ralph V (530 in chips)
+Dorian Z: posts small blind 10
+Ralph V: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Dorian Z [Ks Jc]
+Dealt to Ralph V [Jh 5d]
+Dealt to MiamiBlues [Ah 4h]
+MiamiBlues: raises 20 to 40
+Dorian Z: raises 350 to 390 and is all-in
+Ralph V: folds
+MiamiBlues: folds
+*** SHOWDOWN ***
+Dorian Z: mucks hand
+Uncalled bet (350) returned to Dorian Z
+Dorian Z collected 100 from pot
+*** SUMMARY ***
+Total pot 100 | Rake 0
+Seat 5: Ralph V (big blind) folded before Flop
+Seat 1: MiamiBlues (button) folded before Flop
+Seat 3: Dorian Z (small blind) mucked hand and won 100
+
+
+**** **** **** **** **** **** **** ****
+
+
+Run It Once Poker Hand #52305898: Tournament #69794, €4.69+€0.31 Cub3d, Hold'em No Limit (4/8) - 2020/12/30 22:33 UTC [2020/12/30 23:33 CET]
+Table ID '52305873' 3-Max Seat #3 is the button
+Seat 1: MiamiBlues (540 in chips) [hero]
+Seat 3: Dorian Z (450 in chips)
+Seat 5: Ralph V (510 in chips)
+Ralph V: posts small blind 10
+MiamiBlues: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Ralph V [Ks 9s]
+Dealt to MiamiBlues [Qd 4d]
+Dealt to Dorian Z [6h 6s]
+Dorian Z: raises 20 to 40
+Ralph V: calls 30
+MiamiBlues: calls 20
+*** FLOP *** [3s Ts 9h]
+Ralph V: checks
+MiamiBlues: checks
+Dorian Z: checks
+*** TURN *** [3s Ts 9h] [2d]
+Ralph V: checks
+MiamiBlues: checks
+Dorian Z: bets 60
+Ralph V: calls 60
+MiamiBlues: folds
+*** RIVER *** [3s Ts 9h 2d] [9c]
+Ralph V: bets 150
+Dorian Z: folds
+Ralph V: mucks hand
+*** SHOWDOWN ***
+Ralph V: mucks hand
+Uncalled bet (150) returned to Ralph V
+Ralph V collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | Rake 0
+Board [3s Ts 9h 2d 9c]
+Seat 1: MiamiBlues (big blind) folded before River
+Seat 3: Dorian Z (button) folded during River
+Seat 5: Ralph V (small blind) mucked hand and won 240
+
+
+**** **** **** **** **** **** **** ****
+
+
+Run It Once Poker Hand #52305919: Tournament #69794, €4.69+€0.31 Cub3d, Hold'em No Limit (4/8) - 2020/12/30 22:34 UTC [2020/12/30 23:34 CET]
+Table ID '52305873' 3-Max Seat #5 is the button
+Seat 1: MiamiBlues (500 in chips) [hero]
+Seat 3: Dorian Z (350 in chips)
+Seat 5: Ralph V (650 in chips)
+MiamiBlues: posts small blind 15
+Dorian Z: posts big blind 30
+*** HOLE CARDS ***
+Dealt to MiamiBlues [Qs 3c]
+Dealt to Dorian Z [9h 5d]
+Dealt to Ralph V [6s 7c]
+Ralph V: folds
+MiamiBlues: folds
+*** SHOWDOWN ***
+Dorian Z: mucks hand
+Dorian Z collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | Rake 0
+Seat 5: Ralph V (button) folded before Flop
+Seat 1: MiamiBlues (small blind) folded before Flop
+Seat 3: Dorian Z (big blind) mucked hand and won 45
+
+
+**** **** **** **** **** **** **** ****
+
+
+Run It Once Poker Hand #52305923: Tournament #69794, €4.69+€0.31 Cub3d, Hold'em No Limit (4/8) - 2020/12/30 22:34 UTC [2020/12/30 23:34 CET]
+Table ID '52305873' 3-Max Seat #1 is the button
+Seat 1: MiamiBlues (485 in chips) [hero]
+Seat 3: Dorian Z (365 in chips)
+Seat 5: Ralph V (650 in chips)
+Dorian Z: posts small blind 15
+Ralph V: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Dorian Z [Tc Qc]
+Dealt to Ralph V [3c 6s]
+Dealt to MiamiBlues [Ad Ah]
+MiamiBlues: raises 30 to 60
+Dorian Z: raises 305 to 365 and is all-in
+Ralph V: folds
+MiamiBlues: calls 305
+*** FLOP *** [9c Ac Js]
+*** TURN *** [9c Ac Js] [9s]
+*** RIVER *** [9c Ac Js 9s] [6h]
+*** SHOWDOWN ***
+MiamiBlues shows [Ad Ah] for Full House [Ah Ad Ac 9s 9c]
+MiamiBlues collected 760 from pot
+*** SUMMARY ***
+Total pot 760 | Rake 0
+Board [9c Ac Js 9s 6h]
+Seat 5: Ralph V (big blind) folded before Flop
+Seat 1: MiamiBlues (button) showed [Ad Ah] and won 760 with Full House A's and 9's
+Seat 3: Dorian Z (small blind) mucked [Tc Qc] and lost
+
+
+**** **** **** **** **** **** **** ****
+
+
+Run It Once Poker Hand #52305929: Tournament #69794, €4.69+€0.31 Cub3d, Hold'em No Limit (4/8) - 2020/12/30 22:34 UTC [2020/12/30 23:34 CET]
+Table ID '52305873' 3-Max Seat #5 is the button
+Seat 1: MiamiBlues (880 in chips) [hero]
+Seat 5: Ralph V (620 in chips)
+Ralph V: posts small blind 15
+MiamiBlues: posts big blind 30
+*** HOLE CARDS ***
+Dealt to MiamiBlues [As 4s]
+Dealt to Ralph V [4d 6h]
+Ralph V: calls 15
+MiamiBlues: checks
+*** FLOP *** [Ac 5d Kh]
+MiamiBlues: checks
+Ralph V: bets 30
+MiamiBlues: calls 30
+*** TURN *** [Ac 5d Kh] [Ad]
+MiamiBlues: checks
+Ralph V: checks
+*** RIVER *** [Ac 5d Kh Ad] [Ah]
+MiamiBlues: bets 120
+Ralph V: folds
+MiamiBlues: mucks hand
+*** SHOWDOWN ***
+MiamiBlues: mucks hand
+Uncalled bet (120) returned to MiamiBlues
+MiamiBlues collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | Rake 0
+Board [Ac 5d Kh Ad Ah]
+Seat 5: Ralph V (small blind/button) folded during River
+Seat 1: MiamiBlues (big blind) mucked hand and won 120
+
+
+**** **** **** **** **** **** **** ****
+
+
+Run It Once Poker Hand #52305939: Tournament #69794, €4.69+€0.31 Cub3d, Hold'em No Limit (4/8) - 2020/12/30 22:35 UTC [2020/12/30 23:35 CET]
+Table ID '52305873' 3-Max Seat #1 is the button
+Seat 1: MiamiBlues (940 in chips) [hero]
+Seat 5: Ralph V (560 in chips)
+MiamiBlues: posts small blind 15
+Ralph V: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Ralph V [5s 2d]
+Dealt to MiamiBlues [Qd Qs]
+MiamiBlues: raises 30 to 60
+Ralph V: folds
+*** SHOWDOWN ***
+MiamiBlues: mucks hand
+Uncalled bet (30) returned to MiamiBlues
+MiamiBlues collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0
+Seat 5: Ralph V (big blind) folded before Flop
+Seat 1: MiamiBlues (small blind/button) mucked hand and won 60
+
+
+**** **** **** **** **** **** **** ****
+
+
+Run It Once Poker Hand #52305945: Tournament #69794, €4.69+€0.31 Cub3d, Hold'em No Limit (4/8) - 2020/12/30 22:35 UTC [2020/12/30 23:35 CET]
+Table ID '52305873' 3-Max Seat #5 is the button
+Seat 1: MiamiBlues (970 in chips) [hero]
+Seat 5: Ralph V (530 in chips)
+Ralph V: posts small blind 15
+MiamiBlues: posts big blind 30
+*** HOLE CARDS ***
+Dealt to MiamiBlues [8c 8d]
+Dealt to Ralph V [3h Jh]
+Ralph V: calls 15
+MiamiBlues: checks
+*** FLOP *** [4d Ts 2c]
+MiamiBlues: checks
+Ralph V: checks
+*** TURN *** [4d Ts 2c] [3c]
+MiamiBlues: checks
+Ralph V: checks
+*** RIVER *** [4d Ts 2c 3c] [Qd]
+MiamiBlues: checks
+Ralph V: checks
+*** SHOWDOWN ***
+MiamiBlues shows [8c 8d] for Pair [Qd Ts 8d 8c 4d]
+MiamiBlues collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0
+Board [4d Ts 2c 3c Qd]
+Seat 1: MiamiBlues (big blind) showed [8c 8d] and won 60 with Pair of 8 and Q T 4
+Seat 5: Ralph V (small blind/button) mucked [3h Jh] and lost
+
+
+**** **** **** **** **** **** **** ****
+
+
+Run It Once Poker Hand #52305952: Tournament #69794, €4.69+€0.31 Cub3d, Hold'em No Limit (4/8) - 2020/12/30 22:36 UTC [2020/12/30 23:36 CET]
+Table ID '52305873' 3-Max Seat #1 is the button
+Seat 1: MiamiBlues (1000 in chips) [hero]
+Seat 5: Ralph V (500 in chips)
+MiamiBlues: posts small blind 15
+Ralph V: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Ralph V [2h 5d]
+Dealt to MiamiBlues [9s 4d]
+MiamiBlues: folds
+*** SHOWDOWN ***
+Ralph V: mucks hand
+Ralph V collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | Rake 0
+Seat 1: MiamiBlues (small blind/button) folded before Flop
+Seat 5: Ralph V (big blind) mucked hand and won 45
+
+
+**** **** **** **** **** **** **** ****
+
+
+Run It Once Poker Hand #52305955: Tournament #69794, €4.69+€0.31 Cub3d, Hold'em No Limit (4/8) - 2020/12/30 22:36 UTC [2020/12/30 23:36 CET]
+Table ID '52305873' 3-Max Seat #5 is the button
+Seat 1: MiamiBlues (985 in chips) [hero]
+Seat 5: Ralph V (515 in chips)
+Ralph V: posts small blind 15
+MiamiBlues: posts big blind 30
+*** HOLE CARDS ***
+Dealt to MiamiBlues [Ah Kc]
+Dealt to Ralph V [9c Js]
+Ralph V: raises 30 to 60
+MiamiBlues: raises 925 to 985 and is all-in
+Ralph V: folds
+*** SHOWDOWN ***
+MiamiBlues: mucks hand
+Uncalled bet (925) returned to MiamiBlues
+MiamiBlues collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | Rake 0
+Seat 5: Ralph V (small blind/button) folded before Flop
+Seat 1: MiamiBlues (big blind) mucked hand and won 120
+
+
+**** **** **** **** **** **** **** ****
+
+
+Run It Once Poker Hand #52305960: Tournament #69794, €4.69+€0.31 Cub3d, Hold'em No Limit (4/8) - 2020/12/30 22:36 UTC [2020/12/30 23:36 CET]
+Table ID '52305873' 3-Max Seat #1 is the button
+Seat 1: MiamiBlues (1045 in chips) [hero]
+Seat 5: Ralph V (455 in chips)
+MiamiBlues: posts small blind 15
+Ralph V: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Ralph V [9d Ah]
+Dealt to MiamiBlues [Ks 7s]
+MiamiBlues: raises 30 to 60
+Ralph V: raises 395 to 455 and is all-in
+MiamiBlues: folds
+*** SHOWDOWN ***
+Ralph V: mucks hand
+Uncalled bet (395) returned to Ralph V
+Ralph V collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | Rake 0
+Seat 1: MiamiBlues (small blind/button) folded before Flop
+Seat 5: Ralph V (big blind) mucked hand and won 120
+
+
+**** **** **** **** **** **** **** ****
+
+
+Run It Once Poker Hand #52305964: Tournament #69794, €4.69+€0.31 Cub3d, Hold'em No Limit (4/8) - 2020/12/30 22:36 UTC [2020/12/30 23:36 CET]
+Table ID '52305873' 3-Max Seat #5 is the button
+Seat 1: MiamiBlues (985 in chips) [hero]
+Seat 5: Ralph V (515 in chips)
+Ralph V: posts small blind 20
+MiamiBlues: posts big blind 40
+*** HOLE CARDS ***
+Dealt to MiamiBlues [6d Ad]
+Dealt to Ralph V [3s 5c]
+Ralph V: folds
+*** SHOWDOWN ***
+MiamiBlues: mucks hand
+MiamiBlues collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0
+Seat 5: Ralph V (small blind/button) folded before Flop
+Seat 1: MiamiBlues (big blind) mucked hand and won 60
+
+
+**** **** **** **** **** **** **** ****
+
+
+Run It Once Poker Hand #52305967: Tournament #69794, €4.69+€0.31 Cub3d, Hold'em No Limit (4/8) - 2020/12/30 22:36 UTC [2020/12/30 23:36 CET]
+Table ID '52305873' 3-Max Seat #1 is the button
+Seat 1: MiamiBlues (1005 in chips) [hero]
+Seat 5: Ralph V (495 in chips)
+MiamiBlues: posts small blind 20
+Ralph V: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Ralph V [7c Jd]
+Dealt to MiamiBlues [Qc 3h]
+MiamiBlues: folds
+*** SHOWDOWN ***
+Ralph V: mucks hand
+Ralph V collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0
+Seat 1: MiamiBlues (small blind/button) folded before Flop
+Seat 5: Ralph V (big blind) mucked hand and won 60
+
+
+**** **** **** **** **** **** **** ****
+
+
+Run It Once Poker Hand #52305972: Tournament #69794, €4.69+€0.31 Cub3d, Hold'em No Limit (4/8) - 2020/12/30 22:37 UTC [2020/12/30 23:37 CET]
+Table ID '52305873' 3-Max Seat #5 is the button
+Seat 1: MiamiBlues (985 in chips) [hero]
+Seat 5: Ralph V (515 in chips)
+Ralph V: posts small blind 20
+MiamiBlues: posts big blind 40
+*** HOLE CARDS ***
+Dealt to MiamiBlues [4d 2h]
+Dealt to Ralph V [As 8d]
+Ralph V: raises 475 to 515 and is all-in
+MiamiBlues: folds
+*** SHOWDOWN ***
+Ralph V: mucks hand
+Uncalled bet (475) returned to Ralph V
+Ralph V collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | Rake 0
+Seat 1: MiamiBlues (big blind) folded before Flop
+Seat 5: Ralph V (small blind/button) mucked hand and won 80
+
+
+**** **** **** **** **** **** **** ****
+
+
+Run It Once Poker Hand #52305976: Tournament #69794, €4.69+€0.31 Cub3d, Hold'em No Limit (4/8) - 2020/12/30 22:37 UTC [2020/12/30 23:37 CET]
+Table ID '52305873' 3-Max Seat #1 is the button
+Seat 1: MiamiBlues (945 in chips) [hero]
+Seat 5: Ralph V (555 in chips)
+MiamiBlues: posts small blind 20
+Ralph V: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Ralph V [4s 6c]
+Dealt to MiamiBlues [2d 7s]
+MiamiBlues: folds
+*** SHOWDOWN ***
+Ralph V: mucks hand
+Ralph V collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0
+Seat 1: MiamiBlues (small blind/button) folded before Flop
+Seat 5: Ralph V (big blind) mucked hand and won 60
+
+
+**** **** **** **** **** **** **** ****
+
+
+Run It Once Poker Hand #52305979: Tournament #69794, €4.69+€0.31 Cub3d, Hold'em No Limit (4/8) - 2020/12/30 22:37 UTC [2020/12/30 23:37 CET]
+Table ID '52305873' 3-Max Seat #5 is the button
+Seat 1: MiamiBlues (925 in chips) [hero]
+Seat 5: Ralph V (575 in chips)
+Ralph V: posts small blind 20
+MiamiBlues: posts big blind 40
+*** HOLE CARDS ***
+Dealt to MiamiBlues [Ad 2h]
+Dealt to Ralph V [Qd Qh]
+Ralph V: raises 40 to 80
+MiamiBlues: raises 845 to 925 and is all-in
+Ralph V: calls 495 and is all-in
+*** FLOP *** [7d Jh 2c]
+*** TURN *** [7d Jh 2c] [2s]
+*** RIVER *** [7d Jh 2c 2s] [Kd]
+*** SHOWDOWN ***
+MiamiBlues shows [Ad 2h] for Three of Kind [Ad Kd 2s 2h 2c]
+Uncalled bet (350) returned to MiamiBlues
+MiamiBlues collected 1150 from pot
+*** SUMMARY ***
+Total pot 1,150 | Rake 0
+Board [7d Jh 2c 2s Kd]
+Seat 1: MiamiBlues (big blind) showed [Ad 2h] and won 1150 with Three of Kind 2's and A K
+Seat 5: Ralph V (small blind/button) mucked [Qd Qh] and lost

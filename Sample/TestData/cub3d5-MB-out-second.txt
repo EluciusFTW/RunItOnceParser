@@ -1,0 +1,620 @@
+Run It Once Poker Hand #52305888: Tournament #69796, €4.69+€0.31 Cub3d, Hold'em No Limit (4/8) - 2020/12/30 22:32 UTC [2020/12/30 23:32 CET]
+Table ID '52305884' 3-Max Seat #1 is the button
+Seat 1: MiamiBlues (500 in chips) [hero]
+Seat 3: Carson V (500 in chips)
+Seat 5: Luke T (500 in chips)
+Carson V: posts small blind 10
+Luke T: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Carson V [9h 4s]
+Dealt to Luke T [3h 7s]
+Dealt to MiamiBlues [5d 6d]
+MiamiBlues: raises 20 to 40
+Carson V: folds
+Luke T: folds
+*** SHOWDOWN ***
+MiamiBlues: mucks hand
+Uncalled bet (20) returned to MiamiBlues
+MiamiBlues collected 50 from pot
+*** SUMMARY ***
+Total pot 50 | Rake 0
+Seat 3: Carson V (small blind) folded before Flop
+Seat 5: Luke T (big blind) folded before Flop
+Seat 1: MiamiBlues (button) mucked hand and won 50
+
+
+**** **** **** **** **** **** **** ****
+
+
+Run It Once Poker Hand #52305889: Tournament #69796, €4.69+€0.31 Cub3d, Hold'em No Limit (4/8) - 2020/12/30 22:32 UTC [2020/12/30 23:32 CET]
+Table ID '52305884' 3-Max Seat #3 is the button
+Seat 1: MiamiBlues (530 in chips) [hero]
+Seat 3: Carson V (490 in chips)
+Seat 5: Luke T (480 in chips)
+Luke T: posts small blind 10
+MiamiBlues: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Luke T [6h Jh]
+Dealt to MiamiBlues [Tc Kd]
+Dealt to Carson V [8c 4h]
+Carson V: folds
+Luke T: calls 10
+MiamiBlues: raises 50 to 70
+Luke T: folds
+*** SHOWDOWN ***
+MiamiBlues: mucks hand
+Uncalled bet (50) returned to MiamiBlues
+MiamiBlues collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0
+Seat 3: Carson V (button) folded before Flop
+Seat 5: Luke T (small blind) folded before Flop
+Seat 1: MiamiBlues (big blind) mucked hand and won 40
+
+
+**** **** **** **** **** **** **** ****
+
+
+Run It Once Poker Hand #52305891: Tournament #69796, €4.69+€0.31 Cub3d, Hold'em No Limit (4/8) - 2020/12/30 22:32 UTC [2020/12/30 23:32 CET]
+Table ID '52305884' 3-Max Seat #5 is the button
+Seat 1: MiamiBlues (550 in chips) [hero]
+Seat 3: Carson V (490 in chips)
+Seat 5: Luke T (460 in chips)
+MiamiBlues: posts small blind 10
+Carson V: posts big blind 20
+*** HOLE CARDS ***
+Dealt to MiamiBlues [Ac Qd]
+Dealt to Carson V [6h 5h]
+Dealt to Luke T [9s 7c]
+Luke T: folds
+MiamiBlues: raises 30 to 50
+Carson V: folds
+*** SHOWDOWN ***
+MiamiBlues: mucks hand
+Uncalled bet (30) returned to MiamiBlues
+MiamiBlues collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0
+Seat 5: Luke T (button) folded before Flop
+Seat 3: Carson V (big blind) folded before Flop
+Seat 1: MiamiBlues (small blind) mucked hand and won 40
+
+
+**** **** **** **** **** **** **** ****
+
+
+Run It Once Poker Hand #52305896: Tournament #69796, €4.69+€0.31 Cub3d, Hold'em No Limit (4/8) - 2020/12/30 22:33 UTC [2020/12/30 23:33 CET]
+Table ID '52305884' 3-Max Seat #1 is the button
+Seat 1: MiamiBlues (570 in chips) [hero]
+Seat 3: Carson V (470 in chips)
+Seat 5: Luke T (460 in chips)
+Carson V: posts small blind 10
+Luke T: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Carson V [Js 3s]
+Dealt to Luke T [8c 7h]
+Dealt to MiamiBlues [Ah 6s]
+MiamiBlues: raises 20 to 40
+Carson V: folds
+Luke T: calls 20
+*** FLOP *** [Td Qs 5s]
+Luke T: checks
+MiamiBlues: bets 31
+Luke T: folds
+MiamiBlues: mucks hand
+*** SHOWDOWN ***
+MiamiBlues: mucks hand
+Uncalled bet (31) returned to MiamiBlues
+MiamiBlues collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | Rake 0
+Board [Td Qs 5s]
+Seat 3: Carson V (small blind) folded before Flop
+Seat 5: Luke T (big blind) folded before Turn
+Seat 1: MiamiBlues (button) mucked hand and won 90
+
+
+**** **** **** **** **** **** **** ****
+
+
+Run It Once Poker Hand #52305904: Tournament #69796, €4.69+€0.31 Cub3d, Hold'em No Limit (4/8) - 2020/12/30 22:33 UTC [2020/12/30 23:33 CET]
+Table ID '52305884' 3-Max Seat #3 is the button
+Seat 1: MiamiBlues (620 in chips) [hero]
+Seat 3: Carson V (460 in chips)
+Seat 5: Luke T (420 in chips)
+Luke T: posts small blind 10
+MiamiBlues: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Luke T [6h 6c]
+Dealt to MiamiBlues [Ac 9d]
+Dealt to Carson V [5c 7c]
+Carson V: raises 20 to 40
+Luke T: raises 380 to 420 and is all-in
+MiamiBlues: folds
+Carson V: folds
+*** SHOWDOWN ***
+Luke T: mucks hand
+Uncalled bet (380) returned to Luke T
+Luke T collected 100 from pot
+*** SUMMARY ***
+Total pot 100 | Rake 0
+Seat 1: MiamiBlues (big blind) folded before Flop
+Seat 3: Carson V (button) folded before Flop
+Seat 5: Luke T (small blind) mucked hand and won 100
+
+
+**** **** **** **** **** **** **** ****
+
+
+Run It Once Poker Hand #52305910: Tournament #69796, €4.69+€0.31 Cub3d, Hold'em No Limit (4/8) - 2020/12/30 22:33 UTC [2020/12/30 23:33 CET]
+Table ID '52305884' 3-Max Seat #5 is the button
+Seat 1: MiamiBlues (600 in chips) [hero]
+Seat 3: Carson V (420 in chips)
+Seat 5: Luke T (480 in chips)
+MiamiBlues: posts small blind 10
+Carson V: posts big blind 20
+*** HOLE CARDS ***
+Dealt to MiamiBlues [Th Jd]
+Dealt to Carson V [2c Ad]
+Dealt to Luke T [Ks 8c]
+Luke T: raises 20 to 40
+MiamiBlues: calls 30
+Carson V: calls 20
+*** FLOP *** [9s 6h 2d]
+MiamiBlues: checks
+Carson V: checks
+Luke T: checks
+*** TURN *** [9s 6h 2d] [3s]
+MiamiBlues: checks
+Carson V: bets 60
+Luke T: folds
+MiamiBlues: folds
+Carson V: mucks hand
+*** SHOWDOWN ***
+Carson V: mucks hand
+Uncalled bet (60) returned to Carson V
+Carson V collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | Rake 0
+Board [9s 6h 2d 3s]
+Seat 5: Luke T (button) folded before River
+Seat 1: MiamiBlues (small blind) folded before River
+Seat 3: Carson V (big blind) mucked hand and won 120
+
+
+**** **** **** **** **** **** **** ****
+
+
+Run It Once Poker Hand #52305922: Tournament #69796, €4.69+€0.31 Cub3d, Hold'em No Limit (4/8) - 2020/12/30 22:34 UTC [2020/12/30 23:34 CET]
+Table ID '52305884' 3-Max Seat #1 is the button
+Seat 1: MiamiBlues (560 in chips) [hero]
+Seat 3: Carson V (500 in chips)
+Seat 5: Luke T (440 in chips)
+Carson V: posts small blind 10
+Luke T: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Carson V [9c 5s]
+Dealt to Luke T [Qc 4h]
+Dealt to MiamiBlues [As 8d]
+MiamiBlues: raises 20 to 40
+Carson V: folds
+Luke T: folds
+*** SHOWDOWN ***
+MiamiBlues: mucks hand
+Uncalled bet (20) returned to MiamiBlues
+MiamiBlues collected 50 from pot
+*** SUMMARY ***
+Total pot 50 | Rake 0
+Seat 3: Carson V (small blind) folded before Flop
+Seat 5: Luke T (big blind) folded before Flop
+Seat 1: MiamiBlues (button) mucked hand and won 50
+
+
+**** **** **** **** **** **** **** ****
+
+
+Run It Once Poker Hand #52305925: Tournament #69796, €4.69+€0.31 Cub3d, Hold'em No Limit (4/8) - 2020/12/30 22:34 UTC [2020/12/30 23:34 CET]
+Table ID '52305884' 3-Max Seat #3 is the button
+Seat 1: MiamiBlues (590 in chips) [hero]
+Seat 3: Carson V (490 in chips)
+Seat 5: Luke T (420 in chips)
+Luke T: posts small blind 10
+MiamiBlues: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Luke T [Qd Jd]
+Dealt to MiamiBlues [Kh 9s]
+Dealt to Carson V [3h 6h]
+Carson V: folds
+Luke T: raises 30 to 50
+MiamiBlues: calls 30
+*** FLOP *** [8c Jh 7h]
+Luke T: bets 77
+MiamiBlues: folds
+Luke T: mucks hand
+*** SHOWDOWN ***
+Luke T: mucks hand
+Uncalled bet (77) returned to Luke T
+Luke T collected 100 from pot
+*** SUMMARY ***
+Total pot 100 | Rake 0
+Board [8c Jh 7h]
+Seat 3: Carson V (button) folded before Flop
+Seat 1: MiamiBlues (big blind) folded before Turn
+Seat 5: Luke T (small blind) mucked hand and won 100
+
+
+**** **** **** **** **** **** **** ****
+
+
+Run It Once Poker Hand #52305931: Tournament #69796, €4.69+€0.31 Cub3d, Hold'em No Limit (4/8) - 2020/12/30 22:35 UTC [2020/12/30 23:35 CET]
+Table ID '52305884' 3-Max Seat #5 is the button
+Seat 1: MiamiBlues (540 in chips) [hero]
+Seat 3: Carson V (490 in chips)
+Seat 5: Luke T (470 in chips)
+MiamiBlues: posts small blind 15
+Carson V: posts big blind 30
+*** HOLE CARDS ***
+Dealt to MiamiBlues [9c 6c]
+Dealt to Carson V [Qh 8s]
+Dealt to Luke T [Th 3d]
+Luke T: folds
+MiamiBlues: calls 15
+Carson V: checks
+*** FLOP *** [Jd 4d 6h]
+MiamiBlues: checks
+Carson V: checks
+*** TURN *** [Jd 4d 6h] [Qc]
+MiamiBlues: checks
+Carson V: bets 30
+MiamiBlues: calls 30
+*** RIVER *** [Jd 4d 6h Qc] [3c]
+MiamiBlues: checks
+Carson V: bets 120
+MiamiBlues: folds
+Carson V: mucks hand
+*** SHOWDOWN ***
+Carson V: mucks hand
+Uncalled bet (120) returned to Carson V
+Carson V collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | Rake 0
+Board [Jd 4d 6h Qc 3c]
+Seat 5: Luke T (button) folded before Flop
+Seat 1: MiamiBlues (small blind) folded during River
+Seat 3: Carson V (big blind) mucked hand and won 120
+
+
+**** **** **** **** **** **** **** ****
+
+
+Run It Once Poker Hand #52305946: Tournament #69796, €4.69+€0.31 Cub3d, Hold'em No Limit (4/8) - 2020/12/30 22:35 UTC [2020/12/30 23:35 CET]
+Table ID '52305884' 3-Max Seat #1 is the button
+Seat 1: MiamiBlues (480 in chips) [hero]
+Seat 3: Carson V (550 in chips)
+Seat 5: Luke T (470 in chips)
+Carson V: posts small blind 15
+Luke T: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Carson V [Tc 2d]
+Dealt to Luke T [4h 9s]
+Dealt to MiamiBlues [8d Qc]
+MiamiBlues: raises 30 to 60
+Carson V: folds
+Luke T: folds
+*** SHOWDOWN ***
+MiamiBlues: mucks hand
+Uncalled bet (30) returned to MiamiBlues
+MiamiBlues collected 75 from pot
+*** SUMMARY ***
+Total pot 75 | Rake 0
+Seat 3: Carson V (small blind) folded before Flop
+Seat 5: Luke T (big blind) folded before Flop
+Seat 1: MiamiBlues (button) mucked hand and won 75
+
+
+**** **** **** **** **** **** **** ****
+
+
+Run It Once Poker Hand #52305949: Tournament #69796, €4.69+€0.31 Cub3d, Hold'em No Limit (4/8) - 2020/12/30 22:36 UTC [2020/12/30 23:36 CET]
+Table ID '52305884' 3-Max Seat #3 is the button
+Seat 1: MiamiBlues (525 in chips) [hero]
+Seat 3: Carson V (535 in chips)
+Seat 5: Luke T (440 in chips)
+Luke T: posts small blind 15
+MiamiBlues: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Luke T [3s 6c]
+Dealt to MiamiBlues [Jd 7c]
+Dealt to Carson V [2s Tc]
+Carson V: folds
+Luke T: folds
+*** SHOWDOWN ***
+MiamiBlues: mucks hand
+MiamiBlues collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | Rake 0
+Seat 3: Carson V (button) folded before Flop
+Seat 5: Luke T (small blind) folded before Flop
+Seat 1: MiamiBlues (big blind) mucked hand and won 45
+
+
+**** **** **** **** **** **** **** ****
+
+
+Run It Once Poker Hand #52305950: Tournament #69796, €4.69+€0.31 Cub3d, Hold'em No Limit (4/8) - 2020/12/30 22:36 UTC [2020/12/30 23:36 CET]
+Table ID '52305884' 3-Max Seat #5 is the button
+Seat 1: MiamiBlues (540 in chips) [hero]
+Seat 3: Carson V (535 in chips)
+Seat 5: Luke T (425 in chips)
+MiamiBlues: posts small blind 15
+Carson V: posts big blind 30
+*** HOLE CARDS ***
+Dealt to MiamiBlues [Tc Ac]
+Dealt to Carson V [Qh 4s]
+Dealt to Luke T [8d 6d]
+Luke T: folds
+MiamiBlues: raises 30 to 60
+Carson V: folds
+*** SHOWDOWN ***
+MiamiBlues: mucks hand
+Uncalled bet (30) returned to MiamiBlues
+MiamiBlues collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0
+Seat 5: Luke T (button) folded before Flop
+Seat 3: Carson V (big blind) folded before Flop
+Seat 1: MiamiBlues (small blind) mucked hand and won 60
+
+
+**** **** **** **** **** **** **** ****
+
+
+Run It Once Poker Hand #52305953: Tournament #69796, €4.69+€0.31 Cub3d, Hold'em No Limit (4/8) - 2020/12/30 22:36 UTC [2020/12/30 23:36 CET]
+Table ID '52305884' 3-Max Seat #1 is the button
+Seat 1: MiamiBlues (570 in chips) [hero]
+Seat 3: Carson V (505 in chips)
+Seat 5: Luke T (425 in chips)
+Carson V: posts small blind 15
+Luke T: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Carson V [8c 9s]
+Dealt to Luke T [As 6d]
+Dealt to MiamiBlues [7c Kc]
+MiamiBlues: raises 30 to 60
+Carson V: folds
+Luke T: calls 30
+*** FLOP *** [Jh 5s 5h]
+Luke T: checks
+MiamiBlues: bets 39
+Luke T: folds
+MiamiBlues: mucks hand
+*** SHOWDOWN ***
+MiamiBlues: mucks hand
+Uncalled bet (39) returned to MiamiBlues
+MiamiBlues collected 135 from pot
+*** SUMMARY ***
+Total pot 135 | Rake 0
+Board [Jh 5s 5h]
+Seat 3: Carson V (small blind) folded before Flop
+Seat 5: Luke T (big blind) folded before Turn
+Seat 1: MiamiBlues (button) mucked hand and won 135
+
+
+**** **** **** **** **** **** **** ****
+
+
+Run It Once Poker Hand #52305963: Tournament #69796, €4.69+€0.31 Cub3d, Hold'em No Limit (4/8) - 2020/12/30 22:36 UTC [2020/12/30 23:36 CET]
+Table ID '52305884' 3-Max Seat #3 is the button
+Seat 1: MiamiBlues (645 in chips) [hero]
+Seat 3: Carson V (490 in chips)
+Seat 5: Luke T (365 in chips)
+Luke T: posts small blind 15
+MiamiBlues: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Luke T [9h Jh]
+Dealt to MiamiBlues [Ac 5c]
+Dealt to Carson V [2s 7c]
+Carson V: folds
+Luke T: raises 335 to 365 and is all-in
+MiamiBlues: calls 335
+*** FLOP *** [4c 8s 2c]
+*** TURN *** [4c 8s 2c] [4s]
+*** RIVER *** [4c 8s 2c 4s] [3h]
+*** SHOWDOWN ***
+MiamiBlues shows [Ac 5c] for Straight [Ac 5c 4s 3h 2c]
+MiamiBlues collected 730 from pot
+*** SUMMARY ***
+Total pot 730 | Rake 0
+Board [4c 8s 2c 4s 3h]
+Seat 3: Carson V (button) folded before Flop
+Seat 1: MiamiBlues (big blind) showed [Ac 5c] and won 730 with Straight A to 5
+Seat 5: Luke T (small blind) mucked [9h Jh] and lost
+
+
+**** **** **** **** **** **** **** ****
+
+
+Run It Once Poker Hand #52305974: Tournament #69796, €4.69+€0.31 Cub3d, Hold'em No Limit (4/8) - 2020/12/30 22:37 UTC [2020/12/30 23:37 CET]
+Table ID '52305884' 3-Max Seat #1 is the button
+Seat 1: MiamiBlues (1010 in chips) [hero]
+Seat 3: Carson V (490 in chips)
+MiamiBlues: posts small blind 15
+Carson V: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Carson V [6d 5c]
+Dealt to MiamiBlues [4d 4h]
+MiamiBlues: raises 30 to 60
+Carson V: folds
+*** SHOWDOWN ***
+MiamiBlues: mucks hand
+Uncalled bet (30) returned to MiamiBlues
+MiamiBlues collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0
+Seat 3: Carson V (big blind) folded before Flop
+Seat 1: MiamiBlues (small blind/button) mucked hand and won 60
+
+
+**** **** **** **** **** **** **** ****
+
+
+Run It Once Poker Hand #52305977: Tournament #69796, €4.69+€0.31 Cub3d, Hold'em No Limit (4/8) - 2020/12/30 22:37 UTC [2020/12/30 23:37 CET]
+Table ID '52305884' 3-Max Seat #3 is the button
+Seat 1: MiamiBlues (1040 in chips) [hero]
+Seat 3: Carson V (460 in chips)
+Carson V: posts small blind 15
+MiamiBlues: posts big blind 30
+*** HOLE CARDS ***
+Dealt to MiamiBlues [4s Ac]
+Dealt to Carson V [3h 9s]
+Carson V: folds
+*** SHOWDOWN ***
+MiamiBlues: mucks hand
+MiamiBlues collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | Rake 0
+Seat 3: Carson V (small blind/button) folded before Flop
+Seat 1: MiamiBlues (big blind) mucked hand and won 45
+
+
+**** **** **** **** **** **** **** ****
+
+
+Run It Once Poker Hand #52305980: Tournament #69796, €4.69+€0.31 Cub3d, Hold'em No Limit (4/8) - 2020/12/30 22:37 UTC [2020/12/30 23:37 CET]
+Table ID '52305884' 3-Max Seat #1 is the button
+Seat 1: MiamiBlues (1055 in chips) [hero]
+Seat 3: Carson V (445 in chips)
+MiamiBlues: posts small blind 15
+Carson V: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Carson V [6c 3h]
+Dealt to MiamiBlues [7c Js]
+MiamiBlues: raises 30 to 60
+Carson V: folds
+*** SHOWDOWN ***
+MiamiBlues: mucks hand
+Uncalled bet (30) returned to MiamiBlues
+MiamiBlues collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0
+Seat 3: Carson V (big blind) folded before Flop
+Seat 1: MiamiBlues (small blind/button) mucked hand and won 60
+
+
+**** **** **** **** **** **** **** ****
+
+
+Run It Once Poker Hand #52305982: Tournament #69796, €4.69+€0.31 Cub3d, Hold'em No Limit (4/8) - 2020/12/30 22:37 UTC [2020/12/30 23:37 CET]
+Table ID '52305884' 3-Max Seat #3 is the button
+Seat 1: MiamiBlues (1085 in chips) [hero]
+Seat 3: Carson V (415 in chips)
+Carson V: posts small blind 15
+MiamiBlues: posts big blind 30
+*** HOLE CARDS ***
+Dealt to MiamiBlues [7s 3s]
+Dealt to Carson V [Qs Qh]
+Carson V: calls 15
+MiamiBlues: checks
+*** FLOP *** [4d 9d 7c]
+MiamiBlues: checks
+Carson V: bets 30
+MiamiBlues: calls 30
+*** TURN *** [4d 9d 7c] [5s]
+MiamiBlues: checks
+Carson V: bets 90
+MiamiBlues: folds
+Carson V: mucks hand
+*** SHOWDOWN ***
+Carson V: mucks hand
+Uncalled bet (90) returned to Carson V
+Carson V collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | Rake 0
+Board [4d 9d 7c 5s]
+Seat 1: MiamiBlues (big blind) folded before River
+Seat 3: Carson V (small blind/button) mucked hand and won 120
+
+
+**** **** **** **** **** **** **** ****
+
+
+Run It Once Poker Hand #52305992: Tournament #69796, €4.69+€0.31 Cub3d, Hold'em No Limit (4/8) - 2020/12/30 22:38 UTC [2020/12/30 23:38 CET]
+Table ID '52305884' 3-Max Seat #1 is the button
+Seat 1: MiamiBlues (1025 in chips) [hero]
+Seat 3: Carson V (475 in chips)
+MiamiBlues: posts small blind 20
+Carson V: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Carson V [Kc 3c]
+Dealt to MiamiBlues [7c 9c]
+MiamiBlues: raises 985 to 1,025 and is all-in
+Carson V: calls 435 and is all-in
+*** FLOP *** [6h 7h Kh]
+*** TURN *** [6h 7h Kh] [Ks]
+*** RIVER *** [6h 7h Kh Ks] [2c]
+*** SHOWDOWN ***
+Carson V shows [Kc 3c] for Three of Kind [Ks Kh Kc 7h 6h]
+Uncalled bet (550) returned to MiamiBlues
+Carson V collected 950 from pot
+*** SUMMARY ***
+Total pot 950 | Rake 0
+Board [6h 7h Kh Ks 2c]
+Seat 3: Carson V (big blind) showed [Kc 3c] and won 950 with Three of Kind K's and 7 6
+Seat 1: MiamiBlues (small blind/button) mucked [7c 9c] and lost
+
+
+**** **** **** **** **** **** **** ****
+
+
+Run It Once Poker Hand #52306001: Tournament #69796, €4.69+€0.31 Cub3d, Hold'em No Limit (4/8) - 2020/12/30 22:38 UTC [2020/12/30 23:38 CET]
+Table ID '52305884' 3-Max Seat #3 is the button
+Seat 1: MiamiBlues (550 in chips) [hero]
+Seat 3: Carson V (950 in chips)
+Carson V: posts small blind 20
+MiamiBlues: posts big blind 40
+*** HOLE CARDS ***
+Dealt to MiamiBlues [3c Th]
+Dealt to Carson V [8h Jd]
+Carson V: calls 20
+MiamiBlues: checks
+*** FLOP *** [6h 2s Ad]
+MiamiBlues: checks
+Carson V: bets 40
+MiamiBlues: folds
+Carson V: mucks hand
+*** SHOWDOWN ***
+Carson V: mucks hand
+Uncalled bet (40) returned to Carson V
+Carson V collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | Rake 0
+Board [6h 2s Ad]
+Seat 1: MiamiBlues (big blind) folded before Turn
+Seat 3: Carson V (small blind/button) mucked hand and won 80
+
+
+**** **** **** **** **** **** **** ****
+
+
+Run It Once Poker Hand #52306004: Tournament #69796, €4.69+€0.31 Cub3d, Hold'em No Limit (4/8) - 2020/12/30 22:38 UTC [2020/12/30 23:38 CET]
+Table ID '52305884' 3-Max Seat #1 is the button
+Seat 1: MiamiBlues (510 in chips) [hero]
+Seat 3: Carson V (990 in chips)
+MiamiBlues: posts small blind 20
+Carson V: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Carson V [Js Kc]
+Dealt to MiamiBlues [Jd Td]
+MiamiBlues: raises 470 to 510 and is all-in
+Carson V: calls 470
+*** FLOP *** [8d Ah 3h]
+*** TURN *** [8d Ah 3h] [Kh]
+*** RIVER *** [8d Ah 3h Kh] [8c]
+*** SHOWDOWN ***
+Carson V shows [Js Kc] for Two Pairs [Ah Kh Kc 8d 8c]
+Carson V collected 1020 from pot
+*** SUMMARY ***
+Total pot 1,020 | Rake 0
+Board [8d Ah 3h Kh 8c]
+Seat 3: Carson V (big blind) showed [Js Kc] and won 1020 with Two Pairs K 8 and A
+Seat 1: MiamiBlues (small blind/button) mucked [Jd Td] and lost

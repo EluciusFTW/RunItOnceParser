@@ -3,20 +3,19 @@ using RioParser.Domain.HandHistories;
 using System.Collections.Generic;
 using System.Text;
 
-namespace RioParser.Domain.Reports.Implementations
+namespace RioParser.Domain.Reports.CashGame
 {
     public class RakeReport : StakeReportBase
     {
         private decimal _totalRake;
         private decimal _heroRake;
         private readonly decimal _relativeHeroRake;
-        
-        
-        public RakeReport(string hero, IReadOnlyCollection<HandHistory> hands) 
+
+        public RakeReport(string hero, IReadOnlyCollection<HandHistory> hands)
             : base(hero, hands)
         {
             hands.ForEach(hands => ParseHand(hero, hands));
-            _relativeHeroRake =  _heroRake * _factor;
+            _relativeHeroRake = _heroRake * _factor;
         }
 
         public override void AppendReport(StringBuilder builder)

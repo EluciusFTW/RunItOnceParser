@@ -5,6 +5,6 @@ namespace RioParser.Domain.Reports
 {
     public interface IReporter
     {
-        public IReadOnlyCollection<IHandsReport> Process(IReadOnlyCollection<HandHistoryFile> handHistoryFiles);
+        public IReadOnlyCollection<IReport> Process(IReadOnlyCollection<HandHistoryFile> handHistoryFiles);
     }
 }

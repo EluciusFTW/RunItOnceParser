@@ -7,7 +7,7 @@ using RioParser.Domain.Reports.Models;
 
 namespace RioParser.Domain.Reports.Implementations
 {
-    public class DebugReport : IHandsReport
+    public class DebugReport : IReport
     {
         private readonly IList<KeyValuePair<string, string>> _errors = new List<KeyValuePair<string, string>>();
         private readonly IDictionary<string, Func<HandHistory, string>> _properties = new Dictionary<string, Func<HandHistory, string>>

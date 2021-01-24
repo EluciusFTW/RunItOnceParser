@@ -6,12 +6,12 @@ using System.Linq;
 using System.Text;
 using System;
 
-namespace RioParser.Domain.Reports.Implementations
+namespace RioParser.Domain.Reports.CashGame
 {
-    public class StakeReport : IHandsReport
+    public class StakeReport : IReport
     {
         private ICollection<StakeReportBase> _reports;
-        private Dictionary<PerStakeReportTypes, Func<IReadOnlyCollection<HandHistory>, string, StakeReportBase>> reports 
+        private Dictionary<PerStakeReportTypes, Func<IReadOnlyCollection<HandHistory>, string, StakeReportBase>> reports
             = new Dictionary<PerStakeReportTypes, Func<IReadOnlyCollection<HandHistory>, string, StakeReportBase>>
             {
                 { PerStakeReportTypes.Rake, (hands, hero) => new RakeReport(hero, hands) },
