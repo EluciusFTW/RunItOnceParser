@@ -14,7 +14,12 @@ namespace RioParser.Domain.HandHistories
             => new DirectoryInfo(path)
                 .GetFiles()
                 .Where(MatchesHandHistoryFileFormat)
-                .Select(fileInfo => new HandHistoryFile(fileInfo))
+                .Select(fileInfo => new 
+                    {
+                        fileInfo.Name, 
+                        Content = GetFileContent(fileInfo) 
+                    })
+                .Select(pair => new HandHistoryFile(pair.Name, pair.Content))
                 .ToList();
 
         private bool MatchesHandHistoryFileFormat(FileInfo fileInfo)
@@ -25,6 +30,12 @@ namespace RioParser.Domain.HandHistories
                 .Success;
 
             return nameSchemeFits && extensionFits;
+        }
+
+        private static string GetFileContent(FileInfo fileInfo)
+        {
+            using var reader = fileInfo.OpenText();
+            return reader.ReadToEnd();
         }
     }
 }
