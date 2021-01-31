@@ -1,3 +1,4 @@
+using System.Collections.Generic;
 using System.Linq;
 using RioParser.Domain.Extensions;
 
@@ -30,8 +31,15 @@ namespace RioParser.Domain.Hands
        
         public abstract decimal Total { get; }
         public abstract decimal BigBlind { get; }
+
+        public IReadOnlyCollection<string> Players => _intro
+            .SplitIntoLines()
+            .Where(line => line.StartsWith("Seat"))
+            .Select(line => line.BetweenSingle(": ", " ("))
+            .ToList();
+        
         public string Winner => new string(_summary
-            .LineContaining(" won €")
+            .LineContaining(" won ")
             .AfterFirst(":")
             .BeforeAny(new[] { "(", "showed", "mucked" })
             .ToArray());

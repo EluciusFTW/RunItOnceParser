@@ -2,6 +2,7 @@
 {
     public class TourneyHand : HandBase
     {
+
         public TourneyHand(string hand) : base(hand)
         {
         }

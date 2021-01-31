@@ -34,7 +34,8 @@ namespace RioParser.Domain.Hands
 
         public bool BigSplash => _showDown == null;
 
-        public CashGameHand(string hand) : base(hand)
+        public CashGameHand(string hand) 
+            : base(hand)
         {
         }
     }

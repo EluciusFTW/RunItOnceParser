@@ -17,11 +17,11 @@ namespace RioParser.Console
         /// <param name="hero">Name of the hero. If none is provided, only general stats will be computed.</param>
         /// <param name="verbose">Set to true for more detailed output</param>
         static void Main(
-            string path,
-            string hero, 
+            string hero,
+            string path = "d:\\Temp\\RioCub3d",
             bool verbose = false,
             GameType gameType = GameType.PLO,
-            ReportType reportType = ReportType.RakeAndSplash)
+            ReportType reportType = ReportType.Cub3d)
         {
             ConsoleLogger.SetVerbosity(verbose);
             LogApplicationStart(path, hero, reportType, gameType, verbose);

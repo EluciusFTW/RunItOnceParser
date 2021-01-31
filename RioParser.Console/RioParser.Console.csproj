@@ -9,7 +9,11 @@
     <Authors>Guy Buss (@EluciusFTW)</Authors>
   </PropertyGroup>
 
-  <PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
+    <OutputPath></OutputPath>
+  </PropertyGroup>
+
+  <!--<PropertyGroup>
     <Configuration>Release</Configuration>
     <Platform>Any CPU</Platform>
     <PublishDir>bin\publish</PublishDir>
@@ -19,7 +23,7 @@
     <PublishSingleFile>True</PublishSingleFile>
     <PublishTrimmed>False</PublishTrimmed>
     <IncludeNativeLibrariesForSelfExtract>true</IncludeNativeLibrariesForSelfExtract>
-  </PropertyGroup>
+  </PropertyGroup>-->
 
   <ItemGroup>
     <PackageReference Include="Pastel" Version="2.1.0" />

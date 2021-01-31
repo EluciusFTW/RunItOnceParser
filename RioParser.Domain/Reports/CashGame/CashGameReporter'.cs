@@ -21,24 +21,14 @@ namespace RioParser.Domain.Reports.CashGame
 
         public IReadOnlyCollection<IReport> Process(IReadOnlyCollection<SessionBase> sessions)
         {
-            var cashGameSessions = sessions
-                .Cast<CashGameSession>();
-
-            var (ofCorrectGameType, ofWrongGameType) = cashGameSessions
-                .Split(file => file.Hands.First().Game == _reportOptions.GameType);
-
-            if (ofWrongGameType.Any())
-            {
-                _logger.Log($"Ignoring {ofWrongGameType.Count()} files because of different game type.");
-            }
-
-            if (!ofCorrectGameType.Any())
+            var filteredSessions = Filter(sessions);
+            if (!filteredSessions.Any())
             {
                 _logger.Log($"No files left to process.");
                 return Array.Empty<IReport>();
             }
 
-            var hands = cashGameSessions
+            var hands = filteredSessions
                 .SelectMany(file =>
                 {
                     _logger.Verbose($"Processing {file.Name} containing {file.Hands.Count} hands.");
@@ -49,6 +39,20 @@ namespace RioParser.Domain.Reports.CashGame
             return new[] { (TReport)Activator.CreateInstance(typeof(TReport), _reportOptions, hands) }
                 .Cast<IReport>()
                 .ToList();
+        }
+
+        private IReadOnlyCollection<CashGameSession> Filter(IReadOnlyCollection<SessionBase> sessions)
+        {
+            var (ofCorrectGameType, ofWrongGameType) = sessions
+                .Cast<CashGameSession>()
+                .Split(file => file.Hands.First().Game == _reportOptions.GameType);
+
+            if (ofWrongGameType.Any())
+            {
+                _logger.Log($"Ignoring {ofWrongGameType.Count()} files because of different game type.");
+            }
+
+            return ofCorrectGameType.ToList();
         }
     }
 }
