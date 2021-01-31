@@ -1,4 +1,4 @@
-﻿using RioParser.Domain.HandHistories;
+﻿using RioParser.Domain.Hands;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -14,7 +14,7 @@ namespace RioParser.Domain.Reports.CashGame
         protected readonly decimal _factor;
         protected readonly bool _includeHeroStatistics;
 
-        public StakeReportBase(string hero, IReadOnlyCollection<HandHistory> hands)
+        public StakeReportBase(string hero, IReadOnlyCollection<CashGameHand> hands)
         {
             var bigBlinds = hands.GroupBy(hand => hand.BigBlind);
             if (bigBlinds.Count() != 1)
@@ -30,7 +30,7 @@ namespace RioParser.Domain.Reports.CashGame
             _factor = 1 / (_bigBlind * _hands / 100);
         }
 
-        protected abstract void ParseHand(string hero, HandHistory hand);
+        protected abstract void ParseHand(string hero, CashGameHand hand);
         public abstract void AppendReport(StringBuilder builder);
 
         public void AppendStakeReport(StringBuilder builder)

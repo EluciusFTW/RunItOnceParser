@@ -1,4 +1,5 @@
 ﻿using RioParser.Domain.Reports.CashGame;
+using RioParser.Domain.Sessions;
 using System.Linq;
 
 namespace RioParser.Domain.Reports.Models
@@ -10,12 +11,13 @@ namespace RioParser.Domain.Reports.Models
         public string Hero { get; }
         public bool IsPerStakeReport => ReportTypes.Any();
         public bool IsDebug { get; }
-        public bool IsCub3d { get; }
+        public SessionType SessionType { get;  }
         
         public ReportOptions(string hero, GameType gameType, ReportType reportType)
         {
             Hero = hero;
             GameType = gameType;
+            
             ReportTypes = reportType switch
             {
                 ReportType.Rake => new[] { PerStakeReportTypes.Rake },
@@ -23,7 +25,14 @@ namespace RioParser.Domain.Reports.Models
                 ReportType.RakeAndSplash => new[] { PerStakeReportTypes.Rake, PerStakeReportTypes.Splash },
                 _ => System.Array.Empty<PerStakeReportTypes>()
             };
-            IsCub3d = reportType == ReportType.Cub3d;
+
+            SessionType = reportType switch
+            {
+                ReportType.Cub3d => SessionType.Cub3d,
+                ReportType.Sng => SessionType.Sng,
+                _ => SessionType.Cash
+            };
+
             IsDebug = reportType == ReportType.Debug;
         }
     }

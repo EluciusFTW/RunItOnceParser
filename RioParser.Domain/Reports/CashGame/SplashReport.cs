@@ -1,5 +1,5 @@
 ﻿using RioParser.Domain.Extensions;
-using RioParser.Domain.HandHistories;
+using RioParser.Domain.Hands;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -17,7 +17,7 @@ namespace RioParser.Domain.Reports.CashGame
         private readonly IList<string> _bigSplashes = new List<string>();
         private readonly IDictionary<decimal, int> _spashDistribution = new Dictionary<decimal, int>();
 
-        public SplashReport(string hero, IReadOnlyCollection<HandHistory> hands)
+        public SplashReport(string hero, IReadOnlyCollection<CashGameHand> hands)
             : base(hero, hands)
         {
             hands.ForEach(hands => ParseHand(hero, hands));
@@ -25,7 +25,7 @@ namespace RioParser.Domain.Reports.CashGame
             _handsWithSplash = _spashDistribution.Sum(kvp => kvp.Value);
         }
 
-        protected override void ParseHand(string hero, HandHistory hand)
+        protected override void ParseHand(string hero, CashGameHand hand)
         {
             if (hand.BigSplash)
             {

@@ -1,9 +1,9 @@
 ﻿using System.Diagnostics;
 using System.Linq;
 using RioParser.Domain;
-using RioParser.Domain.HandHistories;
 using RioParser.Domain.Reports;
 using RioParser.Domain.Reports.Models;
+using RioParser.Domain.Sessions;
 
 namespace RioParser.Console
 {
@@ -55,21 +55,21 @@ namespace RioParser.Console
         private static void GenerateReport(string path, ReportOptions options)
         {
             var stopwatch = Stopwatch.StartNew();
-            var handHistoryFiles = new HandHistoryFileLoader()
-                .Load(path);
+            var sessions = new SessionLoader()
+                .Load(path, options.SessionType);
             
-            if (!handHistoryFiles.Any())
+            if (!sessions.Any())
             {
-                Logger.Paragraph($"Didn't find any hand history files in {path}.");
+                Logger.Paragraph($"Didn't find any hand history files in {path} of type {options.SessionType}.");
                 return;
             }
 
-            Logger.Paragraph($"Loaded {handHistoryFiles.Count} hand history files to memory in {stopwatch.Elapsed} seconds.");
+            Logger.Paragraph($"Loaded {sessions.Count} hand history files to memory in {stopwatch.Elapsed} seconds.");
             var reports = new ReporterFactory(Logger)
                 .Create(options)
-                .Process(handHistoryFiles);
+                .Process(sessions);
             
-            Logger.Log($"Finished processing {handHistoryFiles.Count} hand history files after {stopwatch.Elapsed} seconds.");
+            Logger.Log($"Finished processing {sessions.Count} hand history files after {stopwatch.Elapsed} seconds.");
 
             if (reports.Any())
             {

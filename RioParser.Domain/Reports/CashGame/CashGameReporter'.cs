@@ -1,10 +1,10 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
-using RioParser.Domain.HandHistories;
 using RioParser.Domain.Logging;
 using RioParser.Domain.Extensions;
 using RioParser.Domain.Reports.Models;
+using RioParser.Domain.Sessions;
 
 namespace RioParser.Domain.Reports.CashGame
 {
@@ -19,23 +19,12 @@ namespace RioParser.Domain.Reports.CashGame
             _logger = logger;
         }
 
-        public IReadOnlyCollection<IReport> Process(IReadOnlyCollection<HandHistoryFile> handHistoryFiles)
+        public IReadOnlyCollection<IReport> Process(IReadOnlyCollection<SessionBase> sessions)
         {
-            var (sngFiles, cashFiles) = handHistoryFiles
-                .Split(file => file.Hands.First().Cubed);
+            var cashGameSessions = sessions
+                .Cast<CashGameSession>();
 
-            if (sngFiles.Any())
-            {
-                _logger.Log($"Ignoring {sngFiles.Count()} files because they are not cash game files.");
-            }
-
-            if (!cashFiles.Any())
-            {
-                _logger.Log($"No files left to process.");
-                return Array.Empty<IReport>();
-            }
-
-            var (ofCorrectGameType, ofWrongGameType) = cashFiles
+            var (ofCorrectGameType, ofWrongGameType) = cashGameSessions
                 .Split(file => file.Hands.First().Game == _reportOptions.GameType);
 
             if (ofWrongGameType.Any())
@@ -49,7 +38,7 @@ namespace RioParser.Domain.Reports.CashGame
                 return Array.Empty<IReport>();
             }
 
-            var hands = cashFiles
+            var hands = cashGameSessions
                 .SelectMany(file =>
                 {
                     _logger.Verbose($"Processing {file.Name} containing {file.Hands.Count} hands.");

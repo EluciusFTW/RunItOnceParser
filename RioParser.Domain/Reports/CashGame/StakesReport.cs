@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
-using RioParser.Domain.HandHistories;
+using RioParser.Domain.Hands;
 using RioParser.Domain.Reports.Models;
 
 namespace RioParser.Domain.Reports.CashGame
@@ -10,7 +10,7 @@ namespace RioParser.Domain.Reports.CashGame
     {
         private readonly IReadOnlyCollection<IReport> _stakeReports;
 
-        public StakesReport(ReportOptions reportOptions, IReadOnlyCollection<HandHistory> hands)
+        public StakesReport(ReportOptions reportOptions, IReadOnlyCollection<CashGameHand> hands)
         {
             _stakeReports = hands
                 .GroupBy(hand => hand.BigBlind)

@@ -1,5 +1,5 @@
 ﻿using RioParser.Domain.Extensions;
-using RioParser.Domain.HandHistories;
+using RioParser.Domain.Hands;
 using System.Collections.Generic;
 using System.Text;
 
@@ -11,7 +11,7 @@ namespace RioParser.Domain.Reports.CashGame
         private decimal _heroRake;
         private readonly decimal _relativeHeroRake;
 
-        public RakeReport(string hero, IReadOnlyCollection<HandHistory> hands)
+        public RakeReport(string hero, IReadOnlyCollection<CashGameHand> hands)
             : base(hero, hands)
         {
             hands.ForEach(hands => ParseHand(hero, hands));
@@ -32,7 +32,7 @@ namespace RioParser.Domain.Reports.CashGame
             }
         }
 
-        protected override void ParseHand(string hero, HandHistory hand)
+        protected override void ParseHand(string hero, CashGameHand hand)
         {
             _totalRake += hand.Rake;
             if (_includeHeroStatistics && !hand.BigSplash && hand.Winner == hero)
