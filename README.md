@@ -4,8 +4,8 @@ RunItOnceParser is a CLI tool to analyze hand histories from [Run It Once Poker 
 ## Usage
 Execute "RioParser.exe --help" to see all available options in the console.
 
-* --hero: The screen name who is the focus 
-* --path: Path to the folder containing the hand history files to analyze
+* --path: Path to the folder containing the hand history files to analyze (Required).
+* --hero: The screen name to be used as a reference. If none is given, only general statistics will be shown.
 * --Verbose: Set this flag to receive more output to the console. 
 * --game-type: Set filter for a specific game: PLO or NLH.
 * --report-type: Set report type: Rake, Splash, RakeAndSplash.

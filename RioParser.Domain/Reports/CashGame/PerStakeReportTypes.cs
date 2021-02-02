@@ -1,4 +1,4 @@
-﻿namespace RioParser.Domain.Reports.Models
+﻿namespace RioParser.Domain.Reports.CashGame
 {
     public enum PerStakeReportTypes
     {

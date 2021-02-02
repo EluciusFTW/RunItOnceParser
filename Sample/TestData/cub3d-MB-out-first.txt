@@ -1,0 +1,923 @@
+Run It Once Poker Hand #52305758: Tournament #69786, €4.69+€0.31 Cub3d, Hold'em No Limit (4/8) - 2020/12/30 22:23 UTC [2020/12/30 23:23 CET]
+Table ID '52305754' 3-Max Seat #1 is the button
+Seat 1: Jacqueline A (500 in chips)
+Seat 3: Eileen D (500 in chips)
+Seat 5: MiamiBlues (500 in chips) [hero]
+Eileen D: posts small blind 10
+MiamiBlues: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Eileen D [Qh 6d]
+Dealt to MiamiBlues [Qc 2h]
+Dealt to Jacqueline A [7s 3d]
+Jacqueline A: folds
+Eileen D: calls 10
+MiamiBlues: checks
+*** FLOP *** [3c Ah Ad]
+Eileen D: checks
+MiamiBlues: checks
+*** TURN *** [3c Ah Ad] [6c]
+Eileen D: checks
+MiamiBlues: checks
+*** RIVER *** [3c Ah Ad 6c] [6h]
+Eileen D: bets 20
+MiamiBlues: calls 20
+*** SHOWDOWN ***
+Eileen D shows [Qh 6d] for Full House [Ah Ad 6h 6d 6c]
+Eileen D collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | Rake 0
+Board [3c Ah Ad 6c 6h]
+Seat 1: Jacqueline A (button) folded before Flop
+Seat 3: Eileen D (small blind) showed [Qh 6d] and won 80 with Full House 6's and A's
+Seat 5: MiamiBlues (big blind) mucked [Qc 2h] and lost
+
+
+**** **** **** **** **** **** **** ****
+
+
+Run It Once Poker Hand #52305765: Tournament #69786, €4.69+€0.31 Cub3d, Hold'em No Limit (4/8) - 2020/12/30 22:23 UTC [2020/12/30 23:23 CET]
+Table ID '52305754' 3-Max Seat #3 is the button
+Seat 1: Jacqueline A (500 in chips)
+Seat 3: Eileen D (540 in chips)
+Seat 5: MiamiBlues (460 in chips) [hero]
+MiamiBlues: posts small blind 10
+Jacqueline A: posts big blind 20
+*** HOLE CARDS ***
+Dealt to MiamiBlues [2s 4h]
+Dealt to Jacqueline A [2h 3s]
+Dealt to Eileen D [7d 4s]
+Eileen D: folds
+MiamiBlues: folds
+*** SHOWDOWN ***
+Jacqueline A: mucks hand
+Jacqueline A collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | Rake 0
+Seat 3: Eileen D (button) folded before Flop
+Seat 5: MiamiBlues (small blind) folded before Flop
+Seat 1: Jacqueline A (big blind) mucked hand and won 30
+
+
+**** **** **** **** **** **** **** ****
+
+
+Run It Once Poker Hand #52305768: Tournament #69786, €4.69+€0.31 Cub3d, Hold'em No Limit (4/8) - 2020/12/30 22:23 UTC [2020/12/30 23:23 CET]
+Table ID '52305754' 3-Max Seat #5 is the button
+Seat 1: Jacqueline A (510 in chips)
+Seat 3: Eileen D (540 in chips)
+Seat 5: MiamiBlues (450 in chips) [hero]
+Jacqueline A: posts small blind 10
+Eileen D: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Jacqueline A [6c Ah]
+Dealt to Eileen D [Qh 2s]
+Dealt to MiamiBlues [3d Ts]
+MiamiBlues: folds
+Jacqueline A: calls 10
+Eileen D: checks
+*** FLOP *** [Kc 9c 9h]
+Jacqueline A: bets 20
+Eileen D: folds
+Jacqueline A: mucks hand
+*** SHOWDOWN ***
+Jacqueline A: mucks hand
+Uncalled bet (20) returned to Jacqueline A
+Jacqueline A collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0
+Board [Kc 9c 9h]
+Seat 5: MiamiBlues (button) folded before Flop
+Seat 3: Eileen D (big blind) folded before Turn
+Seat 1: Jacqueline A (small blind) mucked hand and won 40
+
+
+**** **** **** **** **** **** **** ****
+
+
+Run It Once Poker Hand #52305771: Tournament #69786, €4.69+€0.31 Cub3d, Hold'em No Limit (4/8) - 2020/12/30 22:24 UTC [2020/12/30 23:24 CET]
+Table ID '52305754' 3-Max Seat #1 is the button
+Seat 1: Jacqueline A (530 in chips)
+Seat 3: Eileen D (520 in chips)
+Seat 5: MiamiBlues (450 in chips) [hero]
+Eileen D: posts small blind 10
+MiamiBlues: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Eileen D [Qd 7h]
+Dealt to MiamiBlues [Jc Qs]
+Dealt to Jacqueline A [Ks Qh]
+Jacqueline A: raises 20 to 40
+Eileen D: folds
+MiamiBlues: calls 20
+*** FLOP *** [4s Th 8s]
+MiamiBlues: checks
+Jacqueline A: bets 23
+MiamiBlues: calls 23
+*** TURN *** [4s Th 8s] [Kh]
+MiamiBlues: checks
+Jacqueline A: bets 80
+MiamiBlues: raises 307 to 387
+Jacqueline A: folds
+*** SHOWDOWN ***
+MiamiBlues: mucks hand
+Uncalled bet (307) returned to MiamiBlues
+MiamiBlues collected 296 from pot
+*** SUMMARY ***
+Total pot 296 | Rake 0
+Board [4s Th 8s Kh]
+Seat 3: Eileen D (small blind) folded before Flop
+Seat 1: Jacqueline A (button) folded before River (timeout)
+Seat 5: MiamiBlues (big blind) mucked hand and won 296
+
+
+**** **** **** **** **** **** **** ****
+
+
+Run It Once Poker Hand #52305786: Tournament #69786, €4.69+€0.31 Cub3d, Hold'em No Limit (4/8) - 2020/12/30 22:25 UTC [2020/12/30 23:25 CET]
+Table ID '52305754' 3-Max Seat #3 is the button
+Seat 1: Jacqueline A (387 in chips)
+Seat 3: Eileen D (510 in chips)
+Seat 5: MiamiBlues (603 in chips) [hero]
+MiamiBlues: posts small blind 10
+Jacqueline A: posts big blind 20
+*** HOLE CARDS ***
+Dealt to MiamiBlues [7s Tc]
+Dealt to Jacqueline A [6d Jd]
+Dealt to Eileen D [3h Kc]
+Eileen D: folds
+MiamiBlues: calls 10
+Jacqueline A: checks
+*** FLOP *** [4c As 3c]
+MiamiBlues: checks
+Jacqueline A: checks
+*** TURN *** [4c As 3c] [8s]
+MiamiBlues: bets 20
+Jacqueline A: folds
+MiamiBlues: mucks hand
+*** SHOWDOWN ***
+MiamiBlues: mucks hand
+Uncalled bet (20) returned to MiamiBlues
+MiamiBlues collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0
+Board [4c As 3c 8s]
+Seat 3: Eileen D (button) folded before Flop
+Seat 1: Jacqueline A (big blind) folded before River
+Seat 5: MiamiBlues (small blind) mucked hand and won 40
+
+
+**** **** **** **** **** **** **** ****
+
+
+Run It Once Poker Hand #52305790: Tournament #69786, €4.69+€0.31 Cub3d, Hold'em No Limit (4/8) - 2020/12/30 22:25 UTC [2020/12/30 23:25 CET]
+Table ID '52305754' 3-Max Seat #5 is the button
+Seat 1: Jacqueline A (367 in chips)
+Seat 3: Eileen D (510 in chips)
+Seat 5: MiamiBlues (623 in chips) [hero]
+Jacqueline A: posts small blind 10
+Eileen D: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Jacqueline A [4d Ah]
+Dealt to Eileen D [Kd 8d]
+Dealt to MiamiBlues [Tc 5s]
+MiamiBlues: folds
+Jacqueline A: calls 10
+Eileen D: raises 490 to 510 and is all-in
+Jacqueline A: folds
+*** SHOWDOWN ***
+Eileen D: mucks hand
+Uncalled bet (490) returned to Eileen D
+Eileen D collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0
+Seat 5: MiamiBlues (button) folded before Flop
+Seat 1: Jacqueline A (small blind) folded before Flop
+Seat 3: Eileen D (big blind) mucked hand and won 40
+
+
+**** **** **** **** **** **** **** ****
+
+
+Run It Once Poker Hand #52305799: Tournament #69786, €4.69+€0.31 Cub3d, Hold'em No Limit (4/8) - 2020/12/30 22:25 UTC [2020/12/30 23:25 CET]
+Table ID '52305754' 3-Max Seat #1 is the button
+Seat 1: Jacqueline A (347 in chips)
+Seat 3: Eileen D (530 in chips)
+Seat 5: MiamiBlues (623 in chips) [hero]
+Eileen D: posts small blind 15
+MiamiBlues: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Eileen D [7h 6s]
+Dealt to MiamiBlues [3s 4s]
+Dealt to Jacqueline A [9d 2h]
+Jacqueline A: folds
+Eileen D: folds
+*** SHOWDOWN ***
+MiamiBlues: mucks hand
+MiamiBlues collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | Rake 0
+Seat 1: Jacqueline A (button) folded before Flop
+Seat 3: Eileen D (small blind) folded before Flop
+Seat 5: MiamiBlues (big blind) mucked hand and won 45
+
+
+**** **** **** **** **** **** **** ****
+
+
+Run It Once Poker Hand #52305800: Tournament #69786, €4.69+€0.31 Cub3d, Hold'em No Limit (4/8) - 2020/12/30 22:25 UTC [2020/12/30 23:25 CET]
+Table ID '52305754' 3-Max Seat #3 is the button
+Seat 1: Jacqueline A (347 in chips)
+Seat 3: Eileen D (515 in chips)
+Seat 5: MiamiBlues (638 in chips) [hero]
+MiamiBlues: posts small blind 15
+Jacqueline A: posts big blind 30
+*** HOLE CARDS ***
+Dealt to MiamiBlues [5c 3s]
+Dealt to Jacqueline A [4s Ad]
+Dealt to Eileen D [7s Td]
+Eileen D: folds
+MiamiBlues: folds
+*** SHOWDOWN ***
+Jacqueline A: mucks hand
+Jacqueline A collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | Rake 0
+Seat 3: Eileen D (button) folded before Flop
+Seat 5: MiamiBlues (small blind) folded before Flop
+Seat 1: Jacqueline A (big blind) mucked hand and won 45
+
+
+**** **** **** **** **** **** **** ****
+
+
+Run It Once Poker Hand #52305805: Tournament #69786, €4.69+€0.31 Cub3d, Hold'em No Limit (4/8) - 2020/12/30 22:26 UTC [2020/12/30 23:26 CET]
+Table ID '52305754' 3-Max Seat #5 is the button
+Seat 1: Jacqueline A (362 in chips)
+Seat 3: Eileen D (515 in chips)
+Seat 5: MiamiBlues (623 in chips) [hero]
+Jacqueline A: posts small blind 15
+Eileen D: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Jacqueline A [3h 5c]
+Dealt to Eileen D [Qc 2s]
+Dealt to MiamiBlues [Qs Ah]
+MiamiBlues: raises 30 to 60
+Jacqueline A: folds
+Eileen D: folds
+*** SHOWDOWN ***
+MiamiBlues: mucks hand
+Uncalled bet (30) returned to MiamiBlues
+MiamiBlues collected 75 from pot
+*** SUMMARY ***
+Total pot 75 | Rake 0
+Seat 1: Jacqueline A (small blind) folded before Flop
+Seat 3: Eileen D (big blind) folded before Flop
+Seat 5: MiamiBlues (button) mucked hand and won 75
+
+
+**** **** **** **** **** **** **** ****
+
+
+Run It Once Poker Hand #52305810: Tournament #69786, €4.69+€0.31 Cub3d, Hold'em No Limit (4/8) - 2020/12/30 22:26 UTC [2020/12/30 23:26 CET]
+Table ID '52305754' 3-Max Seat #1 is the button
+Seat 1: Jacqueline A (347 in chips)
+Seat 3: Eileen D (485 in chips)
+Seat 5: MiamiBlues (668 in chips) [hero]
+Eileen D: posts small blind 15
+MiamiBlues: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Eileen D [Ks 7c]
+Dealt to MiamiBlues [2h 9h]
+Dealt to Jacqueline A [5h Kh]
+Jacqueline A: raises 317 to 347 and is all-in
+Eileen D: folds
+MiamiBlues: folds
+*** SHOWDOWN ***
+Jacqueline A: mucks hand
+Uncalled bet (317) returned to Jacqueline A
+Jacqueline A collected 75 from pot
+*** SUMMARY ***
+Total pot 75 | Rake 0
+Seat 3: Eileen D (small blind) folded before Flop
+Seat 5: MiamiBlues (big blind) folded before Flop
+Seat 1: Jacqueline A (button) mucked hand and won 75
+
+
+**** **** **** **** **** **** **** ****
+
+
+Run It Once Poker Hand #52305815: Tournament #69786, €4.69+€0.31 Cub3d, Hold'em No Limit (4/8) - 2020/12/30 22:26 UTC [2020/12/30 23:26 CET]
+Table ID '52305754' 3-Max Seat #3 is the button
+Seat 1: Jacqueline A (392 in chips)
+Seat 3: Eileen D (470 in chips)
+Seat 5: MiamiBlues (638 in chips) [hero]
+MiamiBlues: posts small blind 15
+Jacqueline A: posts big blind 30
+*** HOLE CARDS ***
+Dealt to MiamiBlues [Ts 2d]
+Dealt to Jacqueline A [Kh 9s]
+Dealt to Eileen D [6d 5s]
+Eileen D: folds
+MiamiBlues: folds
+*** SHOWDOWN ***
+Jacqueline A: mucks hand
+Jacqueline A collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | Rake 0
+Seat 3: Eileen D (button) folded before Flop
+Seat 5: MiamiBlues (small blind) folded before Flop
+Seat 1: Jacqueline A (big blind) mucked hand and won 45
+
+
+**** **** **** **** **** **** **** ****
+
+
+Run It Once Poker Hand #52305817: Tournament #69786, €4.69+€0.31 Cub3d, Hold'em No Limit (4/8) - 2020/12/30 22:26 UTC [2020/12/30 23:26 CET]
+Table ID '52305754' 3-Max Seat #5 is the button
+Seat 1: Jacqueline A (407 in chips)
+Seat 3: Eileen D (470 in chips)
+Seat 5: MiamiBlues (623 in chips) [hero]
+Jacqueline A: posts small blind 15
+Eileen D: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Jacqueline A [3s 7d]
+Dealt to Eileen D [2d Kc]
+Dealt to MiamiBlues [2h 3h]
+MiamiBlues: raises 30 to 60
+Jacqueline A: folds
+Eileen D: folds
+*** SHOWDOWN ***
+MiamiBlues: mucks hand
+Uncalled bet (30) returned to MiamiBlues
+MiamiBlues collected 75 from pot
+*** SUMMARY ***
+Total pot 75 | Rake 0
+Seat 1: Jacqueline A (small blind) folded before Flop
+Seat 3: Eileen D (big blind) folded before Flop
+Seat 5: MiamiBlues (button) mucked hand and won 75
+
+
+**** **** **** **** **** **** **** ****
+
+
+Run It Once Poker Hand #52305819: Tournament #69786, €4.69+€0.31 Cub3d, Hold'em No Limit (4/8) - 2020/12/30 22:27 UTC [2020/12/30 23:27 CET]
+Table ID '52305754' 3-Max Seat #1 is the button
+Seat 1: Jacqueline A (392 in chips)
+Seat 3: Eileen D (440 in chips)
+Seat 5: MiamiBlues (668 in chips) [hero]
+Eileen D: posts small blind 15
+MiamiBlues: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Eileen D [6h 2s]
+Dealt to MiamiBlues [3c Ks]
+Dealt to Jacqueline A [Td 9s]
+Jacqueline A: folds
+Eileen D: folds
+*** SHOWDOWN ***
+MiamiBlues: mucks hand
+MiamiBlues collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | Rake 0
+Seat 1: Jacqueline A (button) folded before Flop
+Seat 3: Eileen D (small blind) folded before Flop
+Seat 5: MiamiBlues (big blind) mucked hand and won 45
+
+
+**** **** **** **** **** **** **** ****
+
+
+Run It Once Poker Hand #52305822: Tournament #69786, €4.69+€0.31 Cub3d, Hold'em No Limit (4/8) - 2020/12/30 22:27 UTC [2020/12/30 23:27 CET]
+Table ID '52305754' 3-Max Seat #3 is the button
+Seat 1: Jacqueline A (392 in chips)
+Seat 3: Eileen D (425 in chips)
+Seat 5: MiamiBlues (683 in chips) [hero]
+MiamiBlues: posts small blind 15
+Jacqueline A: posts big blind 30
+*** HOLE CARDS ***
+Dealt to MiamiBlues [3d Tc]
+Dealt to Jacqueline A [Ah Qd]
+Dealt to Eileen D [9s 7d]
+Eileen D: folds
+MiamiBlues: folds
+*** SHOWDOWN ***
+Jacqueline A: mucks hand
+Jacqueline A collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | Rake 0
+Seat 3: Eileen D (button) folded before Flop
+Seat 5: MiamiBlues (small blind) folded before Flop
+Seat 1: Jacqueline A (big blind) mucked hand and won 45
+
+
+**** **** **** **** **** **** **** ****
+
+
+Run It Once Poker Hand #52305824: Tournament #69786, €4.69+€0.31 Cub3d, Hold'em No Limit (4/8) - 2020/12/30 22:27 UTC [2020/12/30 23:27 CET]
+Table ID '52305754' 3-Max Seat #5 is the button
+Seat 1: Jacqueline A (407 in chips)
+Seat 3: Eileen D (425 in chips)
+Seat 5: MiamiBlues (668 in chips) [hero]
+Jacqueline A: posts small blind 15
+Eileen D: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Jacqueline A [2d 2s]
+Dealt to Eileen D [Kc Jd]
+Dealt to MiamiBlues [5s 9s]
+MiamiBlues: raises 30 to 60
+Jacqueline A: raises 347 to 407 and is all-in
+Eileen D: folds
+MiamiBlues: folds
+*** SHOWDOWN ***
+Jacqueline A: mucks hand
+Uncalled bet (347) returned to Jacqueline A
+Jacqueline A collected 150 from pot
+*** SUMMARY ***
+Total pot 150 | Rake 0
+Seat 3: Eileen D (big blind) folded before Flop
+Seat 5: MiamiBlues (button) folded before Flop
+Seat 1: Jacqueline A (small blind) mucked hand and won 150
+
+
+**** **** **** **** **** **** **** ****
+
+
+Run It Once Poker Hand #52305826: Tournament #69786, €4.69+€0.31 Cub3d, Hold'em No Limit (4/8) - 2020/12/30 22:27 UTC [2020/12/30 23:27 CET]
+Table ID '52305754' 3-Max Seat #1 is the button
+Seat 1: Jacqueline A (497 in chips)
+Seat 3: Eileen D (395 in chips)
+Seat 5: MiamiBlues (608 in chips) [hero]
+Eileen D: posts small blind 15
+MiamiBlues: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Eileen D [5c Qd]
+Dealt to MiamiBlues [8s 8h]
+Dealt to Jacqueline A [8c 7c]
+Jacqueline A: folds
+Eileen D: folds
+*** SHOWDOWN ***
+MiamiBlues: mucks hand
+MiamiBlues collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | Rake 0
+Seat 1: Jacqueline A (button) folded before Flop
+Seat 3: Eileen D (small blind) folded before Flop
+Seat 5: MiamiBlues (big blind) mucked hand and won 45
+
+
+**** **** **** **** **** **** **** ****
+
+
+Run It Once Poker Hand #52305828: Tournament #69786, €4.69+€0.31 Cub3d, Hold'em No Limit (4/8) - 2020/12/30 22:27 UTC [2020/12/30 23:27 CET]
+Table ID '52305754' 3-Max Seat #3 is the button
+Seat 1: Jacqueline A (497 in chips)
+Seat 3: Eileen D (380 in chips)
+Seat 5: MiamiBlues (623 in chips) [hero]
+MiamiBlues: posts small blind 15
+Jacqueline A: posts big blind 30
+*** HOLE CARDS ***
+Dealt to MiamiBlues [5h 3d]
+Dealt to Jacqueline A [Ad Ks]
+Dealt to Eileen D [4c Js]
+Eileen D: folds
+MiamiBlues: folds
+*** SHOWDOWN ***
+Jacqueline A: mucks hand
+Jacqueline A collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | Rake 0
+Seat 3: Eileen D (button) folded before Flop
+Seat 5: MiamiBlues (small blind) folded before Flop
+Seat 1: Jacqueline A (big blind) mucked hand and won 45
+
+
+**** **** **** **** **** **** **** ****
+
+
+Run It Once Poker Hand #52305831: Tournament #69786, €4.69+€0.31 Cub3d, Hold'em No Limit (4/8) - 2020/12/30 22:27 UTC [2020/12/30 23:27 CET]
+Table ID '52305754' 3-Max Seat #5 is the button
+Seat 1: Jacqueline A (512 in chips)
+Seat 3: Eileen D (380 in chips)
+Seat 5: MiamiBlues (608 in chips) [hero]
+Jacqueline A: posts small blind 15
+Eileen D: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Jacqueline A [7d Ah]
+Dealt to Eileen D [Ts Kh]
+Dealt to MiamiBlues [5c 8c]
+MiamiBlues: raises 30 to 60
+Jacqueline A: folds
+Eileen D: raises 320 to 380 and is all-in
+MiamiBlues: folds
+*** SHOWDOWN ***
+Eileen D: mucks hand
+Uncalled bet (320) returned to Eileen D
+Eileen D collected 135 from pot
+*** SUMMARY ***
+Total pot 135 | Rake 0
+Seat 1: Jacqueline A (small blind) folded before Flop
+Seat 5: MiamiBlues (button) folded before Flop
+Seat 3: Eileen D (big blind) mucked hand and won 135
+
+
+**** **** **** **** **** **** **** ****
+
+
+Run It Once Poker Hand #52305833: Tournament #69786, €4.69+€0.31 Cub3d, Hold'em No Limit (4/8) - 2020/12/30 22:27 UTC [2020/12/30 23:27 CET]
+Table ID '52305754' 3-Max Seat #1 is the button
+Seat 1: Jacqueline A (497 in chips)
+Seat 3: Eileen D (455 in chips)
+Seat 5: MiamiBlues (548 in chips) [hero]
+Eileen D: posts small blind 15
+MiamiBlues: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Eileen D [5h 4s]
+Dealt to MiamiBlues [Qd 8h]
+Dealt to Jacqueline A [5s 4h]
+Jacqueline A: folds
+Eileen D: folds
+*** SHOWDOWN ***
+MiamiBlues: mucks hand
+MiamiBlues collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | Rake 0
+Seat 1: Jacqueline A (button) folded before Flop
+Seat 3: Eileen D (small blind) folded before Flop
+Seat 5: MiamiBlues (big blind) mucked hand and won 45
+
+
+**** **** **** **** **** **** **** ****
+
+
+Run It Once Poker Hand #52305835: Tournament #69786, €4.69+€0.31 Cub3d, Hold'em No Limit (4/8) - 2020/12/30 22:28 UTC [2020/12/30 23:28 CET]
+Table ID '52305754' 3-Max Seat #3 is the button
+Seat 1: Jacqueline A (497 in chips)
+Seat 3: Eileen D (440 in chips)
+Seat 5: MiamiBlues (563 in chips) [hero]
+MiamiBlues: posts small blind 15
+Jacqueline A: posts big blind 30
+*** HOLE CARDS ***
+Dealt to MiamiBlues [6s Kc]
+Dealt to Jacqueline A [Jd 5d]
+Dealt to Eileen D [8c Jc]
+Eileen D: raises 30 to 60
+MiamiBlues: folds
+Jacqueline A: folds
+*** SHOWDOWN ***
+Eileen D: mucks hand
+Uncalled bet (30) returned to Eileen D
+Eileen D collected 75 from pot
+*** SUMMARY ***
+Total pot 75 | Rake 0
+Seat 5: MiamiBlues (small blind) folded before Flop
+Seat 1: Jacqueline A (big blind) folded before Flop
+Seat 3: Eileen D (button) mucked hand and won 75
+
+
+**** **** **** **** **** **** **** ****
+
+
+Run It Once Poker Hand #52305836: Tournament #69786, €4.69+€0.31 Cub3d, Hold'em No Limit (4/8) - 2020/12/30 22:28 UTC [2020/12/30 23:28 CET]
+Table ID '52305754' 3-Max Seat #5 is the button
+Seat 1: Jacqueline A (467 in chips)
+Seat 3: Eileen D (485 in chips)
+Seat 5: MiamiBlues (548 in chips) [hero]
+Jacqueline A: posts small blind 20
+Eileen D: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Jacqueline A [8d 5h]
+Dealt to Eileen D [6s 8h]
+Dealt to MiamiBlues [5s 9h]
+MiamiBlues: folds
+Jacqueline A: folds
+*** SHOWDOWN ***
+Eileen D: mucks hand
+Eileen D collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0
+Seat 5: MiamiBlues (button) folded before Flop
+Seat 1: Jacqueline A (small blind) folded before Flop
+Seat 3: Eileen D (big blind) mucked hand and won 60
+
+
+**** **** **** **** **** **** **** ****
+
+
+Run It Once Poker Hand #52305837: Tournament #69786, €4.69+€0.31 Cub3d, Hold'em No Limit (4/8) - 2020/12/30 22:28 UTC [2020/12/30 23:28 CET]
+Table ID '52305754' 3-Max Seat #1 is the button
+Seat 1: Jacqueline A (447 in chips)
+Seat 3: Eileen D (505 in chips)
+Seat 5: MiamiBlues (548 in chips) [hero]
+Eileen D: posts small blind 20
+MiamiBlues: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Eileen D [7c 8s]
+Dealt to MiamiBlues [9s Td]
+Dealt to Jacqueline A [3c 6d]
+Jacqueline A: folds
+Eileen D: calls 20
+MiamiBlues: checks
+*** FLOP *** [3h Ts Kh]
+Eileen D: bets 40
+MiamiBlues: calls 40
+*** TURN *** [3h Ts Kh] [3s]
+Eileen D: checks
+MiamiBlues: checks
+*** RIVER *** [3h Ts Kh 3s] [8d]
+Eileen D: bets 80
+MiamiBlues: calls 80
+*** SHOWDOWN ***
+MiamiBlues shows [9s Td] for Two Pairs [Kh Ts Td 3s 3h]
+MiamiBlues collected 320 from pot
+*** SUMMARY ***
+Total pot 320 | Rake 0
+Board [3h Ts Kh 3s 8d]
+Seat 1: Jacqueline A (button) folded before Flop
+Seat 5: MiamiBlues (big blind) showed [9s Td] and won 320 with Two Pairs T 3 and K
+Seat 3: Eileen D (small blind) mucked [7c 8s] and lost
+
+
+**** **** **** **** **** **** **** ****
+
+
+Run It Once Poker Hand #52305842: Tournament #69786, €4.69+€0.31 Cub3d, Hold'em No Limit (4/8) - 2020/12/30 22:28 UTC [2020/12/30 23:28 CET]
+Table ID '52305754' 3-Max Seat #3 is the button
+Seat 1: Jacqueline A (447 in chips)
+Seat 3: Eileen D (345 in chips)
+Seat 5: MiamiBlues (708 in chips) [hero]
+MiamiBlues: posts small blind 20
+Jacqueline A: posts big blind 40
+*** HOLE CARDS ***
+Dealt to MiamiBlues [Ts 8h]
+Dealt to Jacqueline A [Td 9s]
+Dealt to Eileen D [6h 2c]
+Eileen D: folds
+MiamiBlues: folds
+*** SHOWDOWN ***
+Jacqueline A: mucks hand
+Jacqueline A collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0
+Seat 3: Eileen D (button) folded before Flop
+Seat 5: MiamiBlues (small blind) folded before Flop
+Seat 1: Jacqueline A (big blind) mucked hand and won 60
+
+
+**** **** **** **** **** **** **** ****
+
+
+Run It Once Poker Hand #52305843: Tournament #69786, €4.69+€0.31 Cub3d, Hold'em No Limit (4/8) - 2020/12/30 22:28 UTC [2020/12/30 23:28 CET]
+Table ID '52305754' 3-Max Seat #5 is the button
+Seat 1: Jacqueline A (467 in chips)
+Seat 3: Eileen D (345 in chips)
+Seat 5: MiamiBlues (688 in chips) [hero]
+Jacqueline A: posts small blind 20
+Eileen D: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Jacqueline A [As Jh]
+Dealt to Eileen D [2c Tc]
+Dealt to MiamiBlues [4h Qc]
+MiamiBlues: folds
+Jacqueline A: raises 427 to 467 and is all-in
+Eileen D: folds
+*** SHOWDOWN ***
+Jacqueline A: mucks hand
+Uncalled bet (427) returned to Jacqueline A
+Jacqueline A collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | Rake 0
+Seat 5: MiamiBlues (button) folded before Flop
+Seat 3: Eileen D (big blind) folded before Flop
+Seat 1: Jacqueline A (small blind) mucked hand and won 80
+
+
+**** **** **** **** **** **** **** ****
+
+
+Run It Once Poker Hand #52305844: Tournament #69786, €4.69+€0.31 Cub3d, Hold'em No Limit (4/8) - 2020/12/30 22:29 UTC [2020/12/30 23:29 CET]
+Table ID '52305754' 3-Max Seat #1 is the button
+Seat 1: Jacqueline A (507 in chips)
+Seat 3: Eileen D (305 in chips)
+Seat 5: MiamiBlues (688 in chips) [hero]
+Eileen D: posts small blind 20
+MiamiBlues: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Eileen D [6c 5s]
+Dealt to MiamiBlues [6d 4d]
+Dealt to Jacqueline A [7c 9s]
+Jacqueline A: folds
+Eileen D: raises 265 to 305 and is all-in
+MiamiBlues: folds
+*** SHOWDOWN ***
+Eileen D: mucks hand
+Uncalled bet (265) returned to Eileen D
+Eileen D collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | Rake 0
+Seat 1: Jacqueline A (button) folded before Flop
+Seat 5: MiamiBlues (big blind) folded before Flop
+Seat 3: Eileen D (small blind) mucked hand and won 80
+
+
+**** **** **** **** **** **** **** ****
+
+
+Run It Once Poker Hand #52305848: Tournament #69786, €4.69+€0.31 Cub3d, Hold'em No Limit (4/8) - 2020/12/30 22:29 UTC [2020/12/30 23:29 CET]
+Table ID '52305754' 3-Max Seat #3 is the button
+Seat 1: Jacqueline A (507 in chips)
+Seat 3: Eileen D (345 in chips)
+Seat 5: MiamiBlues (648 in chips) [hero]
+MiamiBlues: posts small blind 20
+Jacqueline A: posts big blind 40
+*** HOLE CARDS ***
+Dealt to MiamiBlues [5h 7c]
+Dealt to Jacqueline A [Jd 2h]
+Dealt to Eileen D [9h Tc]
+Eileen D: folds
+MiamiBlues: folds
+*** SHOWDOWN ***
+Jacqueline A: mucks hand
+Jacqueline A collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0
+Seat 3: Eileen D (button) folded before Flop
+Seat 5: MiamiBlues (small blind) folded before Flop
+Seat 1: Jacqueline A (big blind) mucked hand and won 60
+
+
+**** **** **** **** **** **** **** ****
+
+
+Run It Once Poker Hand #52305849: Tournament #69786, €4.69+€0.31 Cub3d, Hold'em No Limit (4/8) - 2020/12/30 22:29 UTC [2020/12/30 23:29 CET]
+Table ID '52305754' 3-Max Seat #5 is the button
+Seat 1: Jacqueline A (527 in chips)
+Seat 3: Eileen D (345 in chips)
+Seat 5: MiamiBlues (628 in chips) [hero]
+Jacqueline A: posts small blind 20
+Eileen D: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Jacqueline A [4h Jh]
+Dealt to Eileen D [2c 8s]
+Dealt to MiamiBlues [5h Qd]
+MiamiBlues: folds
+Jacqueline A: folds
+*** SHOWDOWN ***
+Eileen D: mucks hand
+Eileen D collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0
+Seat 5: MiamiBlues (button) folded before Flop
+Seat 1: Jacqueline A (small blind) folded before Flop
+Seat 3: Eileen D (big blind) mucked hand and won 60
+
+
+**** **** **** **** **** **** **** ****
+
+
+Run It Once Poker Hand #52305852: Tournament #69786, €4.69+€0.31 Cub3d, Hold'em No Limit (4/8) - 2020/12/30 22:29 UTC [2020/12/30 23:29 CET]
+Table ID '52305754' 3-Max Seat #1 is the button
+Seat 1: Jacqueline A (507 in chips)
+Seat 3: Eileen D (365 in chips)
+Seat 5: MiamiBlues (628 in chips) [hero]
+Eileen D: posts small blind 20
+MiamiBlues: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Eileen D [Kh Jc]
+Dealt to MiamiBlues [Jd Qh]
+Dealt to Jacqueline A [9h Tc]
+Jacqueline A: folds
+Eileen D: raises 325 to 365 and is all-in
+MiamiBlues: calls 325
+*** FLOP *** [Kc 2c 6s]
+*** TURN *** [Kc 2c 6s] [Kd]
+*** RIVER *** [Kc 2c 6s Kd] [Ad]
+*** SHOWDOWN ***
+Eileen D shows [Kh Jc] for Three of Kind [Ad Kh Kd Kc Jc]
+Eileen D collected 730 from pot
+*** SUMMARY ***
+Total pot 730 | Rake 0
+Board [Kc 2c 6s Kd Ad]
+Seat 1: Jacqueline A (button) folded before Flop
+Seat 3: Eileen D (small blind) showed [Kh Jc] and won 730 with Three of Kind K's and A J
+Seat 5: MiamiBlues (big blind) mucked [Jd Qh] and lost
+
+
+**** **** **** **** **** **** **** ****
+
+
+Run It Once Poker Hand #52305855: Tournament #69786, €4.69+€0.31 Cub3d, Hold'em No Limit (4/8) - 2020/12/30 22:29 UTC [2020/12/30 23:29 CET]
+Table ID '52305754' 3-Max Seat #3 is the button
+Seat 1: Jacqueline A (507 in chips)
+Seat 3: Eileen D (730 in chips)
+Seat 5: MiamiBlues (263 in chips) [hero]
+MiamiBlues: posts small blind 20
+Jacqueline A: posts big blind 40
+*** HOLE CARDS ***
+Dealt to MiamiBlues [Ah 2s]
+Dealt to Jacqueline A [3c 9s]
+Dealt to Eileen D [6c 7h]
+Eileen D: folds
+MiamiBlues: raises 223 to 263 and is all-in
+Jacqueline A: folds
+*** SHOWDOWN ***
+MiamiBlues: mucks hand
+Uncalled bet (223) returned to MiamiBlues
+MiamiBlues collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | Rake 0
+Seat 3: Eileen D (button) folded before Flop
+Seat 1: Jacqueline A (big blind) folded before Flop
+Seat 5: MiamiBlues (small blind) mucked hand and won 80
+
+
+**** **** **** **** **** **** **** ****
+
+
+Run It Once Poker Hand #52305858: Tournament #69786, €4.69+€0.31 Cub3d, Hold'em No Limit (4/8) - 2020/12/30 22:29 UTC [2020/12/30 23:29 CET]
+Table ID '52305754' 3-Max Seat #5 is the button
+Seat 1: Jacqueline A (467 in chips)
+Seat 3: Eileen D (730 in chips)
+Seat 5: MiamiBlues (303 in chips) [hero]
+Jacqueline A: posts small blind 20
+Eileen D: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Jacqueline A [3s Ad]
+Dealt to Eileen D [8h Kh]
+Dealt to MiamiBlues [Ks As]
+MiamiBlues: raises 263 to 303 and is all-in
+Jacqueline A: raises 164 to 467 and is all-in
+Eileen D: folds
+*** FLOP *** [2h Js Td]
+*** TURN *** [2h Js Td] [2d]
+*** RIVER *** [2h Js Td 2d] [2c]
+*** SHOWDOWN ***
+MiamiBlues shows [Ks As] for Three of Kind [As Ks 2h 2d 2c]
+Uncalled bet (164) returned to Jacqueline A
+MiamiBlues collected 646 from pot
+*** SUMMARY ***
+Total pot 646 | Rake 0
+Board [2h Js Td 2d 2c]
+Seat 3: Eileen D (big blind) folded before Flop
+Seat 5: MiamiBlues (button) showed [Ks As] and won 646 with Three of Kind 2's and A K
+Seat 1: Jacqueline A (small blind) mucked [3s Ad] and lost
+
+
+**** **** **** **** **** **** **** ****
+
+
+Run It Once Poker Hand #52305861: Tournament #69786, €4.69+€0.31 Cub3d, Hold'em No Limit (4/8) - 2020/12/30 22:30 UTC [2020/12/30 23:30 CET]
+Table ID '52305754' 3-Max Seat #1 is the button
+Seat 1: Jacqueline A (164 in chips)
+Seat 3: Eileen D (690 in chips)
+Seat 5: MiamiBlues (646 in chips) [hero]
+Eileen D: posts small blind 20
+MiamiBlues: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Eileen D [3s 2h]
+Dealt to MiamiBlues [Kc Qh]
+Dealt to Jacqueline A [As 6d]
+Jacqueline A: raises 124 to 164 and is all-in
+Eileen D: folds
+MiamiBlues: calls 124
+*** FLOP *** [2s 7h Ac]
+*** TURN *** [2s 7h Ac] [4h]
+*** RIVER *** [2s 7h Ac 4h] [Jd]
+*** SHOWDOWN ***
+Jacqueline A shows [As 6d] for Pair [As Ac Jd 7h 6d]
+Jacqueline A collected 348 from pot
+*** SUMMARY ***
+Total pot 348 | Rake 0
+Board [2s 7h Ac 4h Jd]
+Seat 3: Eileen D (small blind) folded before Flop
+Seat 1: Jacqueline A (button) showed [As 6d] and won 348 with Pair of A and J 7 6
+Seat 5: MiamiBlues (big blind) mucked [Kc Qh] and lost
+
+
+**** **** **** **** **** **** **** ****
+
+
+Run It Once Poker Hand #52305863: Tournament #69786, €4.69+€0.31 Cub3d, Hold'em No Limit (4/8) - 2020/12/30 22:30 UTC [2020/12/30 23:30 CET]
+Table ID '52305754' 3-Max Seat #3 is the button
+Seat 1: Jacqueline A (348 in chips)
+Seat 3: Eileen D (670 in chips)
+Seat 5: MiamiBlues (482 in chips) [hero]
+MiamiBlues: posts small blind 25
+Jacqueline A: posts big blind 50
+*** HOLE CARDS ***
+Dealt to MiamiBlues [Qc Ah]
+Dealt to Jacqueline A [Jc 8d]
+Dealt to Eileen D [8c 9h]
+Eileen D: raises 620 to 670 and is all-in
+MiamiBlues: calls 457 and is all-in
+Jacqueline A: folds
+*** FLOP *** [5c 7s Kc]
+*** TURN *** [5c 7s Kc] [Kh]
+*** RIVER *** [5c 7s Kc Kh] [9d]
+*** SHOWDOWN ***
+Eileen D shows [8c 9h] for Two Pairs [Kh Kc 9h 9d 8c]
+Uncalled bet (188) returned to Eileen D
+Eileen D collected 1014 from pot
+*** SUMMARY ***
+Total pot 1,014 | Rake 0
+Board [5c 7s Kc Kh 9d]
+Seat 1: Jacqueline A (big blind) folded before Flop
+Seat 3: Eileen D (button) showed [8c 9h] and won 1014 with Two Pairs K 9 and 8
+Seat 5: MiamiBlues (small blind) mucked [Qc Ah] and lost

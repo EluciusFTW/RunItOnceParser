@@ -1,16 +1,16 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
-using RioParser.Domain.HandHistories;
+using RioParser.Domain.Hands;
 using RioParser.Domain.Reports.Models;
 
-namespace RioParser.Domain.Reports.Implementations
+namespace RioParser.Domain.Reports.CashGame
 {
-    public class PerStakeReport : IHandsReport
+    public class StakesReport : IReport
     {
-        private readonly IReadOnlyCollection<IHandsReport> _stakeReports;
+        private readonly IReadOnlyCollection<IReport> _stakeReports;
 
-        public PerStakeReport(ReportOptions reportOptions, IReadOnlyCollection<HandHistory> hands)
+        public StakesReport(ReportOptions reportOptions, IReadOnlyCollection<CashGameHand> hands)
         {
             _stakeReports = hands
                 .GroupBy(hand => hand.BigBlind)
@@ -18,7 +18,7 @@ namespace RioParser.Domain.Reports.Implementations
                 .ToList();
         }
 
-        public IEnumerable<string> PrintOut() 
+        public IEnumerable<string> PrintOut()
             => _stakeReports.Select(report => string.Join(Environment.NewLine, report.PrintOut()));
     }
 }

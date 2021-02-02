@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Globalization;
 using System.Linq;
+using System.Text.RegularExpressions;
 
 namespace RioParser.Domain.Extensions
 {
@@ -49,6 +50,9 @@ namespace RioParser.Domain.Extensions
             => subject
                 .Split(new[] { '\r', '\n' }, StringSplitOptions.RemoveEmptyEntries)
                 .FirstOrDefault(line => line.Contains(marker)) ?? string.Empty;
+
+        public static string[] SplitIntoLines(this string subject)
+            => Regex.Split(subject, "\r\n|\r|\n");
 
         public static decimal ToDecimal(this string subject)
             => !string.IsNullOrEmpty(subject)

@@ -5,6 +5,8 @@
         Rake,
         Splash,
         RakeAndSplash,
+        Cub3d,
+        Sng,
         Debug
     }
 }

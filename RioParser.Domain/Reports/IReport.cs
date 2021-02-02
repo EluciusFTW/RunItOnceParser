@@ -2,7 +2,7 @@
 
 namespace RioParser.Domain.Reports
 {
-    public interface IHandsReport
+    public interface IReport
     {
         public IEnumerable<string> PrintOut();
     }

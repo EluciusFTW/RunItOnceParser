@@ -1,11 +1,11 @@
 ﻿using RioParser.Domain.Extensions;
-using RioParser.Domain.HandHistories;
+using RioParser.Domain.Hands;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 
-namespace RioParser.Domain.Reports.Implementations
+namespace RioParser.Domain.Reports.CashGame
 {
     public class SplashReport : StakeReportBase
     {
@@ -17,7 +17,7 @@ namespace RioParser.Domain.Reports.Implementations
         private readonly IList<string> _bigSplashes = new List<string>();
         private readonly IDictionary<decimal, int> _spashDistribution = new Dictionary<decimal, int>();
 
-        public SplashReport(string hero, IReadOnlyCollection<HandHistory> hands)
+        public SplashReport(string hero, IReadOnlyCollection<CashGameHand> hands)
             : base(hero, hands)
         {
             hands.ForEach(hands => ParseHand(hero, hands));
@@ -25,7 +25,7 @@ namespace RioParser.Domain.Reports.Implementations
             _handsWithSplash = _spashDistribution.Sum(kvp => kvp.Value);
         }
 
-        protected override void ParseHand(string hero, HandHistory hand)
+        protected override void ParseHand(string hero, CashGameHand hand)
         {
             if (hand.BigSplash)
             {
@@ -62,20 +62,20 @@ namespace RioParser.Domain.Reports.Implementations
                 .AppendLine($" - occurences:            {_handsWithSplash}")
                 .AppendLine($" - splash frequency:      {(double)_handsWithSplash / _hands:P2}")
                 .AppendLine($" - total amount:          {_totalSplash:F2}€");
-            
+
             if (_includeHeroStatistics)
             {
                 builder
                     .AppendLine($" - won by hero:           {_heroSplash:F2}€")
                     .AppendLine($" - won by hero in BB/100: {_relativeHeroSplash:F2}");
             }
-                
+
             builder
                 .AppendLine("Splash distribution");
 
             _spashDistribution
                 .OrderBy(kvp => kvp.Key)
-                .ForEach(kvp => builder.AppendLine($" - {kvp.Key,3}BB {kvp.Value, 18} Splash{(kvp.Value > 1 ? @"es" : string.Empty)}"));
+                .ForEach(kvp => builder.AppendLine($" - {kvp.Key,3}BB {kvp.Value,18} Splash{(kvp.Value > 1 ? @"es" : string.Empty)}"));
 
             if (_bigSplashes.Any())
             {
