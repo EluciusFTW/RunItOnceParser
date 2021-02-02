@@ -1,4 +1,5 @@
-﻿using RioParser.Domain.Hands;
+﻿using RioParser.Domain.Extensions;
+using RioParser.Domain.Hands;
 using System.Collections.Generic;
 using System.Linq;
 
@@ -13,10 +14,14 @@ namespace RioParser.Domain.Sessions
                     .Select(chunk => new TourneyHand(chunk))
                     .ToList());
 
+        public string Identifier
+            => Headline
+                .AfterFirst("Tournament #")
+                .Before(",");
+
         protected TourneySession(string name, string content)
             : base(name, content)
         {
         }
-
     }
 }

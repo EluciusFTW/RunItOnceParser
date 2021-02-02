@@ -17,7 +17,7 @@ namespace RioParser.Domain.Reports.SitAndGo
             _sessions = cub3dSessions;
         }
 
-        public IEnumerable<string> PrintOut() => new[] { AggregateReport() };
+        public IEnumerable<string> PrintOut() { yield return AggregateReport(); }
 
         private int HeroPosition(Cub3dSession session)
         {

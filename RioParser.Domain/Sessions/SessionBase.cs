@@ -8,13 +8,16 @@ namespace RioParser.Domain.Sessions
         public string Name { get; }
 
         private const string Separator = "**** **** **** **** **** **** **** ****";
+        
         private readonly string _content;
+
+        protected string Headline => _content.Substring(0, 89);
 
         internal static SessionType SessionType(string content)
             => content.Substring(0, 89) switch
             {
-                string s when s.Contains("Cub3d") => Sessions.SessionType.Cub3d,
-                string s when s.Contains("SnG") => Sessions.SessionType.Sng,
+                string s when s.Contains("Tournament") && s.Contains("Cub3d") => Sessions.SessionType.Cub3d,
+                string s when s.Contains("Tournament") && s.Contains("Classic") => Sessions.SessionType.Sng,
                 _ => Sessions.SessionType.Cash
             };
 
