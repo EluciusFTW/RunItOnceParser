@@ -20,7 +20,7 @@ namespace RioParser.Domain.Reports.SitAndGo
 
         public IEnumerable<string> PrintOut() { yield return AggregateReport(); }
 
-        private int HeroPosition(Cub3dSession session)
+        private int HeroPosition(TourneySession session)
         {
             var lastHand = session.Hands.Last();
             var heroWon = lastHand.Winner == _hero;

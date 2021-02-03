@@ -6,7 +6,7 @@ using System.Linq;
 
 namespace RioParser.Domain.Reports.Sng
 {
-    public class SngReporter<TReport> : IReporter where TReport : IReport
+    public class SngReporter : IReporter
     {
         private ReportOptions _reportOptions;
         private ILogger _logger;
