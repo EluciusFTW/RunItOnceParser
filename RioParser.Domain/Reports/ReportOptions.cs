@@ -10,7 +10,6 @@ namespace RioParser.Domain.Reports.Models
         public PerStakeReportTypes[] ReportTypes { get; private set; }
         public string Hero { get; }
         public bool IsPerStakeReport => ReportTypes.Any();
-        public bool IsDebug { get; }
         public SessionType SessionType { get;  }
         
         public ReportOptions(string hero, GameType gameType, ReportType reportType)
@@ -32,8 +31,6 @@ namespace RioParser.Domain.Reports.Models
                 ReportType.Sng => SessionType.Sng,
                 _ => SessionType.Cash
             };
-
-            IsDebug = reportType == ReportType.Debug;
         }
     }
 }
