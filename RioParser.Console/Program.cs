@@ -41,15 +41,18 @@ namespace RioParser.Console
             Logger.Chapter("RioParser: Parse your cash game hand histories played on Run It Once Poker!");
 
             Logger.Log("Stay up to date with newest development and features by");
-            Logger.Log(" * following me on Twitter (@EluciusFTW)");
-            Logger.Log(" * visiting the GitHub page (https://github.com/EluciusFTW/RunItOnceParser)");
+            Logger.Log("- following me on Twitter (@EluciusFTW)");
+            Logger.Log("- visiting the GitHub page (https://github.com/EluciusFTW/RunItOnceParser)");
 
-            Logger.Paragraph("Configuration");
-            Logger.Log("- Output:                  " + (verbose ? "verbose" : "terse"));
-            Logger.Log("- Report type:             " + reportType);
-            Logger.Log("- Game type:               " + gameType);
-            Logger.Log("- Hero name:               " + hero);
-            Logger.Log("- Hand history files path: " + path);
+            if (verbose)
+            {
+                Logger.Paragraph("Configuration");
+                Logger.Log("- Output:                  " + (verbose ? "verbose" : "terse"));
+                Logger.Log("- Report type:             " + reportType);
+                Logger.Log("- Game type:               " + gameType);
+                Logger.Log("- Hero name:               " + hero);
+                Logger.Log("- Hand history files path: " + path);
+            }
         }
 
         private static void GenerateReport(string path, ReportOptions options)
@@ -69,7 +72,7 @@ namespace RioParser.Console
                 .Create(options)
                 .Process(sessions);
             
-            Logger.Log($"Finished processing {sessions.Count} hand history files after {stopwatch.Elapsed} seconds.");
+            Logger.Paragraph($"Finished processing {sessions.Count} hand history files after {stopwatch.Elapsed} seconds.");
 
             if (reports.Any())
             {

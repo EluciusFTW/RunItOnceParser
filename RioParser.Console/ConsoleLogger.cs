@@ -17,6 +17,7 @@ namespace RioParser.Console
         private readonly Color alternatingColorTwo = Color.PeachPuff;
         
         private static bool _isVerbose;
+        private static bool _paragraphBeginning = false;
 
         public ConsoleLogger()
         {
@@ -38,14 +39,24 @@ namespace RioParser.Console
         public void Chapter(string line) 
             => System.Console.WriteLine($"*** {line}".Pastel(chapterColor));
 
-        public void Paragraph(string line) 
-            => System.Console.WriteLine(Environment.NewLine + $"* {line}".Pastel(paragraphColor));
+        public void Paragraph(string line)
+        {
+            var potentialNewLine = !_paragraphBeginning 
+                ? Environment.NewLine 
+                : string.Empty;
+
+            System.Console.WriteLine(potentialNewLine + $"* {line}".Pastel(paragraphColor));
+            _paragraphBeginning = true;
+        }
 
         internal void LogAlternating(IEnumerable<string> messages) 
             => messages.ForEach((message, index) => Log(message, GetAlternatingColor(index)));
 
         private static void Log(string message, Color color)
-            => System.Console.WriteLine(message.Pastel(color));
+        {
+            _paragraphBeginning = false;
+            System.Console.WriteLine(message.Pastel(color));
+        }
 
         private Color GetAlternatingColor(int index)
            => index % 2 == 0
