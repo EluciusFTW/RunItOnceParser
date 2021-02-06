@@ -7,16 +7,17 @@ namespace RioParser.Domain.Reports.Models
     public class ReportOptions
     {
         public GameType GameType { get; }
+        public bool Verbose { get; }
         public PerStakeReportTypes[] ReportTypes { get; private set; }
         public string Hero { get; }
         public bool IsPerStakeReport => ReportTypes.Any();
         public SessionType SessionType { get;  }
         
-        public ReportOptions(string hero, GameType gameType, ReportType reportType)
+        public ReportOptions(string hero, GameType gameType, ReportType reportType, bool verbose)
         {
             Hero = hero;
             GameType = gameType;
-            
+            Verbose = verbose;
             ReportTypes = reportType switch
             {
                 ReportType.Rake => new[] { PerStakeReportTypes.Rake },
