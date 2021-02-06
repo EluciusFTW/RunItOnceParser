@@ -35,27 +35,27 @@ namespace RioParser.Console
                 Environment.Exit(0);
             }
 
-            GenerateReport(path, options);
+            GenerateReport(options);
         }
 
         private static void LogApplicationStart(string path, string hero, ReportType reportType, GameType gameType, bool verbose)
         {
-            Logger.Chapter("RioParser: Parse your cash game hand histories played on Run It Once Poker!");
+            Logger.Chapter("RioParser: Analyze your hand histories played on Run It Once Poker!");
 
             Logger.Log("Stay up to date with newest development and features by");
             Logger.Log("- following me on Twitter (@EluciusFTW)");
             Logger.Log("- visiting the GitHub page (https://github.com/EluciusFTW/RunItOnceParser)");
         }
 
-        private static void GenerateReport(string path, ReportOptions options)
+        private static void GenerateReport(ReportOptions options)
         {
             var stopwatch = Stopwatch.StartNew();
             var sessions = new SessionLoader()
-                .Load(path, options.SessionType);
+                .Load(options.Path, options.SessionType);
             
             if (!sessions.Any())
             {
-                Logger.Paragraph($"Didn't find any hand history files in {path} of type {options.SessionType}.");
+                Logger.Paragraph($"Didn't find any hand history files in {options.Path} of type {options.SessionType}.");
                 return;
             }
 

@@ -1,6 +1,7 @@
 ﻿using RioParser.Domain.Logging;
 using RioParser.Domain.Reports.Models;
 using RioParser.Domain.Sessions;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 
@@ -19,9 +20,22 @@ namespace RioParser.Domain.Reports.Sng
 
         public IReadOnlyCollection<IReport> Process(IReadOnlyCollection<SessionBase> sessions)
         {
+            if (string.IsNullOrEmpty(_reportOptions.Hero))
+            {
+                _logger.Log("The cub3d report only makes sense if you provide a hero. Please do.");
+                return Array.Empty<IReport>();
+            }
+
             var sngSessions = sessions
                 .Cast<SngSession>()
+                .Where(session => session.Hands.First().Players.Contains(_reportOptions.Hero))
                 .ToList();
+
+            if (!sngSessions.Any())
+            {
+                _logger.Paragraph($"No Sng tourneys found where {_reportOptions.Hero} played.");
+                return Array.Empty<IReport>();
+            }
 
             return new[] { new SngReport(_reportOptions.Hero, sngSessions) };
         }

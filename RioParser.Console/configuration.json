@@ -1,12 +1,12 @@
 {
   // Full path to folder where hand histories are, e.g., "C:\Poker\MyHandHistories"
-  "path": "C:\\Poker\\MyHandHistories",
+  "path": "D:\\Temp\\Anonymized",
 
   // Valid game types: PLO, NLH
-  "GameType": "PLO",
+  "GameType": "NLH",
 
   // Valid report types:
   //  - Rake, Splash, RakeAndSplash (cash game)
   //  - Sng, Cubed (for tourneys)
-  "ReportType": "Rake"
+  "ReportType": "Cub3d"
 }

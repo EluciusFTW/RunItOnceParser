@@ -4,6 +4,7 @@ using RioParser.Domain.Extensions;
 using RioParser.Domain.Logging;
 using RioParser.Domain.Reports;
 using RioParser.Domain.Reports.Models;
+using System.IO;
 
 namespace RioParser.Console
 {
@@ -34,7 +35,7 @@ namespace RioParser.Console
                ? reportType
                : config["ReportType"].GetEnumValue<ReportType>();
 
-            var resolvedHero = !string.IsNullOrEmpty(path)
+            var resolvedHero = !string.IsNullOrEmpty(hero)
                 ? hero
                 : config["Hero"];
 
@@ -44,12 +45,18 @@ namespace RioParser.Console
                 return (false, null);
             }
 
+            if (!Directory.Exists(resolvedPath))
+            {
+                _logger.Paragraph($"The path {resolvedPath} does not exist. Please set a valid path.");
+                return (false, null);
+            }
+
             if (verbose)
             {
                 LogOptions(resolvedPath, resolvedHero, resolvedGameType, resolvedReportType);
             }
             
-            return (true, new ReportOptions(hero, gameType, reportType, verbose));
+            return (true, new ReportOptions(resolvedPath, resolvedHero, resolvedGameType, resolvedReportType, verbose));
         }
 
         private  void LogOptions(string resolvedPath, string resolvedHero, GameType resolvedGameType, ReportType resolvedReportType)

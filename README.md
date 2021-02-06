@@ -1,21 +1,43 @@
-# RunItOnceParser
-RunItOnceParser is a CLI tool to analyze hand histories from [Run It Once Poker ](https://www.runitonce.eu/).
+RunItOnceParser
+=====
+RunItOnceParser is a CLI tool to analyze hand histories from [Run It Once Poker](https://www.runitonce.eu/). 
 
 ## Usage
-Execute "RioParser.exe --help" to see all available options in the console.
 
-* --path: Path to the folder containing the hand history files to analyze (Required).
-* --hero: The screen name to be used as a reference. If none is given, only general statistics will be shown.
-* --Verbose: Set this flag to receive more output to the console. 
-* --game-type: Set filter for a specific game: PLO or NLH.
-* --report-type: Set report type: Rake, Splash, RakeAndSplash.
+Like you'd expect from a command line interface you can call the executable with several different parameters:
 
-Preview of the output of a RakeAndSplash report:
+* **path**: Path to the folder containing the hand history files to analyze (Required).
+* **hero**: The screen name to be used as a reference. If none is given, only general statistics will be shown.
+* **game-type**: Set filter for a specific game: PLO or NLH.
+* **report-type**: Set report type: Rake, Splash, RakeAndSplash.
+* **verbose**: Set this flag to receive more output to the console. 
+* **help**: Lists all available options and their valid values.
 
-![Screenshot of a report](./Sample/terminal-screenshot.png)
+```PS
+.\RioParser.exe --path "d:\some-folder" --hero Batman --game-type PLO --report-type Splash 
+````
+
+Alternatively, you can set standard values in the configuration.json. Options you set via flags take precedence, but if an option is not explicitly set via a flag, the ones from the config file will be used. This is what the configuration.json looks like:
+```javascript
+{
+  // Full path to folder where hand histories are, e.g., "C:\Poker\MyHandHistories"
+  "path": "C:\\Poker\\MyHandHistories",
+
+  // Valid game types: PLO, NLH
+  "GameType": "NLH",
+
+  // Valid report types:
+  //  - Rake, Splash, RakeAndSplash (cash game)
+  //  - Sng, Cubed (for tourneys)
+  "ReportType": "Cub3d"
+}
+````
+
+## Cash game reports
+Currently you can analyze your cash game hands with three different reports: *Rake*, *Splash* and *RakeAndSplash*. The reports will be generated for each stake separately, and only for the given game type.
 
 ### Exceptional Splashes
-In the screenshot above you see that an exceptional splash occurred in hand 44806911. This means that the hand had a splash of _more than 100BBs_. RunItOnce does not show the outcome of these exceptional splashes in the hand histories directly - you can only look at all hole cards, the board and then determine the winner by yourself. This is not yet possible in the tool. Here is the history for the above mentioned hand:
+There are exceptional splasehs, i.e., hands where the action is not on the players but instead the hand plays out randomly. These hands have different hand histories, and in particular they don't have the results computed (you can only look at the hole cards of all players, and the board, and deretmine it yourself). This is not yet possible in the tool, so instead the splash report will list you the hand identifiers of the exceptional splashes and you can look for yourself. For reference, here is an example of an exceptional splash hand (it is the one referenced in the screenshot of a *RakeAndSplash* report below):
 
 ````
 Run It Once Poker Hand #44806911:  Omaha Pot Limit (€0.10/€0.20) - 2020/05/13 21:33 UTC [2020/05/13 22:33 CET]
@@ -42,12 +64,22 @@ Seat 5: Stephanie M
 Seat 6: Ryder V 
 ````
 
-## Coming soon
-* -- Filter by handedness in Cash game (heads up, 3-handed, ... , 6-handed)
-* -- More report types: Cub3d, SnG.
+![Screenshot of a rake and splash report](./Sample/preview-rake-and-splash-report.png)
 
-## Prerequisites
-In order to build the project, you need to have the [NET5.0 SDK](https://dotnet.microsoft.com/download/dotnet/5.0) installed.
+## Tourneys
+So far RunItOnce offers two different formats of single table tournaments: Classic Sngs and Cub3d ones. 
+For both you can generate a similar report, using hte report-type **Sng** resp **Cub3d**.
+
+Here is a screenshot of a current cub3d report on a small test sample:
+
+![Screenshot of a rake and splash report](./Sample/preview-cub3d-report.png)
+
+## Coming soon
+* Filter by handedness in Cash game (heads up, 3-handed, ... , 6-handed)
+* Incorporating tourney summaries and results for Cub3d and SnG reports.
 
 ## Contribute
 All contributions are welcome!
+### Prerequisites
+In order to build the project, you need to have the [NET5.0 SDK](https://dotnet.microsoft.com/download/dotnet/5.0) installed.
+

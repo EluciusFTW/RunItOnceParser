@@ -8,13 +8,15 @@ namespace RioParser.Domain.Reports.Models
     {
         public GameType GameType { get; }
         public bool Verbose { get; }
+        public string Path { get; }
         public PerStakeReportTypes[] ReportTypes { get; private set; }
         public string Hero { get; }
         public bool IsPerStakeReport => ReportTypes.Any();
         public SessionType SessionType { get;  }
         
-        public ReportOptions(string hero, GameType gameType, ReportType reportType, bool verbose)
+        public ReportOptions(string path, string hero, GameType gameType, ReportType reportType, bool verbose)
         {
+            Path = path;
             Hero = hero;
             GameType = gameType;
             Verbose = verbose;
