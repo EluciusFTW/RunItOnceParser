@@ -1,4 +1,6 @@
-﻿using System.Diagnostics;
+﻿using System;
+using System.Diagnostics;
+using System.IO;
 using System.Linq;
 using RioParser.Domain;
 using RioParser.Domain.Reports;
@@ -23,17 +25,25 @@ namespace RioParser.Console
             GameType gameType = GameType.PLO,
             ReportType reportType = ReportType.Cub3d)
         {
+          
             ConsoleLogger.SetVerbosity(verbose);
+
+
             LogApplicationStart(path, hero, reportType, gameType, verbose);
-            
+            var options = ResolveReportOptions(path, hero, reportType, gameType, verbose);
+
+            GenerateReport(path, options);
+        }
+
+        private static ReportOptions ResolveReportOptions(string path, string hero, ReportType reportType, GameType gameType, bool verbose)
+        {
+            var options = new ReportOptions(hero, gameType, reportType);
             if (string.IsNullOrEmpty(path))
             {
                 Logger.Paragraph($"A path is required, please provide it via \"--{nameof(path)} <path to hand history folder>\".");
-                return;
+                Environment.Exit(0);
             }
-            var options = new ReportOptions(hero, gameType, reportType);
-
-            GenerateReport(path, options);
+            return options;
         }
 
         private static void LogApplicationStart(string path, string hero, ReportType reportType, GameType gameType, bool verbose)
@@ -53,6 +63,14 @@ namespace RioParser.Console
                 Logger.Log("- Hero name:               " + hero);
                 Logger.Log("- Hand history files path: " + path);
             }
+
+            // Logger.Log($"Base Path: {GetBasePath()}");
+        }
+
+        private static string GetBasePath()
+        {
+            using var processModule = Process.GetCurrentProcess().MainModule;
+            return Path.GetDirectoryName(processModule?.FileName);
         }
 
         private static void GenerateReport(string path, ReportOptions options)

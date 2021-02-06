@@ -7,6 +7,15 @@
     <AssemblyVersion>0.1.0.0</AssemblyVersion>
     <FileVersion>0.1.0.0</FileVersion>
     <Authors>Guy Buss (@EluciusFTW)</Authors>
+    <Configuration>Release</Configuration>
+    <Platform>Any CPU</Platform>
+    <PublishDir>bin\publish</PublishDir>
+    <PublishProtocol>FileSystem</PublishProtocol>
+    <RuntimeIdentifier>win-x64</RuntimeIdentifier>
+    <SelfContained>True</SelfContained>
+    <PublishSingleFile>True</PublishSingleFile>
+    <PublishTrimmed>False</PublishTrimmed>
+    <IncludeNativeLibrariesForSelfExtract>True</IncludeNativeLibrariesForSelfExtract>
   </PropertyGroup>
 
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
@@ -33,6 +42,14 @@
 
   <ItemGroup>
     <ProjectReference Include="..\RioParser.Domain\RioParser.Domain.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Update="configuration.json">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <CopyToPublishDirectory>Always</CopyToPublishDirectory>
+      <ExcludeFromSingleFile>true</ExcludeFromSingleFile>
+    </None>
   </ItemGroup>
 
 </Project>
