@@ -16,8 +16,11 @@ namespace RioParser.Domain.Reports.CashGame
 
         public StakeReportBase(string hero, IReadOnlyCollection<CashGameHand> hands)
         {
-            var bigBlinds = hands.GroupBy(hand => hand.BigBlind);
-            if (bigBlinds.Count() != 1)
+            var bigBlinds = hands
+                .GroupBy(hand => hand.BigBlind)
+                .ToList();
+            
+            if (bigBlinds.Count != 1)
             {
                 throw new ArgumentException("A stake report can only contain hands of one stake!");
             }

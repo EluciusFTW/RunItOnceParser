@@ -1,8 +1,8 @@
-﻿using RioParser.Domain.Reports.CashGame;
+﻿using System.Linq;
+using RioParser.Domain.Reports.CashGame;
 using RioParser.Domain.Sessions;
-using System.Linq;
 
-namespace RioParser.Domain.Reports.Models
+namespace RioParser.Domain.Reports
 {
     public class ReportOptions
     {

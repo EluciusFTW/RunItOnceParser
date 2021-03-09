@@ -42,15 +42,16 @@ namespace RioParser.Domain.Reports.Sng
                 .AppendLine($"Longest tourney:      {longest,3} Hands")
                 .AppendLine($"Shortest won tourney: {shortest,3} Hands")
                 .AppendLine()
-                .AppendLine($"Total Buyins:         {_sessions.Sum(session => session.Hands.First().EntryFee),8:F2}€")
+                .AppendLine($"Total Buy-ins:         {_sessions.Sum(session => session.Hands.First().EntryFee),8:F2}€")
                 .AppendLine($"Total Rake:           {_sessions.Sum(session => session.Hands.First().Rake),8:F2}€")
                 .AppendLine()
-                .AppendLine($"Buyin distribution: ");
+                .AppendLine("Buy-in distribution: ");
 
             var groupedByEntryFee = _sessions
                 .GroupBy(session => session.Hands.First().EntryFee)
                 .Select(group => new { group.Key, Nr = group.Count() })
-                .OrderByDescending(entryFeeGroup => entryFeeGroup.Key);
+                .OrderByDescending(entryFeeGroup => entryFeeGroup.Key)
+                .ToList();
 
             var maxFeeLength = groupedByEntryFee.First().Key.ToString().Length;
             groupedByEntryFee
@@ -61,7 +62,7 @@ namespace RioParser.Domain.Reports.Sng
 
             builder
                 .AppendLine()
-                .AppendLine($"Position distribution: ");
+                .AppendLine("Position distribution: ");
 
             _sessions
                 .Select(HeroPosition)

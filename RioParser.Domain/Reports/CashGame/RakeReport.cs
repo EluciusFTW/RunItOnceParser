@@ -14,7 +14,7 @@ namespace RioParser.Domain.Reports.CashGame
         public RakeReport(string hero, IReadOnlyCollection<CashGameHand> hands)
             : base(hero, hands)
         {
-            hands.ForEach(hands => ParseHand(hero, hands));
+            hands.ForEach(hand => ParseHand(hero, hand));
             _relativeHeroRake = _heroRake * _factor;
         }
 

@@ -3,7 +3,6 @@ using System.Collections.Generic;
 using System.Linq;
 using RioParser.Domain.Logging;
 using RioParser.Domain.Extensions;
-using RioParser.Domain.Reports.Models;
 using RioParser.Domain.Sessions;
 
 namespace RioParser.Domain.Reports.CashGame
@@ -41,15 +40,16 @@ namespace RioParser.Domain.Reports.CashGame
                 .ToList();
         }
 
-        private IReadOnlyCollection<CashGameSession> Filter(IReadOnlyCollection<SessionBase> sessions)
+        private IReadOnlyCollection<CashGameSession> Filter(IEnumerable<SessionBase> sessions)
         {
             var (ofCorrectGameType, ofWrongGameType) = sessions
                 .Cast<CashGameSession>()
+                .ToList()
                 .Split(file => file.Hands.First().Game == _reportOptions.GameType);
 
             if (ofWrongGameType.Any())
             {
-                _logger.Log($"Ignoring {ofWrongGameType.Count()} files because of different game type.");
+                _logger.Log($"Ignoring {ofWrongGameType.Count} files because of different game type.");
             }
 
             return ofCorrectGameType.ToList();

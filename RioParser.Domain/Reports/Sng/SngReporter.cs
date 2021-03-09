@@ -1,5 +1,4 @@
 ﻿using RioParser.Domain.Logging;
-using RioParser.Domain.Reports.Models;
 using RioParser.Domain.Sessions;
 using System;
 using System.Collections.Generic;
@@ -9,8 +8,8 @@ namespace RioParser.Domain.Reports.Sng
 {
     public class SngReporter : IReporter
     {
-        private ReportOptions _reportOptions;
-        private ILogger _logger;
+        private readonly ReportOptions _reportOptions;
+        private readonly ILogger _logger;
 
         public SngReporter(ReportOptions reportOptions, ILogger logger)
         {
@@ -31,13 +30,13 @@ namespace RioParser.Domain.Reports.Sng
                 .Where(session => session.Hands.First().Players.Contains(_reportOptions.Hero))
                 .ToList();
 
-            if (!sngSessions.Any())
+            if (sngSessions.Any())
             {
-                _logger.Paragraph($"No Sng tourneys found where {_reportOptions.Hero} played.");
-                return Array.Empty<IReport>();
+                return new[] {new SngReport(_reportOptions.Hero, sngSessions)};
             }
-
-            return new[] { new SngReport(_reportOptions.Hero, sngSessions) };
+            
+            _logger.Paragraph($"No Sng tourneys found where {_reportOptions.Hero} played.");
+            return Array.Empty<IReport>();
         }
     }
 }

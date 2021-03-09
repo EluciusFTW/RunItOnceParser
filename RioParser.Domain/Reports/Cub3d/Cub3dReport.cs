@@ -1,11 +1,10 @@
-﻿using RioParser.Domain.Extensions;
-using RioParser.Domain.Sessions;
-using System;
-using System.Collections.Generic;
+﻿using System.Collections.Generic;
 using System.Linq;
 using System.Text;
+using RioParser.Domain.Extensions;
+using RioParser.Domain.Sessions;
 
-namespace RioParser.Domain.Reports.SitAndGo
+namespace RioParser.Domain.Reports.Cub3d
 {
     public class Cub3dReport : IReport
     {
