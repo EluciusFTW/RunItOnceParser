@@ -9,12 +9,12 @@ namespace RioParser.Domain.Hands
         private const string ShowDownMarker = "*** SHOWDOWN ***";
         private const string ActionMarker = "*** HOLE CARDS ***";
         private const string SummaryMarker = "*** SUMMARY ***";
-
-        protected const string HeaderSeparator = "Table ID '";
-
+        
         protected const string PLOIndicator = "Omaha Pot Limit";
         protected const string NLHIndicator = "Hold'em No Limit";
-        protected const string CubedIndicator = "Cub3d";
+        
+        private const string CubedIndicator = "Cub3d";
+        private const string HeaderSeparator = "Table ID '";
 
         protected readonly string _header;
         protected readonly string _intro;
@@ -38,7 +38,7 @@ namespace RioParser.Domain.Hands
             .Select(line => line.BetweenSingle(": ", " ("))
             .ToList();
         
-        public string Winner => new string(_summary
+        public string Winner => new(_summary
             .LineContaining(" won ")
             .AfterFirst(":")
             .BeforeAny(new[] { "(", "showed", "mucked" })

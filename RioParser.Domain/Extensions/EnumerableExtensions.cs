@@ -23,7 +23,7 @@ namespace RioParser.Domain.Extensions
             => source
                 .Select((item, index) => (item, index));
 
-        public static (IEnumerable<T>, IEnumerable<T>) Split<T>(this IEnumerable<T> source, Func<T, bool> condition)
-            => (source.Where(element => condition(element)), source.Where(element => !condition(element)));
+        public static (IReadOnlyCollection<T>, IReadOnlyCollection<T>) Split<T>(this IReadOnlyCollection<T> source, Func<T, bool> condition)
+            => (source.Where(condition).ToList(), source.Where(element => !condition(element)).ToList());
     }
 }

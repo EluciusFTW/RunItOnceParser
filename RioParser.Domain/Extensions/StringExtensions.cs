@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 using System.Globalization;
 using System.Linq;
 using System.Text.RegularExpressions;
@@ -13,7 +14,7 @@ namespace RioParser.Domain.Extensions
         public static string Before(this string subject, string end)
             => subject.Split(end)[0].Trim();
 
-        public static string BeforeAny(this string subject, string[] ends)
+        public static string BeforeAny(this string subject, IEnumerable<string> ends)
         {
             var piece = subject;
             ends.ForEach(end => piece = piece.Split(end)[0]);
@@ -30,11 +31,12 @@ namespace RioParser.Domain.Extensions
         public static string AfterSingleOrDefault(this string subject, string marker)
         {
             var parts = subject.Split(marker);
-            return parts.Length == 2
-                ? subject.Split(marker)[1].Trim()
-                : parts.Length == 1 
-                    ? null
-                    : throw new ArgumentException($"The marker string \"{marker}\" is contained {parts.Length - 1} times in \"{subject}\", but is expected to be contained at most once.");
+            return parts.Length switch
+            {
+                2 => subject.Split(marker)[1].Trim(),
+                1 => null,
+                _ => throw new ArgumentException($"The marker string \"{marker}\" is contained {parts.Length - 1} times in \"{subject}\", but is expected to be contained at most once.")
+            };
         }
 
 
@@ -74,16 +76,18 @@ namespace RioParser.Domain.Extensions
                 throw new Exception("T must be an Enumeration type.");
             }
 
-            T val = ((T[])Enum.GetValues(typeof(T)))[0];
-            if (!string.IsNullOrEmpty(str))
+            var val = ((T[])Enum.GetValues(typeof(T)))[0];
+            if (string.IsNullOrEmpty(str))
             {
-                foreach (T enumValue in (T[])Enum.GetValues(typeof(T)))
+                return val;
+            }
+            
+            foreach (var enumValue in (T[])Enum.GetValues(typeof(T)))
+            {
+                if (enumValue.ToString().ToUpper().Equals(str.ToUpper()))
                 {
-                    if (enumValue.ToString().ToUpper().Equals(str.ToUpper()))
-                    {
-                        val = enumValue;
-                        break;
-                    }
+                    val = enumValue;
+                    break;
                 }
             }
 
