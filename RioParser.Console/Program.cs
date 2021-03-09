@@ -3,7 +3,6 @@ using System.Diagnostics;
 using System.Linq;
 using RioParser.Domain;
 using RioParser.Domain.Reports;
-using RioParser.Domain.Reports.Models;
 using RioParser.Domain.Sessions;
 
 namespace RioParser.Console
@@ -25,7 +24,7 @@ namespace RioParser.Console
             ReportType reportType = ReportType.Unknown)
         {
             ConsoleLogger.SetVerbosity(verbose);
-            LogApplicationStart(path, hero, reportType, gameType, verbose);
+            LogApplicationStart();
             
             var (configSuccess, options) = new ReportOptionsBuilder(Logger)
                 .Build(path, hero, reportType, gameType, verbose);
@@ -38,7 +37,7 @@ namespace RioParser.Console
             GenerateReport(options);
         }
 
-        private static void LogApplicationStart(string path, string hero, ReportType reportType, GameType gameType, bool verbose)
+        private static void LogApplicationStart()
         {
             Logger.Chapter("RioParser: Analyze your hand histories played on Run It Once Poker!");
 
@@ -68,7 +67,7 @@ namespace RioParser.Console
 
             if (reports.Any())
             {
-                Logger.Paragraph($"Writing out reports.");
+                Logger.Paragraph("Writing out reports.");
                 Logger.LogAlternating(reports.SelectMany(report => report.PrintOut()));
                 Logger.Paragraph($"Finished reports after {stopwatch.Elapsed} seconds.");
             }

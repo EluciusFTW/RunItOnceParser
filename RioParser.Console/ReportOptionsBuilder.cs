@@ -3,14 +3,13 @@ using RioParser.Domain;
 using RioParser.Domain.Extensions;
 using RioParser.Domain.Logging;
 using RioParser.Domain.Reports;
-using RioParser.Domain.Reports.Models;
 using System.IO;
 
 namespace RioParser.Console
 {
     internal class ReportOptionsBuilder
     {
-        private ILogger _logger;
+        private readonly ILogger _logger;
 
         internal ReportOptionsBuilder(ILogger logger)
         {
@@ -20,7 +19,7 @@ namespace RioParser.Console
         public (bool, ReportOptions) Build(string path, string hero, ReportType reportType, GameType gameType, bool verbose)
         {
             var config = new ConfigurationBuilder()
-                .AddJsonFile($"configuration.json", true, true)
+                .AddJsonFile("configuration.json", true, true)
                 .Build();
 
             var resolvedPath = !string.IsNullOrEmpty(path)
