@@ -21,7 +21,7 @@ namespace RioParser.Domain.Sessions
                 _ => Sessions.SessionType.Cash
             };
 
-        protected IReadOnlyCollection<string> Chunks
+        protected IEnumerable<string> Chunks
             => _content
                 .Split(Separator)
                 .ToList();

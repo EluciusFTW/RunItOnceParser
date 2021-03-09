@@ -8,10 +8,9 @@ namespace RioParser.Domain.Sessions
     {
         private IReadOnlyCollection<CashGameHand> _hands;
         public IReadOnlyCollection<CashGameHand> Hands
-            => _hands
-                ?? (_hands = Chunks
-                    .Select(chunk => new CashGameHand(chunk))
-                    .ToList());
+            => _hands ??= Chunks
+                .Select(chunk => new CashGameHand(chunk))
+                .ToList();
 
         public CashGameSession(string name, string content)
             : base(name, content)

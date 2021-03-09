@@ -8,8 +8,8 @@ namespace RioParser.Domain.Sessions
 {
     public class SessionLoader
     {
-        private readonly Regex _handHistoryRegex = new Regex("([0-9]*)_([0-9]*)");
-        private readonly string _handHistoryExtension = ".txt";
+        private readonly Regex _handHistoryRegex = new("([0-9]*)_([0-9]*)");
+        private const string HandHistoryExtension = ".txt";
 
         public IReadOnlyCollection<SessionBase> Load(string path, SessionType type)
             => new DirectoryInfo(path)
@@ -26,7 +26,7 @@ namespace RioParser.Domain.Sessions
 
         private bool MatchesHandHistoryFileFormat(FileInfo fileInfo)
         {
-            var extensionFits = fileInfo.Extension == _handHistoryExtension;
+            var extensionFits = fileInfo.Extension == HandHistoryExtension;
             var nameSchemeFits = _handHistoryRegex
                 .Match(fileInfo.Name)
                 .Success;

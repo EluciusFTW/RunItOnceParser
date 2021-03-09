@@ -9,10 +9,9 @@ namespace RioParser.Domain.Sessions
     {
         private IReadOnlyCollection<TourneyHand> _hands;
         public IReadOnlyCollection<TourneyHand> Hands
-            => _hands
-                ?? (_hands = Chunks
-                    .Select(chunk => new TourneyHand(chunk))
-                    .ToList());
+            => _hands ??= Chunks
+                .Select(chunk => new TourneyHand(chunk))
+                .ToList();
 
         public string Identifier
             => Headline
