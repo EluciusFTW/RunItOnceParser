@@ -1,9 +1,10 @@
-﻿using System.Collections.Generic;
+﻿using RioParser.Domain.Reports.Artefact;
+using System.Collections.Generic;
 
 namespace RioParser.Domain.Reports
 {
     public interface IReport
     {
-        public IEnumerable<string> PrintOut();
+        public IEnumerable<IReportArtefact> Artefacts();
     }
 }

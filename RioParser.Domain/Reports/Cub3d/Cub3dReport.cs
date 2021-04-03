@@ -2,6 +2,7 @@
 using System.Linq;
 using System.Text;
 using RioParser.Domain.Extensions;
+using RioParser.Domain.Reports.Artefact;
 using RioParser.Domain.Sessions;
 
 namespace RioParser.Domain.Reports.Cub3d
@@ -72,6 +73,11 @@ namespace RioParser.Domain.Reports.Cub3d
                     => builder.AppendLine($"{positionData.Position}. Place   -{positionData.Occurences,6} times   -   {(double)positionData.Occurences / totalNumber:P2}%"));
 
             return builder.ToString();
+        }
+
+        public IEnumerable<IReportArtefact> Artefacts()
+        {
+            throw new System.NotImplementedException();
         }
     }
 }

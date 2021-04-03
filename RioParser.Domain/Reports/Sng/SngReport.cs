@@ -74,5 +74,10 @@ namespace RioParser.Domain.Reports.Sng
 
             return builder.ToString();
         }
+
+        public IEnumerable<Artefact.IReportArtefact> Artefacts()
+        {
+            throw new System.NotImplementedException();
+        }
     }
 }

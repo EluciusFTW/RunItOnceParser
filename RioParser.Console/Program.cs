@@ -9,7 +9,7 @@ namespace RioParser.Console
 {
     class Program
     {
-        private static readonly ConsoleLogger Logger = new();
+        private static readonly SpectreLogger Logger = new();
 
         /// <param name="path">Required: Path of folder where the hand histories can be found.</param>
         /// <param name="gameType">Game type to analyze. Valid values: PLO, NLH</param>
@@ -39,11 +39,14 @@ namespace RioParser.Console
 
         private static void LogApplicationStart()
         {
-            Logger.Chapter("RioParser: Analyze your hand histories played on Run It Once Poker!");
-
-            Logger.Log("Stay up to date with newest development and features by");
-            Logger.Log("- following me on Twitter (@EluciusFTW)");
-            Logger.Log("- visiting the GitHub page (https://github.com/EluciusFTW/RunItOnceParser)");
+            var title = "RioParser: Analyze your hand histories played on Run It Once Poker!";
+            var contents = new[]
+            {
+                "Stay up to date with newest development and features by",
+                "- following me on Twitter (@EluciusFTW)",
+                "- visiting the GitHub page (https://github.com/EluciusFTW/RunItOnceParser)"
+            };
+            Logger.LogGroup(title, contents);
         }
 
         private static void GenerateReport(ReportOptions options)
@@ -63,12 +66,13 @@ namespace RioParser.Console
                 .Create(options)
                 .Process(sessions);
             
-            Logger.Paragraph($"Finished processing {sessions.Count} hand history files after {stopwatch.Elapsed} seconds.");
+            Logger.Log($"Finished processing {sessions.Count} hand history files after {stopwatch.Elapsed} seconds.");
 
             if (reports.Any())
             {
-                Logger.Paragraph("Writing out reports.");
-                Logger.LogAlternating(reports.SelectMany(report => report.PrintOut()));
+                var artefacts = reports.SelectMany(report => report.Artefacts());
+                Logger.LogArtefacts(artefacts);
+
                 Logger.Paragraph($"Finished reports after {stopwatch.Elapsed} seconds.");
             }
         }

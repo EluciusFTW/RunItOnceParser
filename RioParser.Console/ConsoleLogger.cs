@@ -4,6 +4,8 @@ using System.Drawing;
 using Pastel;
 using RioParser.Domain.Extensions;
 using RioParser.Domain.Logging;
+using RioParser.Domain.Reports.Artefact;
+
 
 namespace RioParser.Console
 {
@@ -52,6 +54,7 @@ namespace RioParser.Console
         internal void LogAlternating(IEnumerable<string> messages) 
             => messages.ForEach((message, index) => Log(message, GetAlternatingColor(index)));
 
+        
         private static void Log(string message, Color color)
         {
             _paragraphBeginning = false;

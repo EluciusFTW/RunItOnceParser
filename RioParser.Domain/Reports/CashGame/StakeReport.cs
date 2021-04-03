@@ -4,6 +4,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System;
+using RioParser.Domain.Reports.Artefact;
 
 namespace RioParser.Domain.Reports.CashGame
 {
@@ -24,13 +25,20 @@ namespace RioParser.Domain.Reports.CashGame
                 .ToList();
         }
 
-        public IEnumerable<string> PrintOut()
+        public IEnumerable<IReportArtefact> Artefacts()
         {
-            var builder = new StringBuilder();
-            _reports.First().AppendStakeReport(builder);
-            _reports.ForEach(report => report.AppendReport(builder));
+            var item = new Item(_reports.First().StakeSummary());
 
-            return new[] { builder.ToString() };
+            return new[] {item}.Concat(_reports.SelectMany(r => r.Artifacts()));
         }
+
+        //public IEnumerable<string> PrintOut()
+        //{
+        //    var builder = new StringBuilder();
+        //    _reports.First().StakeSummary();
+        //    _reports.ForEach(report => report.AppendReport(builder));
+
+        //    return new[] { builder.ToString() };
+        //}
     }
 }
