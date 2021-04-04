@@ -24,6 +24,10 @@ namespace RioParser.Domain.Reports
             return this;
         }
 
-        public IEnumerable<IReportArtefact> Artefacts() => _artefacts.AsEnumerable();
+        public GenericReport Add(string content) 
+            => AddArtefact(new SimpleArtefact(content));
+
+        public IEnumerable<IReportArtefact> Artefacts() 
+            => _artefacts.AsEnumerable();
     }
 }

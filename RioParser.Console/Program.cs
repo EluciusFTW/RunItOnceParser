@@ -63,7 +63,7 @@ namespace RioParser.Console
             }
 
             Logger.Paragraph($"Loaded {sessions.Count} hand history files to memory in {stopwatch.Elapsed} seconds.");
-            var reports = new ReporterFactory(Logger)
+            var reports = ReporterFactory
                 .Create(options)
                 .Process(sessions);
             
