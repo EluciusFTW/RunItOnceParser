@@ -66,12 +66,40 @@ namespace RioParser.Console.Logging
                     AnsiConsole.Render(ToBarChart(list));
                     break;
                 case SimpleArtefact item:
-                    NewLine();
-                    Lined(item.Value, "deepskyblue1");
+                    LogSimple(item);
                     break;
                 case GroupArtefact: return;
                 case CollectionArtefact: return;
                 default: throw new NotSupportedException();
+            }
+        }
+
+        private void LogSimple(SimpleArtefact item)
+        {
+            switch (item.Level)
+            {
+                case ArtefactLevel.Heading:
+                    {
+                        NewLine();
+                        Lined(item.Value, "deepskyblue1");
+                        break;
+                    }
+                case ArtefactLevel.Info:
+                    {
+                        Log(item.Value);
+                        break;
+                    }
+                case ArtefactLevel.Warning:
+                    {
+                        Log(item.Value, "darkorange3_1");
+                        break;
+                    }
+                case ArtefactLevel.Error:
+                    {
+                        Log(item.Value, "red");
+                        break;
+                    }
+                default: throw new NotImplementedException();
             }
         }
 
