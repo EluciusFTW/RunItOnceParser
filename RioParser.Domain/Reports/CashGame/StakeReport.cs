@@ -24,7 +24,7 @@ namespace RioParser.Domain.Reports.CashGame
         }
 
         public IEnumerable<IReportArtefact> Artefacts() 
-            => new[] { new SimpleArtefact(_reports.First().StakeSummary()) }
+            => new[] { new SimpleArtefact(_reports.First().StakeSummary(), ArtefactLevel.Heading) }
                 .Concat(_reports.SelectMany(report => report.Artifacts()));
     }
 }

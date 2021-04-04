@@ -23,13 +23,17 @@ namespace RioParser.Domain.Reports.CashGame
             var filteredSessions = Filter(sessions, processingReport);
             if (!filteredSessions.Any())
             {
-                return new[] { processingReport.AddArtefact(new SimpleArtefact($"No files left to process.")) };
+                return new[] 
+                { 
+                    processingReport
+                        .AddArtefact(new SimpleArtefact($"No files left to process.", ArtefactLevel.Warning)) 
+                };
             }
 
             var hands = filteredSessions
                 .SelectMany(file =>
                 {
-                    processingReport.AddArtefact(new SimpleArtefact($"Processing {file.Name} containing {file.Hands.Count} hands."));
+                    processingReport.Add($"Processing {file.Name} containing {file.Hands.Count} hands.");
                     return file.Hands;
                 })
                 .ToList();
@@ -50,7 +54,8 @@ namespace RioParser.Domain.Reports.CashGame
 
             if (ofWrongGameType.Any())
             {
-                processingReport.AddArtefact(new SimpleArtefact($"Ignoring {ofWrongGameType.Count} files because of different game type."));
+                processingReport.AddArtefact(
+                    new SimpleArtefact($"Ignoring {ofWrongGameType.Count} files because of different game type.", ArtefactLevel.Warning));
             }
 
             return ofCorrectGameType.ToList();

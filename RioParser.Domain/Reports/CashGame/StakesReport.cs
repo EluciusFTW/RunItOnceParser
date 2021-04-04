@@ -1,5 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
+﻿using System.Collections.Generic;
 using System.Linq;
 using RioParser.Domain.Artefact;
 using RioParser.Domain.Hands;
@@ -20,8 +19,5 @@ namespace RioParser.Domain.Reports.CashGame
 
         public IEnumerable<IReportArtefact> Artefacts()
             => _stakeReports.SelectMany(report => report.Artefacts());
-
-        public IEnumerable<string> PrintOut()
-            => _stakeReports.Select(report => string.Join(Environment.NewLine, report.Artefacts()));
     }
 }
