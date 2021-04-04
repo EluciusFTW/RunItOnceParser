@@ -19,7 +19,7 @@ namespace RioParser.Domain.Reports
         public IReporter Create(ReportOptions reportOptions) 
             => reportOptions switch
             {
-                { IsPerStakeReport: true } => new CashGameReporter<StakesReport>(reportOptions, _logger),
+                { IsPerStakeReport: true } => new CashGameReporter<StakesReport>(reportOptions),
                 { SessionType: SessionType.Cub3d } => new Cub3dReporter(reportOptions, _logger),
                 { SessionType: SessionType.Sng } => new SngReporter(reportOptions, _logger),
                 _ => throw new NotImplementedException()

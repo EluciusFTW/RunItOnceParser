@@ -4,43 +4,44 @@ using System.Linq;
 using RioParser.Domain.Logging;
 using RioParser.Domain.Extensions;
 using RioParser.Domain.Sessions;
+using RioParser.Domain.Artefact;
 
 namespace RioParser.Domain.Reports.CashGame
 {
     internal class CashGameReporter<TReport> : IReporter where TReport : IReport
     {
-        private readonly ILogger _logger;
         private readonly ReportOptions _reportOptions;
 
-        public CashGameReporter(ReportOptions reportOptions, ILogger logger)
+        public CashGameReporter(ReportOptions reportOptions)
         {
             _reportOptions = reportOptions;
-            _logger = logger;
         }
 
         public IReadOnlyCollection<IReport> Process(IReadOnlyCollection<SessionBase> sessions)
         {
-            var filteredSessions = Filter(sessions);
+            var processingReport = new GenericReport();
+            var filteredSessions = Filter(sessions, processingReport);
             if (!filteredSessions.Any())
             {
-                _logger.Log($"No files left to process.");
-                return Array.Empty<IReport>();
+                return new[] { processingReport.AddArtefact(new SimpleArtefact($"No files left to process.")) };
             }
 
             var hands = filteredSessions
                 .SelectMany(file =>
                 {
-                    _logger.Verbose($"Processing {file.Name} containing {file.Hands.Count} hands.");
+                    processingReport.AddArtefact(new SimpleArtefact($"Processing {file.Name} containing {file.Hands.Count} hands."));
                     return file.Hands;
                 })
                 .ToList();
 
-            return new[] { (TReport)Activator.CreateInstance(typeof(TReport), _reportOptions, hands) }
-                .Cast<IReport>()
-                .ToList();
+            return new IReport[]
+                {
+                    processingReport,
+                    (TReport)Activator.CreateInstance(typeof(TReport), _reportOptions, hands)
+                };
         }
 
-        private IReadOnlyCollection<CashGameSession> Filter(IEnumerable<SessionBase> sessions)
+        private IReadOnlyCollection<CashGameSession> Filter(IEnumerable<SessionBase> sessions, GenericReport processingReport)
         {
             var (ofCorrectGameType, ofWrongGameType) = sessions
                 .Cast<CashGameSession>()
@@ -49,7 +50,7 @@ namespace RioParser.Domain.Reports.CashGame
 
             if (ofWrongGameType.Any())
             {
-                _logger.Log($"Ignoring {ofWrongGameType.Count} files because of different game type.");
+                processingReport.AddArtefact(new SimpleArtefact($"Ignoring {ofWrongGameType.Count} files because of different game type."));
             }
 
             return ofCorrectGameType.ToList();

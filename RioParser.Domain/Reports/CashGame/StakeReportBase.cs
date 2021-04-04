@@ -3,7 +3,6 @@ using RioParser.Domain.Hands;
 using System;
 using System.Collections.Generic;
 using System.Linq;
-using System.Text;
 
 namespace RioParser.Domain.Reports.CashGame
 {
