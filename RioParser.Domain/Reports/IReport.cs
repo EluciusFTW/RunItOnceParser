@@ -1,4 +1,4 @@
-﻿using RioParser.Domain.Reports.Artefact;
+﻿using RioParser.Domain.Artefact;
 using System.Collections.Generic;
 
 namespace RioParser.Domain.Reports

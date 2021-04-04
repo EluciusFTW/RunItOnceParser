@@ -1,16 +1,21 @@
 ﻿using System;
 using Spectre.Console;
-using RioParser.Domain.Reports.Artefact;
 using System.Collections.Generic;
 using RioParser.Domain.Extensions;
 using RioParser.Domain.Logging;
 using Spectre.Console.Rendering;
 using System.Linq;
+using RioParser.Domain.Artefact;
 
-namespace RioParser.Console
+namespace RioParser.Console.Logging
 {
     internal class SpectreLogger : ILogger
     {
+        public SpectreLogger()
+        {
+            System.Console.OutputEncoding = System.Text.Encoding.UTF8;
+        }
+
         public void Chapter(string line)
         {
             Lined("", "yellow");
@@ -54,23 +59,23 @@ namespace RioParser.Console
         {
             switch (artefact)
             {
-                case Domain.Reports.Artefact.Table table:
+                case TableArtefact table:
                     AnsiConsole.Render(ToTable(table));
                     break;
-                case ValueList list:
+                case ValueCollectionArtefact list:
                     AnsiConsole.Render(ToBarChart(list));
                     break;
-                case Item item:
+                case SimpleArtefact item:
                     NewLine();
                     Lined(item.Value, "deepskyblue1");
                     break;
-                case Group: return;
-                case List: return;
+                case GroupArtefact: return;
+                case CollectionArtefact: return;
                 default: throw new NotSupportedException();
             }
         }
 
-        private static IRenderable ToBarChart(ValueList list)
+        private static IRenderable ToBarChart(ValueCollectionArtefact list)
         {
             var bar = new BarChart()
                 .Width(80)
@@ -79,9 +84,9 @@ namespace RioParser.Console
             return bar;
         }
 
-        private static IRenderable ToTable(Domain.Reports.Artefact.Table table)
+        private static IRenderable ToTable(TableArtefact table)
         {
-            var output = new Spectre.Console.Table();
+            var output = new Table();
 
             table.Headers.ForEach(header => output.AddColumn(header));
             output.Columns[0].Width(25);

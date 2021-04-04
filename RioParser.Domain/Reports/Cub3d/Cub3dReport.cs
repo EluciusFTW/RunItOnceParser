@@ -1,8 +1,8 @@
 ﻿using System.Collections.Generic;
 using System.Linq;
 using System.Text;
+using RioParser.Domain.Artefact;
 using RioParser.Domain.Extensions;
-using RioParser.Domain.Reports.Artefact;
 using RioParser.Domain.Sessions;
 
 namespace RioParser.Domain.Reports.Cub3d

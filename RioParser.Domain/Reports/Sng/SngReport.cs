@@ -1,4 +1,5 @@
-﻿using RioParser.Domain.Extensions;
+﻿using RioParser.Domain.Artefact;
+using RioParser.Domain.Extensions;
 using RioParser.Domain.Sessions;
 using System.Collections.Generic;
 using System.Linq;
@@ -75,7 +76,7 @@ namespace RioParser.Domain.Reports.Sng
             return builder.ToString();
         }
 
-        public IEnumerable<Artefact.IReportArtefact> Artefacts()
+        public IEnumerable<IReportArtefact> Artefacts()
         {
             throw new System.NotImplementedException();
         }

@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Diagnostics;
 using System.Linq;
+using RioParser.Console.Logging;
 using RioParser.Domain;
 using RioParser.Domain.Reports;
 using RioParser.Domain.Sessions;

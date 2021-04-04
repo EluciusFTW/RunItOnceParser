@@ -1,5 +1,5 @@
-﻿using RioParser.Domain.Hands;
-using RioParser.Domain.Reports.Artefact;
+﻿using RioParser.Domain.Artefact;
+using RioParser.Domain.Hands;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -38,6 +38,6 @@ namespace RioParser.Domain.Reports.CashGame
         public abstract IEnumerable<IReportArtefact> Artifacts();
 
         public string StakeSummary()
-            => $"Big Blind: {_bigBlind:F2} EUR - {_gameType} - Hands: {_hands}";
+            => $"Big Blind: {_bigBlind:F2}€ - {_gameType} - Hands: {_hands}";
     }
 }

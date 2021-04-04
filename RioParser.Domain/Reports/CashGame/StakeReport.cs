@@ -1,10 +1,8 @@
-﻿using RioParser.Domain.Extensions;
-using RioParser.Domain.Hands;
+﻿using RioParser.Domain.Hands;
 using System.Collections.Generic;
 using System.Linq;
-using System.Text;
 using System;
-using RioParser.Domain.Reports.Artefact;
+using RioParser.Domain.Artefact;
 
 namespace RioParser.Domain.Reports.CashGame
 {
@@ -25,20 +23,8 @@ namespace RioParser.Domain.Reports.CashGame
                 .ToList();
         }
 
-        public IEnumerable<IReportArtefact> Artefacts()
-        {
-            var item = new Item(_reports.First().StakeSummary());
-
-            return new[] {item}.Concat(_reports.SelectMany(r => r.Artifacts()));
-        }
-
-        //public IEnumerable<string> PrintOut()
-        //{
-        //    var builder = new StringBuilder();
-        //    _reports.First().StakeSummary();
-        //    _reports.ForEach(report => report.AppendReport(builder));
-
-        //    return new[] { builder.ToString() };
-        //}
+        public IEnumerable<IReportArtefact> Artefacts() 
+            => new[] { new SimpleArtefact(_reports.First().StakeSummary()) }
+                .Concat(_reports.SelectMany(report => report.Artifacts()));
     }
 }
