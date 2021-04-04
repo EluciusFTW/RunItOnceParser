@@ -20,11 +20,11 @@ namespace RioParser.Console
         static void Main(
             string hero,
             string path,
-            bool verbose = false,
+            bool verbose = true,
             GameType gameType = GameType.Unknown,
             ReportType reportType = ReportType.Unknown)
         {
-            ConsoleLogger.SetVerbosity(verbose);
+            Logger.SetVerbosity(verbose);
             LogApplicationStart();
             
             var (configSuccess, options) = new ReportOptionsBuilder(Logger)
@@ -47,7 +47,7 @@ namespace RioParser.Console
                 "- following me on Twitter (@EluciusFTW)",
                 "- visiting the GitHub page (https://github.com/EluciusFTW/RunItOnceParser)"
             };
-            Logger.LogGroup(title, contents);
+            Logger.LogTitle(title, contents);
         }
 
         private static void GenerateReport(ReportOptions options)

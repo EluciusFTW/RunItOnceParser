@@ -2,26 +2,34 @@
 using Spectre.Console;
 using System.Collections.Generic;
 using RioParser.Domain.Extensions;
-using RioParser.Domain.Logging;
 using Spectre.Console.Rendering;
 using System.Linq;
 using RioParser.Domain.Artefact;
 
 namespace RioParser.Console.Logging
 {
-    internal class SpectreLogger : ILogger
+    internal class SpectreLogger
     {
+        private const string MessageStyle = "cyan3";
+        private const string WarningStyle = "darkorange3_1";
+        private const string ErrorStyle = "red";
+        private const string ParagraphColor = "deepskyblue1";
+
+        private Color[] BarChartColors = new[]
+        {
+            new Color(215,155,215),
+            new Color(215,155,195),
+            new Color(215,155,175),
+            new Color(215,155,155),
+            new Color(215,155,135)
+        };
+
+        private bool _verbosity;
+        internal void SetVerbosity(bool verbosity) => _verbosity = verbosity;
+
         public SpectreLogger()
         {
             System.Console.OutputEncoding = System.Text.Encoding.UTF8;
-        }
-
-        public void Chapter(string line)
-        {
-            Lined("", "yellow");
-            Lined(line, "yellow on blue");
-            Lined("", "yellow");
-            NewLine();
         }
 
         private void Lined(string line, string style, Justify justify = Justify.Left)
@@ -33,29 +41,37 @@ namespace RioParser.Console.Logging
             AnsiConsole.Render(rule);
         }
 
-        public void Log(string message) => Log(message, "cyan3");
+        public void Log(string message) => Log(message, MessageStyle);
         public void Log(string message, string styles) => AnsiConsole.MarkupLine($"[{styles}]{message}[/]");
 
         public void Paragraph(string line)
         {
             NewLine();
-            Lined(line, "deepskyblue1");
+            Lined(line, ParagraphColor);
         }
 
         private static void NewLine() => AnsiConsole.WriteLine(string.Empty);
 
-        public void Verbose(string message) => Log(message);
-
         internal void LogArtefacts(IEnumerable<IReportArtefact> messages)
             => messages.ForEach(message => LogArtefact(message));
 
-        internal void LogGroup(string title, IEnumerable<string> lines)
+        internal void LogTitle(string title, IEnumerable<string> lines)
         {
-            Chapter(title);
+            AnsiConsole.Render(new Rule());
+            AnsiConsole.Render(new Rule());
+            AnsiConsole.Render(new Rule());
+            AnsiConsole.Render(
+                new FigletText("RioParser")
+                    .LeftAligned()
+                    .Color(Color.Yellow));
+            AnsiConsole.Render(new Rule());
+            AnsiConsole.Render(new Rule());
             lines.ForEach(line => Log(line, "yellow"));
+            AnsiConsole.Render(new Rule());
+            AnsiConsole.Render(new Rule());
         }
 
-        private void LogArtefact(IReportArtefact artefact)
+        internal void LogArtefact(IReportArtefact artefact)
         {
             switch (artefact)
             {
@@ -68,8 +84,11 @@ namespace RioParser.Console.Logging
                 case SimpleArtefact item:
                     LogSimple(item);
                     break;
-                case GroupArtefact: return;
-                case CollectionArtefact: return;
+                case GroupArtefact: break;
+                case CollectionArtefact item:
+                    Lined(item.Title, ParagraphColor);
+                    item.Items.ForEach(item => Log(item));
+                    break;
                 default: throw new NotSupportedException();
             }
         }
@@ -80,8 +99,7 @@ namespace RioParser.Console.Logging
             {
                 case ArtefactLevel.Heading:
                     {
-                        NewLine();
-                        Lined(item.Value, "deepskyblue1");
+                        Paragraph(item.Value);
                         break;
                     }
                 case ArtefactLevel.Info:
@@ -91,24 +109,25 @@ namespace RioParser.Console.Logging
                     }
                 case ArtefactLevel.Warning:
                     {
-                        Log(item.Value, "darkorange3_1");
+                        Log(item.Value, WarningStyle);
                         break;
                     }
                 case ArtefactLevel.Error:
                     {
-                        Log(item.Value, "red");
+                        Log(item.Value, ErrorStyle);
                         break;
                     }
                 default: throw new NotImplementedException();
             }
         }
 
-        private static IRenderable ToBarChart(ValueCollectionArtefact list)
+        private IRenderable ToBarChart(ValueCollectionArtefact list)
         {
             var bar = new BarChart()
                 .Width(80)
-                .Label($"[cyan3 bold]{list.Title}[/]");
-            list.Values.ForEach(line => bar.AddItem(line.Key, line.Value, Color.Aquamarine1));
+                .Label($"[{MessageStyle}]{list.Title}[/]");
+            list.Values
+                .ForEach((line, index) => bar.AddItem(line.Key, line.Value, BarChartColors[index % BarChartColors.Length]));
             return bar;
         }
 

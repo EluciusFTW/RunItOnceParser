@@ -1,7 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
-using RioParser.Domain.Logging;
 using RioParser.Domain.Extensions;
 using RioParser.Domain.Sessions;
 using RioParser.Domain.Artefact;
