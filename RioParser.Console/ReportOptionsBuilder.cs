@@ -1,7 +1,8 @@
 ﻿using Microsoft.Extensions.Configuration;
+using RioParser.Console.Logging;
 using RioParser.Domain;
+using RioParser.Domain.Artefact;
 using RioParser.Domain.Extensions;
-using RioParser.Domain.Logging;
 using RioParser.Domain.Reports;
 using System.IO;
 
@@ -9,9 +10,9 @@ namespace RioParser.Console
 {
     internal class ReportOptionsBuilder
     {
-        private readonly ILogger _logger;
+        private readonly SpectreLogger _logger;
 
-        internal ReportOptionsBuilder(ILogger logger)
+        internal ReportOptionsBuilder(SpectreLogger logger)
         {
             _logger = logger;
         }
@@ -40,13 +41,15 @@ namespace RioParser.Console
 
             if (string.IsNullOrEmpty(resolvedPath))
             {
-                _logger.Paragraph($"A path is required, please provide it via \"--{nameof(path)} xxx\" or in the configuration.json.");
+                _logger.LogArtefacts(
+                    new[] { new SimpleArtefact($"A path is required, please provide it via \"--{nameof(path)} xxx\" or in the configuration.json.", ArtefactLevel.Error) });
                 return (false, null);
             }
 
             if (!Directory.Exists(resolvedPath))
             {
-                _logger.Paragraph($"The path {resolvedPath} does not exist. Please set a valid path.");
+                _logger.LogArtefact(
+                    new SimpleArtefact($"The path {resolvedPath} does not exist. Please set a valid path.", ArtefactLevel.Error));
                 return (false, null);
             }
 
@@ -54,17 +57,22 @@ namespace RioParser.Console
             {
                 LogOptions(resolvedPath, resolvedHero, resolvedGameType, resolvedReportType);
             }
-            
+
             return (true, new ReportOptions(resolvedPath, resolvedHero, resolvedGameType, resolvedReportType, verbose));
         }
 
-        private  void LogOptions(string resolvedPath, string resolvedHero, GameType resolvedGameType, ReportType resolvedReportType)
+        private void LogOptions(string resolvedPath, string resolvedHero, GameType resolvedGameType, ReportType resolvedReportType)
         {
-            _logger.Paragraph("Configuration");
-            _logger.Log("- Report type:             " + resolvedReportType);
-            _logger.Log("- Game type:               " + resolvedGameType);
-            _logger.Log("- Hero name:               " + resolvedHero);
-            _logger.Log("- Hand history files path: " + resolvedPath);
+            var configuration = new[]
+            {
+                "- Report type:             " + resolvedReportType,
+                "- Game type:               " + resolvedGameType,
+                "- Hero name:               " + resolvedHero,
+                "- Hand history files path: " + resolvedPath
+            };
+
+            var group = new CollectionArtefact("Configuration", configuration);
+            _logger.LogArtefact(group);
         }
     }
 }

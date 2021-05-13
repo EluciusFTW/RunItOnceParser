@@ -1,4 +1,5 @@
-﻿using RioParser.Domain.Extensions;
+﻿using RioParser.Domain.Artefact;
+using RioParser.Domain.Extensions;
 using RioParser.Domain.Hands;
 using System.Collections.Generic;
 using System.Linq;
@@ -55,31 +56,32 @@ namespace RioParser.Domain.Reports.CashGame
             }
         }
 
-        public override void AppendReport(StringBuilder builder)
+        public override IEnumerable<IReportArtefact> Artifacts()
         {
-            builder
-                .AppendLine("Splash")
-                .AppendLine($" - occurrences:            {_handsWithSplash}")
-                .AppendLine($" - splash frequency:      {(double)_handsWithSplash / _hands:P2}")
-                .AppendLine($" - total amount:          {_totalSplash:F2}€");
+            yield return new TableArtefact(new[] { "Splash", string.Empty }, Rows());
 
+            var splashRows = _splashDistribution
+                .OrderBy(kvp => kvp.Key)
+                .ToDictionary(kvp => $" - {kvp.Key}BB", kvp => kvp.Value);
+
+            yield return new ValueCollectionArtefact("Splash distibution", splashRows);
+
+            if (_bigSplashes.Any()) 
+            {
+                yield return new SimpleArtefact($"Exceptional Splashes occurred in hands: {string.Join(", ", _bigSplashes)}");
+            }
+        }
+
+        private IEnumerable<IReadOnlyCollection<string>> Rows()
+        {
+            yield return new[] { "- occurences", $"{_handsWithSplash}" };
+            yield return new[] { "- splash frequency", $"{(double)_handsWithSplash / _hands:P2}" };
+            yield return new[] { "- total amount", $"{_totalSplash:F2}€" };
+            
             if (_includeHeroStatistics)
             {
-                builder
-                    .AppendLine($" - won by hero:           {_heroSplash:F2}€")
-                    .AppendLine($" - won by hero in BB/100: {_relativeHeroSplash:F2}");
-            }
-
-            builder
-                .AppendLine("Splash distribution");
-
-            _splashDistribution
-                .OrderBy(kvp => kvp.Key)
-                .ForEach(kvp => builder.AppendLine($" - {kvp.Key,3}BB {kvp.Value,18} Splash{(kvp.Value > 1 ? @"es" : string.Empty)}"));
-
-            if (_bigSplashes.Any())
-            {
-                builder.AppendLine($"Exceptional Splashes occurred in hands: {string.Join(", ", _bigSplashes)}");
+                yield return new[] { "- won by hero", $"{_heroSplash:F2}€" };
+                yield return new[] { "- won by hero in BB/100", $"{_relativeHeroSplash:F2}" };
             }
         }
     }

@@ -1,8 +1,8 @@
-﻿using RioParser.Domain.Hands;
+﻿using RioParser.Domain.Artefact;
+using RioParser.Domain.Hands;
 using System;
 using System.Collections.Generic;
 using System.Linq;
-using System.Text;
 
 namespace RioParser.Domain.Reports.CashGame
 {
@@ -34,10 +34,9 @@ namespace RioParser.Domain.Reports.CashGame
         }
 
         protected abstract void ParseHand(string hero, CashGameHand hand);
-        public abstract void AppendReport(StringBuilder builder);
+        public abstract IEnumerable<IReportArtefact> Artifacts();
 
-        public void AppendStakeReport(StringBuilder builder)
-            => builder
-                .AppendLine($"----- Big Blind: {_bigBlind:F2}€ - {_gameType} - Hands: {_hands} -----");
+        public string StakeSummary()
+            => $"Big Blind: {_bigBlind:F2}€ - {_gameType} - Hands: {_hands}";
     }
 }
