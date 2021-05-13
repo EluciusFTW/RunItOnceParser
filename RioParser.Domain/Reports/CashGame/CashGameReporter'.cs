@@ -32,7 +32,10 @@ namespace RioParser.Domain.Reports.CashGame
             var hands = filteredSessions
                 .SelectMany(file =>
                 {
-                    processingReport.Add($"Processing {file.Name} containing {file.Hands.Count} hands.");
+                    if (_reportOptions.Verbose)
+                    {
+                        processingReport.Add($"Processing {file.Name} containing {file.Hands.Count} hands.");
+                    }
                     return file.Hands;
                 })
                 .ToList();

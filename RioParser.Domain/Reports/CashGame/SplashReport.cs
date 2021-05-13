@@ -76,7 +76,7 @@ namespace RioParser.Domain.Reports.CashGame
         {
             yield return new[] { "- occurences", $"{_handsWithSplash}" };
             yield return new[] { "- splash frequency", $"{(double)_handsWithSplash / _hands:P2}" };
-            yield return new[] { "- totam amount", $"{_totalSplash:F2}€" };
+            yield return new[] { "- total amount", $"{_totalSplash:F2}€" };
             
             if (_includeHeroStatistics)
             {
